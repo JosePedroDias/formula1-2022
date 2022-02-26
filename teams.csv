@@ -1,11 +1,11 @@
-id,team,country,engine,car_name,color
-01,alfa romeo,ch,ferrari,C42,#9d0000
-02,alpha tauri,it,red bull powertrains,AT03,#244565
-03,alpine,fr,renault,A522,#0090ff
-04,aston martin,en,mercedes,AMR22,#007162
-05,ferrari,it,ferrari,F1-75,#f00000
-06,haas,us,ferrari,VF-22,#ffffff
-07,mclaren,en,mercedes,MCL36,#ff9300
-08,mercedes,de,mercedes,W13,#00d6be
-09,red bull racing,at,red bull powertrains,RB18,#1d00f9
-10,williams,en,mercedes,FW44,#0055ff
+id,team,country,engine,car_name,url,color1,color2,color3
+01,alfa romeo,ch,ferrari,C42,https://www.sauber-group.com/motorsport/formula-1/,#FFFFFF,#A51D2F,#FFFFFF
+02,alpha tauri,it,red bull powertrains,AT03,https://scuderia.alphatauri.com/en/,#EEEEEE,#001027,#EEEEEE
+03,alpine,fr,renault,A522,https://www.alpinecars.com/en/formula-1/news/,#0A2376,#DA59C2,#010202
+04,aston martin,en,mercedes,AMR22,https://www.astonmartinf1.com/en-GB/,#016A6E,#CEDC00,#FDFEFE
+05,ferrari,it,ferrari,F1-75,https://www.ferrari.com/en-EN/formula1,#CE0527,#121214,#FFED00
+06,haas,us,ferrari,VF-22,https://www.haasf1team.com/,#E3E6EB,#E6002D,#172DA6
+07,mclaren,en,mercedes,MCL36,https://www.mclaren.com/racing/,#FD9E1A,#64D3FD,#342D27
+08,mercedes,de,mercedes,W13,https://www.mercedesamgf1.com/en/,#A6A6AE,#007C94,#EC1120
+09,red bull racing,at,red bull powertrains,RB18,https://www.redbullracing.com/int-en,#192336,#FDDA50,#FB2E41
+10,williams,en,mercedes,FW44,https://www.williamsf1.com/,#001E94,#1E82C5,#F92A2F
