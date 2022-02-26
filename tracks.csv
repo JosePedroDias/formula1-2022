@@ -1,0 +1,26 @@
+nr,date,venue name,city,country,url,laps,length,lap,zones,drs
+01,2022/03/18,Bahrain International Circuit,Sakhir,Bahrain,https://www.formula1.com/en/racing/2022/Bahrain/Circuit.html,57,5412,1:31.447,3,3
+02,2022/03/25,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,https://www.formula1.com/en/racing/2022/Saudi_Arabia/Circuit.html,50,6174,1:30.734,3,3
+03,2022/04/08,Melbourne Grand Prix Circuit,Adelaide,Australia,https://www.formula1.com/en/racing/2022/Australia/Circuit.html,58,5303,1:24.125,3,2
+04,2022/04/22,Autodromo Enzo e Dino Ferrari,Imola / Emilia Romagna,Italy,https://www.formula1.com/en/racing/2022/EmiliaRomagna/Circuit.html,63,4909,1:15.484,3,1
+05,2022/05/06,Miami International Autodrome,Miami,Unites States,https://www.formula1.com/en/racing/2022/Miami/Circuit.html,57,5410,0:00.000,0,0
+06,2022/05/22,Barcelona Catalunya,Barcelona,Spain,https://www.formula1.com/en/racing/2022/Spain/Circuit.html,66,4675,1:18.149,3,2
+07,2022/05/27,Circuit de Monaco,Monaco,Monaco,https://www.formula1.com/en/racing/2022/Monaco/Circuit.html,78,3337,1:12.909,3,1
+08,2022/06/10,Baku City Circuit,Baku,Azerbaijan,https://www.formula1.com/en/racing/2022/Azerbaijan/Circuit.html,51,6003,1:43.009,3,2
+09,2022/06/17,Circuit Gilles-Villeneuve,Montreal,Canada,https://www.formula1.com/en/racing/2022/Canada/Circuit.html,70,4361,1:13.078,3,2
+10,2022/07/01,Silverstone Circuit,Silverstone,England,https://www.formula1.com/en/racing/2022/Great_Britain/Circuit.html,52,5891,1:27.097,3,2
+11,2022/07/08,Red Bull Ring,Spielberg,Austria,https://www.formula1.com/en/racing/2022/Austria/Circuit.html,71,4318,1:05.619,3,3
+12,2022/07/22,Circuit Paul Ricard,Le Castellet,France,https://www.formula1.com/en/racing/2022/France/Circuit.html,53,5842,1:32.740,3,2
+13,2022/07/29,Hungaroring,Budapest,Hungary,https://www.formula1.com/en/racing/2022/Hungary/Circuit.html,70,4381,1:16.627,3,1
+14,2022/08/26,Circuit de Spa-Francorchamps,Stavelot,Belgium,https://www.formula1.com/en/racing/2022/Belgium/Circuit.html,44,7004,1:46.286,3,2
+15,2022/09/02,Circuit Zandvoort,Zandvoort,Netherlands,https://www.formula1.com/en/racing/2022/Netherlands/Circuit.html,72,4259,1:11.097,3,2
+16,2022/09/09,Autodromo Nazionale Monza,Monza,Italy,https://www.formula1.com/en/racing/2022/Italy/Circuit.html,53,5793,1:21.046,3,2
+17,2022/09/30,Marina Bay Street Circuit,Singapore,Singapore,https://www.formula1.com/en/racing/2022/Singapore/Circuit.html,61,5063,1:41.905,3,3
+18,2022/10/07,Suzuka International Racing Course,Suzuka,Japan,https://www.formula1.com/en/racing/2022/Japan/Circuit.html,53,5807,1:30.983,3,1
+19,2022/10/21,Circuit of The Americas,Austin,United States,https://www.formula1.com/en/racing/2022/United_States/Circuit.html,56,5513,1:36.169,3,2
+20,2022/10/28,Autódromo Hermanos Rodríguez,Mexico City,Mexico,https://www.formula1.com/en/racing/2022/Mexico/Circuit.html,71,4304,1:17.774,3,2
+21,2022/11/11,Autódromo José Carlos Pace,São Paulo,Brazil,https://www.formula1.com/en/racing/2022/Brazil/Circuit.html,71,4309,1:10.540,3,2
+22,2022/11/18,Yas Marina Circuit,Yas Island,Abu Dhabi,https://www.formula1.com/en/racing/2022/United_Arab_Emirates/Circuit.html,58,5281,1:26.103,3,2
+
+00,2021/05/02,Autódromo Internacional do Algarve,Portimão,Portugal,https://www.formula1.com/en/racing/2021/Portugal/Circuit.html,66,4653,1:18.750,3,1
+00,2021/09/26,Sochi Autodrom,Sochi,Russia,https://www.formula1.com/en/racing/2021/Russia/Circuit.html,53,5848,1:35.761,3,2

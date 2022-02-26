@@ -1,0 +1,21 @@
+number,driver,country,team,team_id
+01,max verstappen,nl,red bull racing,09
+03,daniel ricciardo,au,mclaren,07
+04,lando norris,en,mclaren,07
+05,sebastian vettel,de,aston martin,04
+06,nicholas latifi,ca,williams,10
+09,nikita mazepin,ru,haas,06
+10,pierre gasly,fr,alpha tauri,02
+11,sergio perez,mx,red bull racing,09
+14,fernando alonso,es,alpine,03
+16,charles leclerc,mo,ferrari,05
+18,lance stroll,ca,aston martin,04
+22,yuki tsunoda,jp,alpha tauri,02
+31,esteban ocon,fr,alpine,03
+44,lewis hamilton,en,mercedes,08
+47,mick schumacher,de,haas,06
+55,carlos sainz jr,es,ferrari,05
+63,george russell,en,mercedes,08
+77,valtteri bottas,fi,alfa romeo,01
+23,alexander albon,th,williams,10
+24,guanyu zhou,cn,alfa romeo,01
