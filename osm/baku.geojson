@@ -1,0 +1,1579 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_ref": "E 60",
+                "lanes": "2",
+                "maxspeed": "60",
+                "name": "Neftçilər Prospekti",
+                "name:az": "Neftçilər Prospekti",
+                "name:az-cyr": "Нефтчиләр проспекти",
+                "name:ru": "проспект Нефтяников",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83574490000,
+                        40.36375990000
+                    ],
+                    [
+                        49.83587370000,
+                        40.36394860000
+                    ],
+                    [
+                        49.83600240000,
+                        40.36411810000
+                    ],
+                    [
+                        49.83605370000,
+                        40.36417020000
+                    ],
+                    [
+                        49.83611540000,
+                        40.36422130000
+                    ],
+                    [
+                        49.83623870000,
+                        40.36431120000
+                    ],
+                    [
+                        49.83657250000,
+                        40.36453990000
+                    ],
+                    [
+                        49.83745170000,
+                        40.36516610000
+                    ],
+                    [
+                        49.83797850000,
+                        40.36554080000
+                    ],
+                    [
+                        49.83807840000,
+                        40.36563370000
+                    ],
+                    [
+                        49.83810160000,
+                        40.36567640000
+                    ],
+                    [
+                        49.83812170000,
+                        40.36572950000
+                    ],
+                    [
+                        49.83818010000,
+                        40.36597060000
+                    ],
+                    [
+                        49.83837000000,
+                        40.36680350000
+                    ],
+                    [
+                        49.83839150000,
+                        40.36686480000
+                    ],
+                    [
+                        49.83842150000,
+                        40.36692290000
+                    ],
+                    [
+                        49.83844800000,
+                        40.36696480000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "alt_name": "Xəqani küç.",
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "60",
+                "name": "Xaqani küçəsi",
+                "name:az": "Xaqani küçəsi",
+                "name:en": "Khagani Street",
+                "name:ru": "улица Хагани",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84410840000,
+                        40.37305940000
+                    ],
+                    [
+                        49.84426080000,
+                        40.37311120000
+                    ],
+                    [
+                        49.84672140000,
+                        40.37397220000
+                    ],
+                    [
+                        49.84678780000,
+                        40.37399380000
+                    ],
+                    [
+                        49.84686770000,
+                        40.37401980000
+                    ],
+                    [
+                        49.84965380000,
+                        40.37497840000
+                    ],
+                    [
+                        49.84973980000,
+                        40.37500800000
+                    ],
+                    [
+                        49.84986570000,
+                        40.37504480000
+                    ],
+                    [
+                        49.85012430000,
+                        40.37512870000
+                    ],
+                    [
+                        49.85150180000,
+                        40.37553610000
+                    ],
+                    [
+                        49.85162730000,
+                        40.37557630000
+                    ],
+                    [
+                        49.85181710000,
+                        40.37563620000
+                    ],
+                    [
+                        49.85289550000,
+                        40.37596530000
+                    ],
+                    [
+                        49.85349950000,
+                        40.37614230000
+                    ],
+                    [
+                        49.85359460000,
+                        40.37617020000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "enforcement": "maxspeed",
+                "highway": "speed_camera",
+                "maxspeed": "60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.83908950000,
+                    40.36735220000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bus": "yes",
+                "name": "Sahil metrostansiyası",
+                "name:ru": "Станция метро «Сахил»",
+                "public_transport": "stop_position"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.84464940000,
+                    40.37095000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "3",
+                "name": "Bülbül prospekti",
+                "name:az": "Bülbül prospekti",
+                "name:en": "Bulbul Avenue",
+                "name:ru": "проспект Бюльбюля",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84410840000,
+                        40.37305940000
+                    ],
+                    [
+                        49.84414680000,
+                        40.37298290000
+                    ],
+                    [
+                        49.84447980000,
+                        40.37231800000
+                    ],
+                    [
+                        49.84452590000,
+                        40.37222580000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "int_ref": "AH8",
+                "maxspeed": "60",
+                "name": "İstiqlaliyyət küçəsi",
+                "name:en": "Istiglaliyat str.",
+                "name:ru": "улица Истиглалиййят",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83098960000,
+                        40.36612690000
+                    ],
+                    [
+                        49.83099890000,
+                        40.36616300000
+                    ],
+                    [
+                        49.83103190000,
+                        40.36625440000
+                    ],
+                    [
+                        49.83113930000,
+                        40.36653010000
+                    ],
+                    [
+                        49.83136960000,
+                        40.36716050000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_name": "Neftchilar Prospect",
+                "int_ref": "E 60",
+                "maxspeed": "60",
+                "name": "Neftçilər Prospekti",
+                "name:az": "Neftçilər Prospekti",
+                "name:az-cyr": "Нефтчиләр проспекти",
+                "name:ru": "проспект Нефтяников",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84076700000,
+                        40.36849130000
+                    ],
+                    [
+                        49.84003540000,
+                        40.36805290000
+                    ],
+                    [
+                        49.83932270000,
+                        40.36763200000
+                    ],
+                    [
+                        49.83899680000,
+                        40.36745010000
+                    ],
+                    [
+                        49.83855450000,
+                        40.36720330000
+                    ],
+                    [
+                        49.83840620000,
+                        40.36711440000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "raceway",
+                "oneway": "yes",
+                "sport": "motor",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83324570000,
+                        40.36306490000
+                    ],
+                    [
+                        49.83447040000,
+                        40.36263420000
+                    ],
+                    [
+                        49.83463590000,
+                        40.36260220000
+                    ],
+                    [
+                        49.83480090000,
+                        40.36260640000
+                    ],
+                    [
+                        49.83488480000,
+                        40.36263180000
+                    ],
+                    [
+                        49.83495260000,
+                        40.36265230000
+                    ],
+                    [
+                        49.83504240000,
+                        40.36270080000
+                    ],
+                    [
+                        49.83513170000,
+                        40.36279090000
+                    ],
+                    [
+                        49.83523340000,
+                        40.36294090000
+                    ],
+                    [
+                        49.83543020000,
+                        40.36323120000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.85396990000,
+                    40.37550930000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_ref": "E 60;AH8",
+                "lanes": "3",
+                "lit": "yes",
+                "name": "Neftçilər Prospekti",
+                "name:az-cyr": "Нефтчиләр проспекти",
+                "name:ru": "проспект Нефтяников",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83543020000,
+                        40.36323120000
+                    ],
+                    [
+                        49.83546900000,
+                        40.36333440000
+                    ],
+                    [
+                        49.83554820000,
+                        40.36347230000
+                    ],
+                    [
+                        49.83562910000,
+                        40.36358900000
+                    ],
+                    [
+                        49.83574490000,
+                        40.36375990000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_ref": "E 60",
+                "lanes": "4",
+                "maxspeed": "60",
+                "name": "Neftçilər Prospekti",
+                "name:az": "Neftçilər Prospekti",
+                "name:az-cyr": "Нефтчиләр проспекти",
+                "name:ru": "проспект Нефтяников",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84567140000,
+                        40.37021240000
+                    ],
+                    [
+                        49.84750020000,
+                        40.37082930000
+                    ],
+                    [
+                        49.84796950000,
+                        40.37098760000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "int_ref": "AH8",
+                "maxspeed": "60",
+                "name": "İstiqlaliyyət küçəsi",
+                "name:az": "İstiqlaliyyət küçəsi",
+                "name:en": "Istiglaliyat str.",
+                "name:ru": "улица Истиглалиййят",
+                "oneway": "yes",
+                "wikidata": "Q4472311",
+                "wikipedia": "en:Istiglaliyyat Street"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83136960000,
+                        40.36716050000
+                    ],
+                    [
+                        49.83157670000,
+                        40.36769220000
+                    ],
+                    [
+                        49.83164600000,
+                        40.36780160000
+                    ],
+                    [
+                        49.83170600000,
+                        40.36787480000
+                    ],
+                    [
+                        49.83240120000,
+                        40.36824610000
+                    ],
+                    [
+                        49.83307910000,
+                        40.36853970000
+                    ],
+                    [
+                        49.83393740000,
+                        40.36883060000
+                    ],
+                    [
+                        49.83463210000,
+                        40.36908560000
+                    ],
+                    [
+                        49.83475880000,
+                        40.36913210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_ref": "E 60",
+                "lanes": "3",
+                "maxspeed": "60",
+                "name": "Neftçilər Prospekti",
+                "name:az": "Neftçilər Prospekti",
+                "name:az-cyr": "Нефтчиләр проспекти",
+                "name:ru": "проспект Нефтяников",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83844800000,
+                        40.36696480000
+                    ],
+                    [
+                        49.83853680000,
+                        40.36703760000
+                    ],
+                    [
+                        49.83908950000,
+                        40.36735220000
+                    ],
+                    [
+                        49.83935490000,
+                        40.36750330000
+                    ],
+                    [
+                        49.83990470000,
+                        40.36783230000
+                    ],
+                    [
+                        49.84131110000,
+                        40.36869590000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_ref": "E 60",
+                "lanes": "4",
+                "maxspeed": "60",
+                "name": "Neftçilər Prospekti",
+                "name:az": "Neftçilər Prospekti",
+                "name:az-cyr": "Нефтчиләр проспекти",
+                "name:ru": "проспект Нефтяников",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84131110000,
+                        40.36869590000
+                    ],
+                    [
+                        49.84156090000,
+                        40.36882990000
+                    ],
+                    [
+                        49.84182840000,
+                        40.36893080000
+                    ],
+                    [
+                        49.84273420000,
+                        40.36925950000
+                    ],
+                    [
+                        49.84346470000,
+                        40.36950230000
+                    ],
+                    [
+                        49.84536890000,
+                        40.37011630000
+                    ],
+                    [
+                        49.84567140000,
+                        40.37021240000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "60",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83582290000,
+                        40.36938740000
+                    ],
+                    [
+                        49.83587940000,
+                        40.36937220000
+                    ],
+                    [
+                        49.83591920000,
+                        40.36935270000
+                    ],
+                    [
+                        49.83595180000,
+                        40.36931890000
+                    ],
+                    [
+                        49.83598220000,
+                        40.36926550000
+                    ],
+                    [
+                        49.83618090000,
+                        40.36892720000
+                    ],
+                    [
+                        49.83619230000,
+                        40.36890620000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "lit": "yes",
+                "name": "Puşkin küçəsi",
+                "name:az": "Puşkin küçəsi",
+                "name:az-cyr": "Пушкин күчәси",
+                "name:en": "Pushkin Street",
+                "name:ru": "улица Пушкина",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.85466050000,
+                        40.37439500000
+                    ],
+                    [
+                        49.85481710000,
+                        40.37411710000
+                    ],
+                    [
+                        49.85489880000,
+                        40.37397210000
+                    ],
+                    [
+                        49.85520460000,
+                        40.37333710000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "raceway",
+                "oneway": "yes",
+                "sport": "motor",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83840620000,
+                        40.36711440000
+                    ],
+                    [
+                        49.83833150000,
+                        40.36706680000
+                    ],
+                    [
+                        49.83826310000,
+                        40.36704250000
+                    ],
+                    [
+                        49.83818570000,
+                        40.36703100000
+                    ],
+                    [
+                        49.83809910000,
+                        40.36704720000
+                    ],
+                    [
+                        49.83804150000,
+                        40.36706740000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "zebra",
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.84678780000,
+                    40.37399380000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "name": "Əziz Əliyev küçəsi",
+                "name:az": "Əziz Əliyev küçəsi",
+                "name:en": "Aziz Aliyev str.",
+                "name:ru": "улица Азиза Алиева",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83634040000,
+                        40.36882660000
+                    ],
+                    [
+                        49.83639900000,
+                        40.36882420000
+                    ],
+                    [
+                        49.83656330000,
+                        40.36883270000
+                    ],
+                    [
+                        49.83670570000,
+                        40.36883390000
+                    ],
+                    [
+                        49.83676840000,
+                        40.36882870000
+                    ],
+                    [
+                        49.83685010000,
+                        40.36880560000
+                    ],
+                    [
+                        49.83706630000,
+                        40.36871030000
+                    ],
+                    [
+                        49.83712160000,
+                        40.36869710000
+                    ],
+                    [
+                        49.83721270000,
+                        40.36869160000
+                    ],
+                    [
+                        49.83724640000,
+                        40.36868640000
+                    ],
+                    [
+                        49.83728350000,
+                        40.36867380000
+                    ],
+                    [
+                        49.83730700000,
+                        40.36866440000
+                    ],
+                    [
+                        49.83733210000,
+                        40.36864950000
+                    ],
+                    [
+                        49.83735760000,
+                        40.36862780000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "int_ref": "AH8",
+                "name": "İstiqlaliyyət küçəsi",
+                "name:en": "Istiglaliyat str.",
+                "name:ru": "улица Истиглалиййят",
+                "oneway": "no",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83098960000,
+                        40.36612690000
+                    ],
+                    [
+                        49.83097670000,
+                        40.36607960000
+                    ],
+                    [
+                        49.83096130000,
+                        40.36593100000
+                    ],
+                    [
+                        49.83095800000,
+                        40.36579870000
+                    ],
+                    [
+                        49.83098480000,
+                        40.36526000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_name": "Neftchilar Prospect",
+                "int_ref": "E 60",
+                "maxspeed": "60",
+                "name": "Neftçilər Prospekti",
+                "name:az": "Neftçilər Prospekti",
+                "name:az-cyr": "Нефтчиләр проспекти",
+                "name:ru": "проспект Нефтяников",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84175950000,
+                        40.36907780000
+                    ],
+                    [
+                        49.84114860000,
+                        40.36872480000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.84334650000,
+                    40.37052040000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "name": "Puşkin küçəsi",
+                "name:az": "Puşkin küçəsi",
+                "name:az-cyr": "Пушкин күчәси",
+                "name:en": "Pushkin Street",
+                "name:ru": "улица Пушкина",
+                "oneway": "no",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.85405530000,
+                        40.37535880000
+                    ],
+                    [
+                        49.85411800000,
+                        40.37525780000
+                    ],
+                    [
+                        49.85414810000,
+                        40.37521000000
+                    ],
+                    [
+                        49.85462930000,
+                        40.37444470000
+                    ],
+                    [
+                        49.85466050000,
+                        40.37439500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Əziz Əliyev küç.",
+                "highway": "primary",
+                "maxspeed": "60",
+                "name": "Əziz Əliyev küçəsi",
+                "name:az": "Əziz Əliyev küçəsi",
+                "name:en": "Aziz Aliyev Street",
+                "name:ru": "улица Азиза Алиева",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83735760000,
+                        40.36862780000
+                    ],
+                    [
+                        49.83743300000,
+                        40.36846360000
+                    ],
+                    [
+                        49.83744690000,
+                        40.36843340000
+                    ],
+                    [
+                        49.83776930000,
+                        40.36768020000
+                    ],
+                    [
+                        49.83797850000,
+                        40.36719160000
+                    ],
+                    [
+                        49.83804150000,
+                        40.36706740000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "zebra",
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.84447980000,
+                    40.37231800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_ref": "E 60",
+                "lanes": "3",
+                "maxspeed": "60",
+                "name": "Zərifə Əliyeva küçəsi",
+                "name:az": "Zərifə Əliyeva küçəsi",
+                "name:en": "Zarifa Aliyeva Street",
+                "name:ru": "улица Зарифы Алиевой",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84514770000,
+                        40.37112290000
+                    ],
+                    [
+                        49.84464940000,
+                        40.37095000000
+                    ],
+                    [
+                        49.84334650000,
+                        40.37052040000
+                    ],
+                    [
+                        49.84322730000,
+                        40.37048110000
+                    ],
+                    [
+                        49.84183560000,
+                        40.36980460000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.85414810000,
+                    40.37521000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "zebra",
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.85399400000,
+                    40.37546670000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "int_ref": "AH8",
+                "name": "İstiqlaliyyət küçəsi",
+                "name:en": "Istiglaliyat str.",
+                "name:ru": "улица Истиглалиййят",
+                "oneway": "no",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83098480000,
+                        40.36526000000
+                    ],
+                    [
+                        49.83108620000,
+                        40.36390210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_ref": "E 60",
+                "lanes": "4",
+                "maxspeed": "60",
+                "name": "Neftçilər Prospekti",
+                "name:az": "Neftçilər Prospekti",
+                "name:az-cyr": "Нефтчиләр проспекти",
+                "name:ru": "проспект Нефтяников",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "left|left;through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84796950000,
+                        40.37098760000
+                    ],
+                    [
+                        49.84860290000,
+                        40.37118520000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_ref": "E 60",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84183560000,
+                        40.36980460000
+                    ],
+                    [
+                        49.84177250000,
+                        40.36975280000
+                    ],
+                    [
+                        49.84173540000,
+                        40.36970620000
+                    ],
+                    [
+                        49.84171230000,
+                        40.36965780000
+                    ],
+                    [
+                        49.84170270000,
+                        40.36960800000
+                    ],
+                    [
+                        49.84174620000,
+                        40.36950430000
+                    ],
+                    [
+                        49.84184250000,
+                        40.36924900000
+                    ],
+                    [
+                        49.84183660000,
+                        40.36921730000
+                    ],
+                    [
+                        49.84181880000,
+                        40.36916610000
+                    ],
+                    [
+                        49.84180100000,
+                        40.36912850000
+                    ],
+                    [
+                        49.84178320000,
+                        40.36910740000
+                    ],
+                    [
+                        49.84175950000,
+                        40.36907780000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.84672140000,
+                    40.37397220000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "60",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83619230000,
+                        40.36890620000
+                    ],
+                    [
+                        49.83623440000,
+                        40.36886880000
+                    ],
+                    [
+                        49.83627170000,
+                        40.36884920000
+                    ],
+                    [
+                        49.83634040000,
+                        40.36882660000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "int_ref": "AH8",
+                "name": "Niyazi küçəsi",
+                "name:en": "Niyazi str.",
+                "name:ru": "улица Ниязи",
+                "oneway": "no",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83108620000,
+                        40.36390210000
+                    ],
+                    [
+                        49.83193750000,
+                        40.36358020000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "zebra",
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.84414680000,
+                    40.37298290000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.84507890000,
+                    40.37124490000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "int_ref": "AH8",
+                "name": "Niyazi küçəsi",
+                "name:en": "Niyazi str.",
+                "name:ru": "улица Ниязи",
+                "oneway": "no",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83193750000,
+                        40.36358020000
+                    ],
+                    [
+                        49.83324570000,
+                        40.36306490000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "enforcement": "maxspeed",
+                "highway": "speed_camera",
+                "maxspeed": "60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.83899680000,
+                    40.36745010000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.83776930000,
+                    40.36768020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "zebra",
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.83463210000,
+                    40.36908560000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_name": "Neftchilar Prospect",
+                "int_ref": "E 60",
+                "maxspeed": "60",
+                "name": "Neftçilər Prospekti",
+                "name:az": "Neftçilər Prospekti",
+                "name:az-cyr": "Нефтчиләр проспекти",
+                "name:ru": "проспект Нефтяников",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84114860000,
+                        40.36872480000
+                    ],
+                    [
+                        49.84076700000,
+                        40.36849130000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_ref": "E 60",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "Neftçilər Prospekti",
+                "name:az": "Neftçilər Prospekti",
+                "name:az-cyr": "Нефтчиләр проспекти",
+                "name:ru": "проспект Нефтяников",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.85150710000,
+                        40.37211420000
+                    ],
+                    [
+                        49.85520460000,
+                        40.37333710000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.83804150000,
+                    40.36706740000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "zebra",
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.85411800000,
+                    40.37525780000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.84536890000,
+                    40.37011630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "maxspeed": "50",
+                "name": "Puşkin küçəsi",
+                "name:az": "Puşkin küçəsi",
+                "name:az-cyr": "Пушкин күчәси",
+                "name:en": "Pushkin Street",
+                "name:ru": "улица Пушкина",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.85405530000,
+                        40.37535880000
+                    ],
+                    [
+                        49.85399400000,
+                        40.37546670000
+                    ],
+                    [
+                        49.85396990000,
+                        40.37550930000
+                    ],
+                    [
+                        49.85386080000,
+                        40.37570140000
+                    ],
+                    [
+                        49.85359460000,
+                        40.37617020000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "int_ref": "E 60",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "Neftçilər Prospekti",
+                "name:az": "Neftçilər Prospekti",
+                "name:az-cyr": "Нефтчиләр проспекти",
+                "name:ru": "проспект Нефтяников",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84860290000,
+                        40.37118520000
+                    ],
+                    [
+                        49.84867240000,
+                        40.37120740000
+                    ],
+                    [
+                        49.84873420000,
+                        40.37122720000
+                    ],
+                    [
+                        49.85008970000,
+                        40.37166080000
+                    ],
+                    [
+                        49.85049850000,
+                        40.37179160000
+                    ],
+                    [
+                        49.85059750000,
+                        40.37182320000
+                    ],
+                    [
+                        49.85150710000,
+                        40.37211420000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "name": "Bülbül prospekti",
+                "name:az": "Bülbül prospekti",
+                "name:en": "Bulbul Avenue",
+                "name:ru": "проспект Бюльбюля",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.84452590000,
+                        40.37222580000
+                    ],
+                    [
+                        49.84507890000,
+                        40.37124490000
+                    ],
+                    [
+                        49.84514770000,
+                        40.37112290000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "zebra",
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.84426080000,
+                    40.37311120000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "maxspeed": "60",
+                "name": "İstiqlaliyyət küçəsi",
+                "name:en": "Istiglaliyat str.",
+                "name:ru": "улица Истиглалиййят"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.83475880000,
+                        40.36913210000
+                    ],
+                    [
+                        49.83582290000,
+                        40.36938740000
+                    ]
+                ]
+            }
+        }
+    ]
+}

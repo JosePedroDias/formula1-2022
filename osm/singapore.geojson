@@ -1,0 +1,3338 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxheight": "4.5",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "tunnel": "building_passage"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85921964023,
+                        1.29143004881
+                    ],
+                    [
+                        103.85935124023,
+                        1.29142054881
+                    ],
+                    [
+                        103.85942544023,
+                        1.29141524881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86098534023,
+                        1.29130294881
+                    ],
+                    [
+                        103.86104974023,
+                        1.29130784881
+                    ],
+                    [
+                        103.86125664023,
+                        1.29131314881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85354724023,
+                    1.29254634882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "private",
+                "highway": "raceway",
+                "name": "F1 Marina-Bay-Street-Circuit",
+                "oneway": "yes",
+                "tunnel": "building_passage"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85985964023,
+                        1.28889914878
+                    ],
+                    [
+                        103.85991064023,
+                        1.28934794879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85505674023,
+                    1.29129474881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "raceway": "sometimes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "none|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85633434023,
+                        1.29019434880
+                    ],
+                    [
+                        103.85622224023,
+                        1.29029094880
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "lanes": "4",
+                "maxspeed": "70",
+                "name": "Esplanade Drive",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85497124023,
+                        1.29105344881
+                    ],
+                    [
+                        103.85493184023,
+                        1.29094424881
+                    ],
+                    [
+                        103.85474164023,
+                        1.29039654880
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "6",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through|none|none|none|none"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85626444023,
+                        1.29291914883
+                    ],
+                    [
+                        103.85656304023,
+                        1.29275164883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "lanes": "4",
+                "maxspeed": "70",
+                "name": "Esplanade Drive",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85375758560,
+                        1.28644235328
+                    ],
+                    [
+                        103.85358924631,
+                        1.28661725884
+                    ],
+                    [
+                        103.85343789518,
+                        1.28683714794
+                    ],
+                    [
+                        103.85320186079,
+                        1.28711066425
+                    ],
+                    [
+                        103.85283708036,
+                        1.28740563278
+                    ],
+                    [
+                        103.85253667295,
+                        1.28766842290
+                    ],
+                    [
+                        103.85242938459,
+                        1.28788830848
+                    ],
+                    [
+                        103.85238512814,
+                        1.28814037243
+                    ],
+                    [
+                        103.85239412305,
+                        1.28826540285
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85777464023,
+                        1.29204814882
+                    ],
+                    [
+                        103.85792654023,
+                        1.29196014882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "none|through|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85906594023,
+                        1.29144504881
+                    ],
+                    [
+                        103.85921964023,
+                        1.29143004881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "5",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86088124023,
+                        1.29130084881
+                    ],
+                    [
+                        103.86098534023,
+                        1.29130294881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals",
+                "traffic_signals": "signal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85366754023,
+                    1.29257454883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "private",
+                "highway": "raceway",
+                "name": "F1 Marina Bay Street Circuit",
+                "oneway": "yes",
+                "raceway": "pitlane"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85991064023,
+                        1.28934794879
+                    ],
+                    [
+                        103.85993874023,
+                        1.28945604879
+                    ],
+                    [
+                        103.85994734023,
+                        1.28950464879
+                    ],
+                    [
+                        103.85997124023,
+                        1.28955414879
+                    ],
+                    [
+                        103.86002164023,
+                        1.28958594879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "raceway": "sometimes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "none|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85703594023,
+                        1.28976474879
+                    ],
+                    [
+                        103.85692714023,
+                        1.28979614879
+                    ],
+                    [
+                        103.85683514023,
+                        1.28982564879
+                    ],
+                    [
+                        103.85678664023,
+                        1.28984894879
+                    ],
+                    [
+                        103.85671354023,
+                        1.28988424879
+                    ],
+                    [
+                        103.85662534023,
+                        1.28994224879
+                    ],
+                    [
+                        103.85659624023,
+                        1.28996134880
+                    ],
+                    [
+                        103.85650044023,
+                        1.29005014880
+                    ],
+                    [
+                        103.85640124023,
+                        1.29014214880
+                    ],
+                    [
+                        103.85633434023,
+                        1.29019434880
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Saint Andrew's Road",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85170144023,
+                        1.28948474879
+                    ],
+                    [
+                        103.85178824023,
+                        1.28964084879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "traffic_signals",
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86080204023,
+                    1.29130714881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85640124023,
+                    1.29014214880
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "lanes": "4",
+                "maxspeed": "70",
+                "name": "Esplanade Drive",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85505674023,
+                        1.29129474881
+                    ],
+                    [
+                        103.85497124023,
+                        1.29105344881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Saint Andrew's Road",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left|slight_left;slight_right|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85318104023,
+                        1.29214084882
+                    ],
+                    [
+                        103.85330104023,
+                        1.29236044882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "lanes": "4",
+                "maxspeed": "70",
+                "name": "Esplanade Drive",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85398284023,
+                        1.28663504876
+                    ],
+                    [
+                        103.85392895372,
+                        1.28646090729
+                    ],
+                    [
+                        103.85375758560,
+                        1.28644235328
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "tunnel": "building_passage",
+                "turn:lanes": "left;through|through|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85829264023,
+                        1.29175044882
+                    ],
+                    [
+                        103.85830834023,
+                        1.29174014882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|none|none|none|none"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85974974023,
+                        1.29139534881
+                    ],
+                    [
+                        103.86007744023,
+                        1.29137524881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85994734023,
+                    1.28950464879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86156384023,
+                        1.29131114881
+                    ],
+                    [
+                        103.86166474023,
+                        1.29131134881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "image": "https://images.mapillary.com/o72ouKUNKmshV92TGsV5zw/thumb-2048.jpg",
+                "lanes": "2",
+                "mapillary": "https://www.mapillary.com/map/im/o72ouKUNKmshV92TGsV5zw",
+                "maxspeed": "60",
+                "name": "Republic Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86257544023,
+                        1.29333234883
+                    ],
+                    [
+                        103.86247814023,
+                        1.29354714884
+                    ],
+                    [
+                        103.86242854023,
+                        1.29368924884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "raceway": "sometimes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through|through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85585844023,
+                        1.29063704880
+                    ],
+                    [
+                        103.85549994023,
+                        1.29091734881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Saint Andrew's Road",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85162354023,
+                        1.28931112966
+                    ],
+                    [
+                        103.85170144023,
+                        1.28948474879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86088124023,
+                    1.29130084881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85633434023,
+                    1.29019434880
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "lanes": "4",
+                "maxspeed": "70",
+                "name": "Esplanade Drive",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85455814023,
+                        1.28960164879
+                    ],
+                    [
+                        103.85454414023,
+                        1.28953254879
+                    ],
+                    [
+                        103.85449814023,
+                        1.28930604879
+                    ],
+                    [
+                        103.85448144023,
+                        1.28922394879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Saint Andrew's Road",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85304124023,
+                        1.29188514882
+                    ],
+                    [
+                        103.85313224023,
+                        1.29205164882
+                    ],
+                    [
+                        103.85318104023,
+                        1.29214084882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Connaught Drive",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through",
+                "turn:lanes:forward": "through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85168884023,
+                        1.28891994878
+                    ],
+                    [
+                        103.85191604023,
+                        1.28875144878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxheight": "4.5",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "tunnel": "building_passage"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85793864023,
+                        1.29195274882
+                    ],
+                    [
+                        103.85829264023,
+                        1.29175044882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85942544023,
+                        1.29141524881
+                    ],
+                    [
+                        103.85974974023,
+                        1.29139534881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86125664023,
+                        1.29131314881
+                    ],
+                    [
+                        103.86156384023,
+                        1.29131114881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85384074023,
+                    1.29246194882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "traffic_calming": "island"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85168884023,
+                    1.28891994878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "60",
+                "name": "Republic Boulevard",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86289764023,
+                        1.29150344881
+                    ],
+                    [
+                        103.86293884023,
+                        1.29158664881
+                    ],
+                    [
+                        103.86295444023,
+                        1.29166884881
+                    ],
+                    [
+                        103.86295784023,
+                        1.29177744882
+                    ],
+                    [
+                        103.86294734023,
+                        1.29191714882
+                    ],
+                    [
+                        103.86293944023,
+                        1.29202274882
+                    ],
+                    [
+                        103.86286974023,
+                        1.29245454882
+                    ],
+                    [
+                        103.86284314023,
+                        1.29257474883
+                    ],
+                    [
+                        103.86276744023,
+                        1.29281044883
+                    ],
+                    [
+                        103.86257544023,
+                        1.29333234883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Connaught Drive",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85240156907,
+                        1.28851561068
+                    ],
+                    [
+                        103.85233395802,
+                        1.28850715011
+                    ],
+                    [
+                        103.85224468378,
+                        1.28853134246
+                    ],
+                    [
+                        103.85212824023,
+                        1.28860694878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Saint Andrew's Road",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85247844023,
+                        1.29087934881
+                    ],
+                    [
+                        103.85257584023,
+                        1.29105464881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "5",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "raceway": "sometimes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through|through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85622224023,
+                        1.29029094880
+                    ],
+                    [
+                        103.85603914023,
+                        1.29043764880
+                    ],
+                    [
+                        103.85585844023,
+                        1.29063704880
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86098534023,
+                    1.29130294881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "lanes": "5",
+                "maxspeed": "70",
+                "name": "Esplanade Drive",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85474164023,
+                        1.29039654880
+                    ],
+                    [
+                        103.85471674023,
+                        1.29031194880
+                    ],
+                    [
+                        103.85467324023,
+                        1.29014794880
+                    ],
+                    [
+                        103.85465494023,
+                        1.29007884880
+                    ],
+                    [
+                        103.85464194023,
+                        1.29001414880
+                    ],
+                    [
+                        103.85463374023,
+                        1.28997384880
+                    ],
+                    [
+                        103.85456424023,
+                        1.28963174879
+                    ],
+                    [
+                        103.85455814023,
+                        1.28960164879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Stamford Road",
+                "oneway": "yes",
+                "source": "GPS & Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85397384023,
+                        1.29237544882
+                    ],
+                    [
+                        103.85384074023,
+                        1.29246194882
+                    ],
+                    [
+                        103.85366754023,
+                        1.29257454883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Connaught Drive",
+                "surface": "asphalt",
+                "turn:lanes": "through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85168884023,
+                        1.28891994878
+                    ],
+                    [
+                        103.85162506295,
+                        1.28902922966
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "lanes": "4",
+                "maxspeed": "70",
+                "name": "Nicoll Highway",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85491454023,
+                        1.29142124881
+                    ],
+                    [
+                        103.85495154023,
+                        1.29150644881
+                    ],
+                    [
+                        103.85497364023,
+                        1.29155734881
+                    ],
+                    [
+                        103.85512884023,
+                        1.29185294882
+                    ],
+                    [
+                        103.85534264023,
+                        1.29226014882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "5",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through|through;right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86042904023,
+                        1.29135364881
+                    ],
+                    [
+                        103.86080204023,
+                        1.29130714881
+                    ],
+                    [
+                        103.86088124023,
+                        1.29130084881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left|left|right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86209764023,
+                        1.29128064881
+                    ],
+                    [
+                        103.86239604023,
+                        1.29122594881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86104034023,
+                    1.28954414879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "image": "https://images.mapillary.com/AYKz9KrqqwYJuXU8KLXNuA/thumb-2048.jpg",
+                "lanes": "2",
+                "mapillary": "https://www.mapillary.com/map/im/AYKz9KrqqwYJuXU8KLXNuA",
+                "maxspeed": "60",
+                "name": "Republic Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86241484023,
+                        1.29376834884
+                    ],
+                    [
+                        103.86240304023,
+                        1.29383674884
+                    ],
+                    [
+                        103.86239504023,
+                        1.29398554884
+                    ],
+                    [
+                        103.86241984023,
+                        1.29431204885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "junction": "roundabout",
+                "lanes": "1",
+                "maxspeed": "50",
+                "name": "Connaught Drive",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85239412305,
+                        1.28826540285
+                    ],
+                    [
+                        103.85242670640,
+                        1.28834550553
+                    ],
+                    [
+                        103.85248169169,
+                        1.28841924763
+                    ],
+                    [
+                        103.85246962175,
+                        1.28849567126
+                    ],
+                    [
+                        103.85240156907,
+                        1.28851561068
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "traffic_signals",
+                "highway": "crossing",
+                "kerb": "lowered",
+                "tactile_paving": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85237794023,
+                    1.29070114880
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "private",
+                "highway": "raceway",
+                "name": "Marina Bay Street Circuit",
+                "oneway": "yes",
+                "sport": "motor",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86115344023,
+                        1.28952214879
+                    ],
+                    [
+                        103.86125594023,
+                        1.28946514879
+                    ],
+                    [
+                        103.86131124023,
+                        1.28940804879
+                    ],
+                    [
+                        103.86132604023,
+                        1.28934564879
+                    ],
+                    [
+                        103.86132604023,
+                        1.28919184879
+                    ],
+                    [
+                        103.86132764023,
+                        1.28910964879
+                    ],
+                    [
+                        103.86134714023,
+                        1.28903074878
+                    ],
+                    [
+                        103.86138184023,
+                        1.28894614878
+                    ],
+                    [
+                        103.86143834023,
+                        1.28887614878
+                    ],
+                    [
+                        103.86152444023,
+                        1.28882514878
+                    ],
+                    [
+                        103.86162504023,
+                        1.28880114878
+                    ],
+                    [
+                        103.86187934023,
+                        1.28877264878
+                    ],
+                    [
+                        103.86199034023,
+                        1.28876024878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Saint Andrew's Road",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85178824023,
+                        1.28964084879
+                    ],
+                    [
+                        103.85237794023,
+                        1.29070114880
+                    ],
+                    [
+                        103.85246064023,
+                        1.29084764881
+                    ],
+                    [
+                        103.85247844023,
+                        1.29087934881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "traffic_signals",
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86104974023,
+                    1.29130784881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "bridge:name": "Esplanade Bridge",
+                "highway": "trunk",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "70",
+                "name": "Esplanade Drive",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "start_date": "1997",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85420074023,
+                        1.28776534877
+                    ],
+                    [
+                        103.85398284023,
+                        1.28663504876
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Saint Andrew's Road",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85330104023,
+                        1.29236044882
+                    ],
+                    [
+                        103.85344444023,
+                        1.29248824882
+                    ],
+                    [
+                        103.85354724023,
+                        1.29254634882
+                    ],
+                    [
+                        103.85366754023,
+                        1.29257454883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "private",
+                "highway": "raceway",
+                "name": "Pit Lane",
+                "oneway": "yes",
+                "raceway": "pitlane",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86288974023,
+                        1.28867214878
+                    ],
+                    [
+                        103.86330264023,
+                        1.28869864878
+                    ],
+                    [
+                        103.86386164023,
+                        1.28872794878
+                    ],
+                    [
+                        103.86393384023,
+                        1.28873814878
+                    ],
+                    [
+                        103.86399014023,
+                        1.28876114878
+                    ],
+                    [
+                        103.86402174023,
+                        1.28878124878
+                    ],
+                    [
+                        103.86404944023,
+                        1.28880854878
+                    ],
+                    [
+                        103.86411074023,
+                        1.28889904878
+                    ],
+                    [
+                        103.86438514023,
+                        1.28931844879
+                    ],
+                    [
+                        103.86441314023,
+                        1.28938964879
+                    ],
+                    [
+                        103.86443004023,
+                        1.28949054879
+                    ],
+                    [
+                        103.86442524023,
+                        1.28961824879
+                    ],
+                    [
+                        103.86398564023,
+                        1.29255434883
+                    ],
+                    [
+                        103.86396044023,
+                        1.29272344883
+                    ],
+                    [
+                        103.86395404023,
+                        1.29282594883
+                    ],
+                    [
+                        103.86395064023,
+                        1.29293454883
+                    ],
+                    [
+                        103.86397754023,
+                        1.29362334884
+                    ],
+                    [
+                        103.86397564023,
+                        1.29368494884
+                    ],
+                    [
+                        103.86396604023,
+                        1.29376804884
+                    ],
+                    [
+                        103.86391224023,
+                        1.29397904884
+                    ],
+                    [
+                        103.86389154023,
+                        1.29403974884
+                    ],
+                    [
+                        103.86386274023,
+                        1.29411014884
+                    ],
+                    [
+                        103.86382024023,
+                        1.29415514884
+                    ],
+                    [
+                        103.86375424023,
+                        1.29419904884
+                    ],
+                    [
+                        103.86364314023,
+                        1.29424514884
+                    ],
+                    [
+                        103.86350604023,
+                        1.29427734884
+                    ],
+                    [
+                        103.86341834023,
+                        1.29430954885
+                    ],
+                    [
+                        103.86332504023,
+                        1.29435704885
+                    ],
+                    [
+                        103.86319274023,
+                        1.29446224885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Stamford Road",
+                "oneway": "yes",
+                "source": "GPS & Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85491454023,
+                        1.29142124881
+                    ],
+                    [
+                        103.85470404023,
+                        1.29163374881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "6",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left|through|through|through|through;right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86007744023,
+                        1.29137524881
+                    ],
+                    [
+                        103.86042904023,
+                        1.29135364881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85586359360,
+                    1.29308375526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "foot": "yes",
+                "highway": "primary",
+                "lanes": "3",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86166474023,
+                        1.29131134881
+                    ],
+                    [
+                        103.86209764023,
+                        1.29128064881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86092864023,
+                    1.28954214879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "image": "https://images.mapillary.com/AYKz9KrqqwYJuXU8KLXNuA/thumb-2048.jpg",
+                "lanes": "2",
+                "mapillary": "https://www.mapillary.com/map/im/AYKz9KrqqwYJuXU8KLXNuA",
+                "maxspeed": "60",
+                "name": "Republic Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86242854023,
+                        1.29368924884
+                    ],
+                    [
+                        103.86241484023,
+                        1.29376834884
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "private",
+                "highway": "raceway",
+                "image": "https://images.mapillary.com/8ANa6_FW5wLK1ixdGUS1MQ/thumb-2048.jpg",
+                "mapillary": "https://www.mapillary.com/map/im/8ANa6_FW5wLK1ixdGUS1MQ",
+                "name": "Marina Bay Street Circuit",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86199034023,
+                        1.28876024878
+                    ],
+                    [
+                        103.86282374023,
+                        1.28867534878
+                    ],
+                    [
+                        103.86288974023,
+                        1.28867214878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Saint Andrew's Road",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85268444023,
+                        1.29125284881
+                    ],
+                    [
+                        103.85304124023,
+                        1.29188514882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Stamford Road",
+                "oneway": "yes",
+                "source": "GPS & Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85436724023,
+                        1.29197954882
+                    ],
+                    [
+                        103.85414724023,
+                        1.29220234882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "bridge:name": "Esplanade Bridge",
+                "highway": "trunk",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "70",
+                "name": "Esplanade Drive",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "start_date": "1997",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85448144023,
+                        1.28922394879
+                    ],
+                    [
+                        103.85420074023,
+                        1.28776534877
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "lanes:backward": "1",
+                "lanes:forward": "1",
+                "maxspeed": "50",
+                "name": "Connaught Drive",
+                "surface": "asphalt",
+                "turn:lanes:backward": "through;right",
+                "turn:lanes:forward": "through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85191604023,
+                        1.28875144878
+                    ],
+                    [
+                        103.85208644023,
+                        1.28863434878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "lanes": "5",
+                "maxspeed": "70",
+                "name": "Nicoll Highway",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through;right|right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85546104023,
+                        1.29246994882
+                    ],
+                    [
+                        103.85567854023,
+                        1.29282144883
+                    ],
+                    [
+                        103.85586359360,
+                        1.29308375526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "6",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left|left;through|through|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85712134023,
+                        1.29242234882
+                    ],
+                    [
+                        103.85722504023,
+                        1.29235984882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85602594023,
+                    1.29305384883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85781654023,
+                    1.28966714879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "60",
+                "name": "Republic Boulevard",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86258004023,
+                        1.29127394881
+                    ],
+                    [
+                        103.86272114023,
+                        1.29133564881
+                    ],
+                    [
+                        103.86281404023,
+                        1.29140414881
+                    ],
+                    [
+                        103.86285554023,
+                        1.29144304881
+                    ],
+                    [
+                        103.86289764023,
+                        1.29150344881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "traffic_signals",
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86088434023,
+                    1.28954824879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85392895372,
+                    1.28646090729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "private",
+                "foot": "no",
+                "highway": "raceway",
+                "name": "Marina Bay Street Circuit",
+                "oneway": "yes",
+                "raceway": "pitlane",
+                "sport": "motor",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86259764023,
+                        1.29475514885
+                    ],
+                    [
+                        103.86252514023,
+                        1.29467554885
+                    ],
+                    [
+                        103.86247994023,
+                        1.29460834885
+                    ],
+                    [
+                        103.86243524023,
+                        1.29451384885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85247844023,
+                    1.29087934881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "3",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "raceway": "sometimes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86104034023,
+                        1.28954414879
+                    ],
+                    [
+                        103.86092864023,
+                        1.28954214879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "4",
+                "maxspeed": "50",
+                "name": "Saint Andrew's Road",
+                "oneway": "yes",
+                "sidewalk": "left",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85257584023,
+                        1.29105464881
+                    ],
+                    [
+                        103.85268444023,
+                        1.29125284881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "crossing": "traffic_signals",
+                "highway": "crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86115344023,
+                    1.28952214879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bus": "yes",
+                "public_transport": "stop_position"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86156384023,
+                    1.29131114881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "none|through|through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85780484023,
+                        1.28969524879
+                    ],
+                    [
+                        103.85762384023,
+                        1.28970874879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "5",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Stamford Road",
+                "oneway": "yes",
+                "source": "GPS & Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85414724023,
+                        1.29220234882
+                    ],
+                    [
+                        103.85397384023,
+                        1.29237544882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "trunk",
+                "lanes": "4",
+                "maxspeed": "70",
+                "name": "Nicoll Highway",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through;right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85534264023,
+                        1.29226014882
+                    ],
+                    [
+                        103.85546104023,
+                        1.29246994882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "6",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left|left;through|through|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85703464023,
+                        1.29247344882
+                    ],
+                    [
+                        103.85712134023,
+                        1.29242234882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "60",
+                "name": "Republic Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left|left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86239604023,
+                        1.29122594881
+                    ],
+                    [
+                        103.86258004023,
+                        1.29127394881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "2",
+                "maxspeed": "60",
+                "name": "Republic Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86241984023,
+                        1.29431204885
+                    ],
+                    [
+                        103.86243084023,
+                        1.29445634885
+                    ],
+                    [
+                        103.86243524023,
+                        1.29451384885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "oneway": "yes",
+                "source": "aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through|through;right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86115344023,
+                        1.28952214879
+                    ],
+                    [
+                        103.86104034023,
+                        1.28954414879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86125594023,
+                    1.28946514879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "private",
+                "highway": "raceway",
+                "name": "Marina Bay Street Circuit",
+                "oneway": "yes",
+                "sport": "motor"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85780484023,
+                        1.28969524879
+                    ],
+                    [
+                        103.85781654023,
+                        1.28966714879
+                    ],
+                    [
+                        103.85780924023,
+                        1.28942674879
+                    ],
+                    [
+                        103.85781234023,
+                        1.28919364879
+                    ],
+                    [
+                        103.85782964023,
+                        1.28911494879
+                    ],
+                    [
+                        103.85787234023,
+                        1.28903994878
+                    ],
+                    [
+                        103.85795414023,
+                        1.28895694878
+                    ],
+                    [
+                        103.85804324023,
+                        1.28890304878
+                    ],
+                    [
+                        103.85813154023,
+                        1.28887734878
+                    ],
+                    [
+                        103.85976024023,
+                        1.28877504878
+                    ],
+                    [
+                        103.85981354023,
+                        1.28878424878
+                    ],
+                    [
+                        103.85984994023,
+                        1.28881024878
+                    ],
+                    [
+                        103.85985964023,
+                        1.28889914878
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Stamford Road",
+                "oneway": "yes",
+                "source": "GPS & Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85470404023,
+                        1.29163374881
+                    ],
+                    [
+                        103.85451604023,
+                        1.29181944882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "5",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85602594023,
+                        1.29305384883
+                    ],
+                    [
+                        103.85626444023,
+                        1.29291914883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85728094023,
+                        1.29232644882
+                    ],
+                    [
+                        103.85773174023,
+                        1.29207274882
+                    ],
+                    [
+                        103.85777464023,
+                        1.29204814882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85858024023,
+                        1.29158274881
+                    ],
+                    [
+                        103.85875204023,
+                        1.29151824881
+                    ],
+                    [
+                        103.85882154023,
+                        1.29149404881
+                    ],
+                    [
+                        103.85885794023,
+                        1.29148104881
+                    ],
+                    [
+                        103.85906594023,
+                        1.29144504881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "traffic_signals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.85491454023,
+                    1.29142124881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "private",
+                "highway": "raceway",
+                "name": "Marina Bay Street Circuit",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86288974023,
+                        1.28867214878
+                    ],
+                    [
+                        103.86359664023,
+                        1.28864554878
+                    ],
+                    [
+                        103.86392214023,
+                        1.28862944878
+                    ],
+                    [
+                        103.86398394023,
+                        1.28863404878
+                    ],
+                    [
+                        103.86404564023,
+                        1.28865304878
+                    ],
+                    [
+                        103.86409224023,
+                        1.28868104878
+                    ],
+                    [
+                        103.86412774023,
+                        1.28873134878
+                    ],
+                    [
+                        103.86451744023,
+                        1.28933914879
+                    ],
+                    [
+                        103.86454184023,
+                        1.28939674879
+                    ],
+                    [
+                        103.86455354023,
+                        1.28947334879
+                    ],
+                    [
+                        103.86454084023,
+                        1.28961624879
+                    ],
+                    [
+                        103.86426074023,
+                        1.29166364881
+                    ],
+                    [
+                        103.86410984023,
+                        1.29261964883
+                    ],
+                    [
+                        103.86408654023,
+                        1.29285784883
+                    ],
+                    [
+                        103.86407954023,
+                        1.29316424883
+                    ],
+                    [
+                        103.86409004023,
+                        1.29367634884
+                    ],
+                    [
+                        103.86407144023,
+                        1.29382374884
+                    ],
+                    [
+                        103.86404394023,
+                        1.29396424884
+                    ],
+                    [
+                        103.86397074023,
+                        1.29421124884
+                    ],
+                    [
+                        103.86394314023,
+                        1.29427414884
+                    ],
+                    [
+                        103.86391684023,
+                        1.29430674885
+                    ],
+                    [
+                        103.86386884023,
+                        1.29432694885
+                    ],
+                    [
+                        103.86376984023,
+                        1.29432854885
+                    ],
+                    [
+                        103.86367154023,
+                        1.29432954885
+                    ],
+                    [
+                        103.86360014023,
+                        1.29433744885
+                    ],
+                    [
+                        103.86346684023,
+                        1.29436684885
+                    ],
+                    [
+                        103.86334744023,
+                        1.29440044885
+                    ],
+                    [
+                        103.86319274023,
+                        1.29446224885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "raceway": "sometimes",
+                "sidewalk": "left",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86064194023,
+                        1.28955764879
+                    ],
+                    [
+                        103.86036534023,
+                        1.28957024879
+                    ],
+                    [
+                        103.86002164023,
+                        1.28958594879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "raceway": "sometimes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "none|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85735474023,
+                        1.28972364879
+                    ],
+                    [
+                        103.85730424023,
+                        1.28972644879
+                    ],
+                    [
+                        103.85715354023,
+                        1.28974584879
+                    ],
+                    [
+                        103.85703594023,
+                        1.28976474879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "50",
+                "name": "Stamford Road",
+                "oneway": "yes",
+                "source": "GPS & Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85451604023,
+                        1.29181944882
+                    ],
+                    [
+                        103.85436724023,
+                        1.29197954882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "5",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "raceway": "sometimes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left;through|through|through|through;right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85526404023,
+                        1.29111544881
+                    ],
+                    [
+                        103.85510804023,
+                        1.29124904881
+                    ],
+                    [
+                        103.85505674023,
+                        1.29129474881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "foot": "no",
+                "highway": "primary",
+                "lanes": "5",
+                "maxspeed": "50",
+                "name": "Bras Basah Road",
+                "oneway": "yes",
+                "source": "GPS & Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85586359360,
+                        1.29308375526
+                    ],
+                    [
+                        103.85602594023,
+                        1.29305384883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "race course": "start_end"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.86426074023,
+                    1.29166364881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "6",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left|left;through|through|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85722504023,
+                        1.29235984882
+                    ],
+                    [
+                        103.85728094023,
+                        1.29232644882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85830834023,
+                        1.29174014882
+                    ],
+                    [
+                        103.85835994023,
+                        1.29170424882
+                    ],
+                    [
+                        103.85858024023,
+                        1.29158274881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "private",
+                "foot": "no",
+                "highway": "raceway",
+                "name": "Marina Bay Street Circuit",
+                "oneway": "yes",
+                "raceway": "pitlane",
+                "sport": "motor",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86319274023,
+                        1.29446224885
+                    ],
+                    [
+                        103.86312194023,
+                        1.29451304885
+                    ],
+                    [
+                        103.86306964023,
+                        1.29456374885
+                    ],
+                    [
+                        103.86298724023,
+                        1.29468514885
+                    ],
+                    [
+                        103.86292814023,
+                        1.29475574885
+                    ],
+                    [
+                        103.86285994023,
+                        1.29479204885
+                    ],
+                    [
+                        103.86278254023,
+                        1.29481004885
+                    ],
+                    [
+                        103.86270054023,
+                        1.29481204885
+                    ],
+                    [
+                        103.86265994023,
+                        1.29480014885
+                    ],
+                    [
+                        103.86259764023,
+                        1.29475514885
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "raceway": "sometimes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.86092864023,
+                        1.28954214879
+                    ],
+                    [
+                        103.86088434023,
+                        1.28954824879
+                    ],
+                    [
+                        103.86064194023,
+                        1.28955764879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "4",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "raceway": "sometimes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "none|through|through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85762384023,
+                        1.28970874879
+                    ],
+                    [
+                        103.85753114023,
+                        1.28971434879
+                    ],
+                    [
+                        103.85750504023,
+                        1.28971534879
+                    ],
+                    [
+                        103.85737944023,
+                        1.28972224879
+                    ],
+                    [
+                        103.85735474023,
+                        1.28972364879
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Connaught Drive",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85162506295,
+                        1.28902922966
+                    ],
+                    [
+                        103.85161453534,
+                        1.28913267425
+                    ],
+                    [
+                        103.85162354023,
+                        1.28931112966
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "6",
+                "maxspeed": "50",
+                "name": "Raffles Avenue",
+                "note": "Part of it estimated ???",
+                "oneway": "yes",
+                "raceway": "sometimes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "left|left;through|through|through|through;right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85549994023,
+                        1.29091734881
+                    ],
+                    [
+                        103.85528214023,
+                        1.29109804881
+                    ],
+                    [
+                        103.85526404023,
+                        1.29111544881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "primary",
+                "lanes": "6",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85656304023,
+                        1.29275164883
+                    ],
+                    [
+                        103.85691724023,
+                        1.29254344882
+                    ],
+                    [
+                        103.85703464023,
+                        1.29247344882
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "busway:left": "lane",
+                "highway": "primary",
+                "lanes": "5",
+                "lanes:bus": "1",
+                "lanes:bus:conditional": "1 @ (Mo-Sa 07:30-23:00)",
+                "maxspeed": "50",
+                "name": "Raffles Boulevard",
+                "oneway": "yes",
+                "source": "Yahoo aerial images",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        103.85792654023,
+                        1.29196014882
+                    ],
+                    [
+                        103.85793864023,
+                        1.29195274882
+                    ]
+                ]
+            }
+        }
+    ]
+}
