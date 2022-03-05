@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='539502106' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6501474' lon='39.1016871' />
+  <node id='9299199970' timestamp='2021-12-01T07:02:18Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114430583' lat='21.6295' lon='39.105621' />
+  <node id='9299199971' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6346094' lon='39.1039234' />
+  <node id='9299199972' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='2' changeset='114484298' lat='21.6362471' lon='39.103422' />
+  <node id='9299199973' timestamp='2021-12-01T07:02:18Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114430583' lat='21.6379115' lon='39.1031017' />
+  <node id='9299199974' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6396324' lon='39.1019583' />
+  <node id='9299199975' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6411527' lon='39.102524' />
+  <node id='9299199976' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6418089' lon='39.1024916' />
+  <node id='9299199977' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6423411' lon='39.1022804' />
+  <node id='9299199978' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6429741' lon='39.1017106' />
+  <node id='9299199979' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='2' changeset='114484298' lat='21.6448812' lon='39.1029268' />
+  <node id='9299199980' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='2' changeset='114484298' lat='21.6454184' lon='39.1029537' />
+  <node id='9299199981' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='2' changeset='114484298' lat='21.646279' lon='39.1031791' />
+  <node id='9299199982' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='2' changeset='114484298' lat='21.6472967' lon='39.1032102' />
+  <node id='9299199997' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6468072' lon='39.1025198' />
+  <node id='9299199998' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='2' changeset='114484298' lat='21.6428944' lon='39.1009387' />
+  <node id='9299199999' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='2' changeset='114484298' lat='21.6414479' lon='39.1015696' />
+  <node id='9299200000' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6386373' lon='39.1018952' />
+  <node id='9299200002' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6365842' lon='39.1027572' />
+  <node id='9299200003' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6347668' lon='39.1025788' />
+  <node id='9299200004' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6342779' lon='39.1030764' />
+  <node id='9299200005' timestamp='2021-12-01T07:02:18Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114430583' lat='21.6330671' lon='39.1032598' />
+  <node id='9299200006' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='114639361' lat='21.6314754' lon='39.102609' />
+  <node id='9299200007' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='114639361' lat='21.6306354' lon='39.1024362' />
+  <node id='9299200008' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='114639361' lat='21.6296971' lon='39.1025392' />
+  <node id='9299200009' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='114639361' lat='21.6280512' lon='39.103099' />
+  <node id='9299200010' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='114639361' lat='21.6269158' lon='39.103735' />
+  <node id='9299200011' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='2' changeset='114484298' lat='21.6263854' lon='39.1044319' />
+  <node id='9299200012' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='114639361' lat='21.6257362' lon='39.1055863' />
+  <node id='9299200013' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='114639361' lat='21.625484' lon='39.1060145' />
+  <node id='9299200014' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='114639361' lat='21.6258984' lon='39.1065348' />
+  <node id='9299200015' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='114639361' lat='21.6285613' lon='39.1059077' />
+  <node id='9299200016' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6380289' lon='39.1022973' />
+  <node id='9299212617' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6349621' lon='39.1036577' />
+  <node id='9299212618' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='3' changeset='117951691' lat='21.6349497' lon='39.1031667' />
+  <node id='9306419160' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='114639361' lat='21.6254898' lon='39.1064302' />
+  <node id='9306419161' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='114639361' lat='21.625662' lon='39.1065465' />
+  <node id='9306419162' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='114639361' lat='21.6255673' lon='39.1065041' />
+  <node id='9306419163' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='114639361' lat='21.6254334' lon='39.1063308' />
+  <node id='9306419164' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6266715' lon='39.1039887' />
+  <node id='9306419165' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='114639361' lat='21.6272015' lon='39.1035027' />
+  <node id='9306419166' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='114639361' lat='21.630248' lon='39.1024557' />
+  <node id='9306419167' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='114639361' lat='21.6311079' lon='39.1024906' />
+  <node id='9306419168' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6322368' lon='39.1030187' />
+  <node id='9306419169' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6326587' lon='39.1032155' />
+  <node id='9306419170' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6341037' lon='39.1031636' />
+  <node id='9306419171' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6343877' lon='39.1029627' />
+  <node id='9306419172' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6346291' lon='39.1026832' />
+  <node id='9306419173' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6350729' lon='39.102613' />
+  <node id='9306419174' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6349262' lon='39.1025618' />
+  <node id='9306419175' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6345133' lon='39.1027809' />
+  <node id='9306419176' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6354636' lon='39.1027829' />
+  <node id='9306419177' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6352508' lon='39.1027099' />
+  <node id='9306419178' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6357486' lon='39.1028079' />
+  <node id='9306419179' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6361135' lon='39.102799' />
+  <node id='9306419180' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6371555' lon='39.1026275' />
+  <node id='9306419181' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.639715' lon='39.101616' />
+  <node id='9306419182' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6391535' lon='39.1016757' />
+  <node id='9306419183' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.640338' lon='39.1016381' />
+  <node id='9306419184' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6409481' lon='39.1016512' />
+  <node id='9306419185' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6412684' lon='39.1016199' />
+  <node id='9306419186' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6421154' lon='39.1012051' />
+  <node id='9306419187' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6425469' lon='39.1010203' />
+  <node id='9306419188' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6433452' lon='39.1008889' />
+  <node id='9306419189' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6440099' lon='39.1009133' />
+  <node id='9306419190' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6443608' lon='39.1010188' />
+  <node id='9306419191' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6445326' lon='39.10118' />
+  <node id='9306419192' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.644617' lon='39.1013605' />
+  <node id='9306419193' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6448012' lon='39.1018759' />
+  <node id='9306419194' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6349022' lon='39.1037905' />
+  <node id='9306419195' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6348326' lon='39.1038519' />
+  <node id='9306419196' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.635049' lon='39.1031817' />
+  <node id='9306419197' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6348622' lon='39.1033309' />
+  <node id='9306419198' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6352366' lon='39.1032696' />
+  <node id='9306419199' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6356262' lon='39.1033929' />
+  <node id='9306419200' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6359388' lon='39.1034246' />
+  <node id='9306419201' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.63852' lon='39.1029979' />
+  <node id='9306419202' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6386326' lon='39.1028955' />
+  <node id='9306419203' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6387296' lon='39.1024726' />
+  <node id='9306419204' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6388445' lon='39.1023035' />
+  <node id='9306419205' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6390322' lon='39.1021258' />
+  <node id='9306419206' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6399931' lon='39.102002' />
+  <node id='9306419207' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6405963' lon='39.1022884' />
+  <node id='9306419208' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6421061' lon='39.1023987' />
+  <node id='9306419209' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6415138' lon='39.1025394' />
+  <node id='9306419210' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6450194' lon='39.102018' />
+  <node id='9306419211' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6451985' lon='39.1020102' />
+  <node id='9306419212' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6457202' lon='39.1020566' />
+  <node id='9306419213' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.645678' lon='39.102935' />
+  <node id='9306419214' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6451017' lon='39.1029663' />
+  <node id='9306419215' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6445138' lon='39.1027194' />
+  <node id='9306419216' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6443849' lon='39.1024911' />
+  <node id='9306427617' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.644679' lon='39.102866' />
+  <node id='9306427618' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6439694' lon='39.1017503' />
+  <node id='9306427619' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6428079' lon='39.1017541' />
+  <node id='9306427620' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6426836' lon='39.101832' />
+  <node id='9306427621' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.642622' lon='39.1019527' />
+  <node id='9306427622' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6425246' lon='39.1021222' />
+  <node id='9306427623' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6441364' lon='39.1018853' />
+  <node id='9306427624' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6443092' lon='39.1022553' />
+  <node id='9306427625' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.645906' lon='39.1029707' />
+  <node id='9306427627' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6461535' lon='39.1031394' />
+  <node id='9306427628' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6478795' lon='39.1031824' />
+  <node id='9306427629' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6481704' lon='39.1031675' />
+  <node id='9306427630' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6486761' lon='39.1031377' />
+  <node id='9306427631' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6489671' lon='39.1031154' />
+  <node id='9306427632' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6496944' lon='39.1030408' />
+  <node id='9306427633' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6500061' lon='39.103011' />
+  <node id='9306427634' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6502347' lon='39.1029141' />
+  <node id='9306427635' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6503807' lon='39.1027332' />
+  <node id='9306427636' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6504667' lon='39.102518' />
+  <node id='9306427637' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.650426' lon='39.1020182' />
+  <node id='9306427638' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6502914' lon='39.1018064' />
+  <node id='9306427639' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6499971' lon='39.1015937' />
+  <node id='9306427640' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6498472' lon='39.1015541' />
+  <node id='9306427641' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6496776' lon='39.1015415' />
+  <node id='9306427642' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6494472' lon='39.1015885' />
+  <node id='9306427643' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6492391' lon='39.1016796' />
+  <node id='9306427644' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6488728' lon='39.1019167' />
+  <node id='9306427645' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6485451' lon='39.1021115' />
+  <node id='9306427646' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6477972' lon='39.1024826' />
+  <node id='9306427647' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6474746' lon='39.1025279' />
+  <node id='9306427648' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6471417' lon='39.1025461' />
+  <node id='9306427649' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6504814' lon='39.1022366' />
+  <node id='9306427651' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6448828' lon='39.1019672' />
+  <node id='9306427652' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6454054' lon='39.1020077' />
+  <node id='9306427653' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6456257' lon='39.1020379' />
+  <node id='9306427654' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.6459026' lon='39.102139' />
+  <node id='9306427655' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.645831' lon='39.1021043' />
+  <node id='9306427656' timestamp='2021-12-02T13:49:07Z' uid='13790961' user='trackmap' visible='true' version='1' changeset='114484298' lat='21.646251' lon='39.1023184' />
+  <node id='9306427657' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6348786' lon='39.1032203' />
+  <node id='9306427658' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='2' changeset='117951691' lat='21.6349484' lon='39.1037407' />
+  <node id='9316677707' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='114639361' lat='21.6254202' lon='39.1062234' />
+  <node id='9316677708' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='114639361' lat='21.6254358' lon='39.1061132' />
+  <node id='9316677709' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='114639361' lat='21.6257643' lon='39.1065537' />
+  <node id='9316677710' timestamp='2021-12-07T01:03:55Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='114639361' lat='21.627582' lon='39.1032858' />
+  <node id='9545412589' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='117951691' lat='21.6393547' lon='39.1019839' />
+  <node id='9545412590' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='117951691' lat='21.6403286' lon='39.1021563' />
+  <node id='9545412591' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='117951691' lat='21.6408301' lon='39.1024143' />
+  <node id='9545412592' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='117951691' lat='21.6446702' lon='39.1016059' />
+  <node id='9545412593' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='117951691' lat='21.6447334' lon='39.1017581' />
+  <node id='9545412594' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='117951691' lat='21.6465144' lon='39.1024385' />
+  <node id='9545412595' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='117951691' lat='21.6480796' lon='39.1023904' />
+  <node id='9545412597' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='1' changeset='117951691' lat='21.643686' lon='39.1017174' />
+  <way id='1007989410' timestamp='2022-02-28T16:59:51Z' uid='2911976' user='WaltherPPK' visible='true' version='8' changeset='117951691'>
+    <nd ref='9299199997' />
+    <nd ref='9545412594' />
+    <nd ref='9306427656' />
+    <nd ref='9306427654' />
+    <nd ref='9306427655' />
+    <nd ref='9306419212' />
+    <nd ref='9306427653' />
+    <nd ref='9306427652' />
+    <nd ref='9306419211' />
+    <nd ref='9306419210' />
+    <nd ref='9306427651' />
+    <nd ref='9306419193' />
+    <nd ref='9545412593' />
+    <nd ref='9545412592' />
+    <nd ref='9306419192' />
+    <nd ref='9306419191' />
+    <nd ref='9306419190' />
+    <nd ref='9306419189' />
+    <nd ref='9306419188' />
+    <nd ref='9299199998' />
+    <nd ref='9306419187' />
+    <nd ref='9306419186' />
+    <nd ref='9299199999' />
+    <nd ref='9306419185' />
+    <nd ref='9306419184' />
+    <nd ref='9306419183' />
+    <nd ref='9306419181' />
+    <nd ref='9306419182' />
+    <nd ref='9299200000' />
+    <nd ref='9299200016' />
+    <nd ref='9306419180' />
+    <nd ref='9299200002' />
+    <nd ref='9306419179' />
+    <nd ref='9306419178' />
+    <nd ref='9306419176' />
+    <nd ref='9306419177' />
+    <nd ref='9306419173' />
+    <nd ref='9306419174' />
+    <nd ref='9299200003' />
+    <nd ref='9306419172' />
+    <nd ref='9306419175' />
+    <nd ref='9306419171' />
+    <nd ref='9299200004' />
+    <nd ref='9306419170' />
+    <nd ref='9299200005' />
+    <nd ref='9306419169' />
+    <nd ref='9306419168' />
+    <nd ref='9299200006' />
+    <nd ref='9306419167' />
+    <nd ref='9299200007' />
+    <nd ref='9306419166' />
+    <nd ref='9299200008' />
+    <nd ref='9299200009' />
+    <nd ref='9316677710' />
+    <nd ref='9306419165' />
+    <nd ref='9299200010' />
+    <nd ref='9306419164' />
+    <nd ref='9299200011' />
+    <nd ref='9299200012' />
+    <nd ref='9299200013' />
+    <nd ref='9316677708' />
+    <nd ref='9316677707' />
+    <nd ref='9306419163' />
+    <nd ref='9306419160' />
+    <nd ref='9306419162' />
+    <nd ref='9306419161' />
+    <nd ref='9316677709' />
+    <nd ref='9299200014' />
+    <nd ref='9299200015' />
+    <nd ref='9299199970' />
+    <nd ref='9299199971' />
+    <nd ref='9306419195' />
+    <nd ref='9306419194' />
+    <nd ref='9306427658' />
+    <nd ref='9299212617' />
+    <nd ref='9306419197' />
+    <nd ref='9306427657' />
+    <nd ref='9299212618' />
+    <nd ref='9306419196' />
+    <nd ref='9306419198' />
+    <nd ref='9306419199' />
+    <nd ref='9306419200' />
+    <nd ref='9299199972' />
+    <nd ref='9299199973' />
+    <nd ref='9306419201' />
+    <nd ref='9306419202' />
+    <nd ref='9306419203' />
+    <nd ref='9306419204' />
+    <nd ref='9306419205' />
+    <nd ref='9545412589' />
+    <nd ref='9299199974' />
+    <nd ref='9306419206' />
+    <nd ref='9545412590' />
+    <nd ref='9306419207' />
+    <nd ref='9545412591' />
+    <nd ref='9299199975' />
+    <nd ref='9306419209' />
+    <nd ref='9299199976' />
+    <nd ref='9306419208' />
+    <nd ref='9299199977' />
+    <nd ref='9306427622' />
+    <nd ref='9306427621' />
+    <nd ref='9306427620' />
+    <nd ref='9306427619' />
+    <nd ref='9299199978' />
+    <nd ref='9545412597' />
+    <nd ref='9306427618' />
+    <nd ref='9306427623' />
+    <nd ref='9306427624' />
+    <nd ref='9306419216' />
+    <nd ref='9306419215' />
+    <nd ref='9306427617' />
+    <nd ref='9299199979' />
+    <nd ref='9306419214' />
+    <nd ref='9299199980' />
+    <nd ref='9306419213' />
+    <nd ref='9306427625' />
+    <nd ref='9306427627' />
+    <nd ref='9299199981' />
+    <nd ref='9299199982' />
+    <nd ref='9306427628' />
+    <nd ref='9306427629' />
+    <nd ref='9306427630' />
+    <nd ref='9306427631' />
+    <nd ref='9306427632' />
+    <nd ref='9306427633' />
+    <nd ref='9306427634' />
+    <nd ref='9306427635' />
+    <nd ref='9306427636' />
+    <nd ref='9306427649' />
+    <nd ref='9306427637' />
+    <nd ref='9306427638' />
+    <nd ref='539502106' />
+    <nd ref='9306427639' />
+    <nd ref='9306427640' />
+    <nd ref='9306427641' />
+    <nd ref='9306427642' />
+    <nd ref='9306427643' />
+    <nd ref='9306427644' />
+    <nd ref='9306427645' />
+    <nd ref='9545412595' />
+    <nd ref='9306427646' />
+    <nd ref='9306427647' />
+    <nd ref='9306427648' />
+    <nd ref='9299199997' />
+    <tag k='fixme' v='update when satellite imagery is available: v6 is some 234m too long' />
+    <tag k='highway' v='raceway' />
+    <tag k='name:en' v='Jeddah Corniche Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='sport' v='motor' />
+    <tag k='wikidata' v='Q102141307' />
+    <tag k='wikipedia' v='en:Jeddah Corniche Circuit' />
+  </way>
+</osm>

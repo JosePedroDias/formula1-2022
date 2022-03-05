@@ -1,0 +1,1678 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='172510077' timestamp='2019-05-13T14:02:53Z' uid='9340863' user='reenas' visible='true' version='11' changeset='70194117' lat='1.293172' lon='103.8558226'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='232279092' timestamp='2017-09-28T19:00:04Z' uid='6172866' user='CapAhab' visible='true' version='6' changeset='52454943' lat='1.2909086' lon='103.8524294'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='232353185' timestamp='2020-01-17T03:42:06Z' uid='9279453' user='organti' visible='true' version='5' changeset='79674260' lat='1.2922316' lon='103.8540982' />
+  <node id='232353226' timestamp='2019-05-06T07:24:09Z' uid='8728806' user='attili1' visible='true' version='9' changeset='69924972' lat='1.2926038' lon='103.8536185'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='232353353' timestamp='2018-11-28T14:47:26Z' uid='7671604' user='Malka7' visible='true' version='3' changeset='64974505' lat='1.2918487' lon='103.854467' />
+  <node id='232353925' timestamp='2019-10-07T05:52:55Z' uid='7446646' user='harishpuppala' visible='true' version='7' changeset='75357835' lat='1.2893739' lon='103.8515745' />
+  <node id='232376467' timestamp='2017-02-17T06:19:54Z' uid='5084650' user='woodennature' visible='true' version='5' changeset='46155682' lat='1.2923897' lon='103.853252' />
+  <node id='233497179' timestamp='2019-03-22T17:48:53Z' uid='6095836' user='feta2' visible='true' version='12' changeset='68421367' lat='1.2930831' lon='103.8559769'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='233879421' timestamp='2017-09-27T22:25:53Z' uid='6172866' user='CapAhab' visible='true' version='8' changeset='52427442' lat='1.291324' lon='103.8550077'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='233879440' timestamp='2019-11-05T14:38:08Z' uid='741163' user='JaLooooNz' visible='true' version='8' changeset='76653513' lat='1.2906663' lon='103.8558094' />
+  <node id='233879466' timestamp='2012-04-17T03:49:22Z' uid='602634' user='matx17' visible='true' version='3' changeset='11328693' lat='1.2901714' lon='103.8563522'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='233879502' timestamp='2012-05-25T04:19:13Z' uid='602634' user='matx17' visible='true' version='2' changeset='11695137' lat='1.2898549' lon='103.8567861' />
+  <node id='233879603' timestamp='2019-11-28T12:35:46Z' uid='9279453' user='organti' visible='true' version='15' changeset='77680050' lat='1.2895734' lon='103.8609913'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='233879753' timestamp='2011-03-06T06:46:25Z' uid='111118' user='mapbreeze' visible='true' version='5' changeset='7470082' lat='1.2914505' lon='103.8548655'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='233879798' timestamp='2012-04-17T03:49:05Z' uid='602634' user='matx17' visible='true' version='4' changeset='11328693' lat='1.2925727' lon='103.8568682' />
+  <node id='233879856' timestamp='2019-08-25T07:26:05Z' uid='6744861' user='ludofru' visible='true' version='9' changeset='73711163' lat='1.2915475' lon='103.858703' />
+  <node id='233879872' timestamp='2019-11-29T03:01:24Z' uid='8728806' user='attili1' visible='true' version='15' changeset='77703352' lat='1.2913301' lon='103.8608322'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='233879899' timestamp='2019-11-29T03:01:24Z' uid='8728806' user='attili1' visible='true' version='14' changeset='77703352' lat='1.2913322' lon='103.8609363'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='233880373' timestamp='2017-12-13T20:59:36Z' uid='6095772' user='cartogram' visible='true' version='9' changeset='54607659' lat='1.2923557' lon='103.8572319' />
+  <node id='235070001' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='5' changeset='68195393' lat='1.2947844' lon='103.8625486' />
+  <node id='235070344' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='7' changeset='72857360' lat='1.2913032' lon='103.862531' />
+  <node id='235070526' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='5' changeset='72857360' lat='1.292052' lon='103.8628904' />
+  <node id='235070560' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='5' changeset='72857360' lat='1.2924838' lon='103.8628207' />
+  <node id='235070587' timestamp='2017-01-11T01:01:38Z' uid='4759993' user='TheNodeWarrior' visible='true' version='4' changeset='45065922' lat='1.2935764' lon='103.8624291' />
+  <node id='235070624' timestamp='2017-01-11T01:01:38Z' uid='4759993' user='TheNodeWarrior' visible='true' version='3' changeset='45065922' lat='1.2940148' lon='103.862346' />
+  <node id='237012201' timestamp='2017-12-07T22:16:01Z' uid='6095805' user='FlyTy' visible='true' version='2' changeset='54444483' lat='1.2903412' lon='103.8546677' />
+  <node id='237012269' timestamp='2022-01-01T07:37:40Z' uid='10373200' user='Map3787' visible='true' version='9' changeset='115628596' lat='1.2864287' lon='103.8538963' />
+  <node id='237054576' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='9' changeset='115431761' lat='1.286314' lon='103.8538728' />
+  <node id='410939419' timestamp='2009-12-18T05:34:20Z' uid='195506' user='Yee' visible='true' version='2' changeset='3398169' lat='1.2892532' lon='103.8544324' />
+  <node id='410939421' timestamp='2014-05-03T08:25:47Z' uid='1242214' user='jc86035' visible='true' version='4' changeset='22098881' lat='1.2866643' lon='103.8539338' />
+  <node id='462263951' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='6' changeset='72857360' lat='1.2915327' lon='103.8628486' />
+  <node id='479983003' timestamp='2019-11-28T12:35:46Z' uid='9279453' user='organti' visible='true' version='13' changeset='77680050' lat='1.2895714' lon='103.8608796'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='595497945' timestamp='2019-10-17T17:54:57Z' uid='6095836' user='feta2' visible='true' version='13' changeset='75856514' lat='1.2920774' lon='103.8577256' />
+  <node id='634071195' timestamp='2020-12-22T00:39:11Z' uid='257555' user='rene78' visible='true' version='13' changeset='96221969' lat='1.2895514' lon='103.8611044'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='967949307' timestamp='2010-10-28T13:39:49Z' uid='361348' user='arekushi' visible='true' version='1' changeset='6208580' lat='1.289661' lon='103.8545152' />
+  <node id='1161612960' timestamp='2018-06-12T08:48:19Z' uid='7671613' user='naik4' visible='true' version='6' changeset='59768617' lat='1.2894189' lon='103.8643641' />
+  <node id='1161612993' timestamp='2018-02-14T01:58:06Z' uid='7128658' user='luked2000' visible='true' version='4' changeset='56339267' lat='1.2945431' lon='103.8623862' />
+  <node id='1161612996' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='4' changeset='68195393' lat='1.2940083' lon='103.8638632' />
+  <node id='1161613002' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='4' changeset='68195393' lat='1.2941394' lon='103.8638137' />
+  <node id='1161613033' timestamp='2018-06-12T08:48:19Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2887572' lon='103.8638126' />
+  <node id='1161613046' timestamp='2019-05-13T12:39:50Z' uid='8995738' user='sans_r' visible='true' version='4' changeset='70190453' lat='1.2937142' lon='103.8639266' />
+  <node id='1161613070' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='3' changeset='68195393' lat='1.2941844' lon='103.8637712' />
+  <node id='1161613118' timestamp='2018-06-12T08:48:19Z' uid='7671613' user='naik4' visible='true' version='4' changeset='59768617' lat='1.2889283' lon='103.8640617' />
+  <node id='1161613127' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='5' changeset='68195393' lat='1.2887014' lon='103.8628407' />
+  <node id='1161613131' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='3' changeset='68195393' lat='1.2942283' lon='103.8637052' />
+  <node id='1161613167' timestamp='2018-06-12T08:48:19Z' uid='7671613' user='naik4' visible='true' version='5' changeset='59768617' lat='1.2896475' lon='103.8643762' />
+  <node id='1161613173' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='3' changeset='68195393' lat='1.2942744' lon='103.8635941' />
+  <node id='1161613185' timestamp='2018-06-12T08:48:20Z' uid='7671613' user='naik4' visible='true' version='6' changeset='59768617' lat='1.2893477' lon='103.8643361' />
+  <node id='1161613204' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='3' changeset='68195393' lat='1.2925836' lon='103.8639366' />
+  <node id='1161613227' timestamp='2018-06-12T08:48:20Z' uid='7671613' user='naik4' visible='true' version='4' changeset='59768617' lat='1.2887279' lon='103.8632536' />
+  <node id='1161613230' timestamp='2018-06-12T08:48:20Z' uid='7671613' user='naik4' visible='true' version='3' changeset='59768617' lat='1.2887904' lon='103.8639411' />
+  <node id='1188509769' timestamp='2020-09-05T09:27:18Z' uid='11585613' user='y_sahi' visible='true' version='3' changeset='90446193' lat='1.2925756' lon='103.8534982'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='1188527792' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='5' changeset='72857360' lat='1.2918067' lon='103.8629088' />
+  <node id='1398079475' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='4' changeset='115431761' lat='1.291663' lon='103.854655' />
+  <node id='1446076194' timestamp='2018-06-12T08:48:20Z' uid='7671613' user='naik4' visible='true' version='3' changeset='59768617' lat='1.2888378' lon='103.8640004' />
+  <node id='1446076209' timestamp='2018-06-12T08:48:20Z' uid='7671613' user='naik4' visible='true' version='4' changeset='59768617' lat='1.2895198' lon='103.864381' />
+  <node id='1446076213' timestamp='2011-09-26T08:48:17Z' uid='429794' user='SennaHB' visible='true' version='1' changeset='9399921' lat='1.2897557' lon='103.8572552' />
+  <node id='1446076214' timestamp='2017-12-07T19:35:22Z' uid='6095805' user='FlyTy' visible='true' version='3' changeset='54440863' lat='1.289794' lon='103.8569869' />
+  <node id='1446076215' timestamp='2017-01-11T01:01:40Z' uid='4759993' user='TheNodeWarrior' visible='true' version='2' changeset='45065922' lat='1.2937185' lon='103.8623795' />
+  <node id='1446076217' timestamp='2017-01-11T01:01:40Z' uid='4759993' user='TheNodeWarrior' visible='true' version='2' changeset='45065922' lat='1.293866' lon='103.862354' />
+  <node id='1446076218' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='3' changeset='68195393' lat='1.294069' lon='103.8638425' />
+  <node id='1446076223' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.294593' lon='103.8630206' />
+  <node id='1683099954' timestamp='2012-03-20T10:21:57Z' uid='338611' user='marek kleciak' visible='true' version='1' changeset='11039617' lat='1.2925175' lon='103.8533954' />
+  <node id='1720073355' timestamp='2019-10-17T17:54:57Z' uid='6095836' user='feta2' visible='true' version='8' changeset='75856514' lat='1.291612' lon='103.8585312' />
+  <node id='1720073397' timestamp='2017-12-13T20:59:36Z' uid='6095772' user='cartogram' visible='true' version='6' changeset='54607659' lat='1.2923891' lon='103.857176' />
+  <node id='1720073406' timestamp='2019-12-01T06:08:39Z' uid='6744861' user='ludofru' visible='true' version='10' changeset='77773469' lat='1.2914743' lon='103.8590169' />
+  <node id='1720073678' timestamp='2012-04-17T03:49:22Z' uid='602634' user='matx17' visible='true' version='1' changeset='11328693' lat='1.2899906' lon='103.8565472' />
+  <node id='1743939385' timestamp='2014-09-14T12:04:39Z' uid='257555' user='rene78' visible='true' version='4' changeset='25430642' lat='1.2903202' lon='103.8561732' />
+  <node id='1764794836' timestamp='2015-08-08T00:54:49Z' uid='1256497' user='andi9876' visible='true' version='2' changeset='33193406' lat='1.2901081' lon='103.8546059' />
+  <node id='1764796980' timestamp='2017-12-07T19:35:22Z' uid='6095805' user='FlyTy' visible='true' version='5' changeset='54440863' lat='1.2902236' lon='103.8562853'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='1764796983' timestamp='2014-09-14T12:04:38Z' uid='257555' user='rene78' visible='true' version='2' changeset='25430642' lat='1.2898254' lon='103.8568781' />
+  <node id='1764796984' timestamp='2012-05-25T04:19:12Z' uid='602634' user='matx17' visible='true' version='1' changeset='11695137' lat='1.2899135' lon='103.8566645' />
+  <node id='1780184888' timestamp='2018-06-12T08:48:22Z' uid='7671613' user='naik4' visible='true' version='3' changeset='59768617' lat='1.2897245' lon='103.8577558' />
+  <node id='1818161326' timestamp='2012-07-08T20:24:17Z' uid='255802' user='cboothroyd' visible='true' version='1' changeset='12154806' lat='1.2897446' lon='103.857456' />
+  <node id='1818164136' timestamp='2014-09-14T12:04:38Z' uid='257555' user='rene78' visible='true' version='3' changeset='25430642' lat='1.2922894' lon='103.8552936' />
+  <node id='1832823578' timestamp='2012-07-21T08:00:42Z' uid='741163' user='JaLooooNz' visible='true' version='1' changeset='12402967' lat='1.2896309' lon='103.8545091' />
+  <node id='1832823589' timestamp='2012-07-21T08:00:43Z' uid='741163' user='JaLooooNz' visible='true' version='1' changeset='12402967' lat='1.2897515' lon='103.8573304' />
+  <node id='1832823650' timestamp='2019-11-27T11:47:10Z' uid='9279453' user='organti' visible='true' version='4' changeset='77627624' lat='1.2904258' lon='103.8546926' />
+  <node id='1832823668' timestamp='2019-12-01T06:08:39Z' uid='6744861' user='ludofru' visible='true' version='6' changeset='77773469' lat='1.2914045' lon='103.8600284' />
+  <node id='1832823669' timestamp='2019-08-25T07:26:05Z' uid='6744861' user='ludofru' visible='true' version='6' changeset='73711163' lat='1.2915233' lon='103.8587725' />
+  <node id='1832823705' timestamp='2018-06-12T08:48:25Z' uid='7671613' user='naik4' visible='true' version='3' changeset='59768617' lat='1.2917797' lon='103.8582436' />
+  <node id='2466494264' timestamp='2013-09-21T13:42:51Z' uid='780953' user='jRonny' visible='true' version='1' changeset='17956914' lat='1.2899715' lon='103.8565763' />
+  <node id='2466494275' timestamp='2013-09-21T13:42:52Z' uid='780953' user='jRonny' visible='true' version='1' changeset='17956914' lat='1.2897436' lon='103.8574821' />
+  <node id='2466494277' timestamp='2013-09-21T13:42:52Z' uid='780953' user='jRonny' visible='true' version='1' changeset='17956914' lat='1.2911273' lon='103.8552331' />
+  <node id='2466494309' timestamp='2013-09-21T13:42:52Z' uid='780953' user='jRonny' visible='true' version='1' changeset='17956914' lat='1.2912783' lon='103.855059' />
+  <node id='2466494322' timestamp='2013-09-21T13:42:52Z' uid='780953' user='jRonny' visible='true' version='1' changeset='17956914' lat='1.2900434' lon='103.8545929' />
+  <node id='2466494338' timestamp='2013-09-21T13:42:52Z' uid='780953' user='jRonny' visible='true' version='1' changeset='17956914' lat='1.2893353' lon='103.8544491' />
+  <node id='2466494350' timestamp='2019-02-15T09:24:44Z' uid='257555' user='rene78' visible='true' version='4' changeset='67220806' lat='1.2865277' lon='103.8539121'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='2466494354' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='4' changeset='68195393' lat='1.2909735' lon='103.8548828' />
+  <node id='2466494363' timestamp='2020-01-14T04:16:36Z' uid='9279453' user='organti' visible='true' version='4' changeset='79541568' lat='1.289738' lon='103.8575748' />
+  <node id='2466494365' timestamp='2014-09-14T12:04:38Z' uid='257555' user='rene78' visible='true' version='3' changeset='25430642' lat='1.2904669' lon='103.8559901' />
+  <node id='2466494373' timestamp='2014-09-14T12:04:38Z' uid='257555' user='rene78' visible='true' version='3' changeset='25430642' lat='1.2915866' lon='103.8549246' />
+  <node id='2466494375' timestamp='2013-09-21T13:42:53Z' uid='780953' user='jRonny' visible='true' version='1' changeset='17956914' lat='1.2898782' lon='103.8567376' />
+  <node id='2466494379' timestamp='2020-01-14T04:16:36Z' uid='9279453' user='organti' visible='true' version='2' changeset='79541568' lat='1.2877946' lon='103.8541517' />
+  <node id='2466494397' timestamp='2013-09-21T13:42:53Z' uid='780953' user='jRonny' visible='true' version='1' changeset='17956914' lat='1.2900794' lon='103.8564514' />
+  <node id='2619488287' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='7' changeset='76602433' lat='1.2895339' lon='103.8598983'>
+    <tag k='barrier' v='yes' />
+  </node>
+  <node id='3010901874' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='9' changeset='76602433' lat='1.2889284' lon='103.8598106' />
+  <node id='3010901912' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='7' changeset='115431761' lat='1.2889492' lon='103.8516398'>
+    <tag k='traffic_calming' v='island' />
+  </node>
+  <node id='3010901923' timestamp='2014-09-11T02:13:20Z' uid='2324175' user='peiwen' visible='true' version='2' changeset='25359249' lat='1.2897751' lon='103.8571045' />
+  <node id='3059486888' timestamp='2019-03-22T22:54:29Z' uid='6095836' user='feta2' visible='true' version='3' changeset='68430195' lat='1.2927809' lon='103.856514' />
+  <node id='3059486893' timestamp='2017-12-13T20:59:36Z' uid='6095772' user='cartogram' visible='true' version='3' changeset='54607659' lat='1.2925027' lon='103.8569856' />
+  <node id='3071267371' timestamp='2014-09-14T12:04:38Z' uid='257555' user='rene78' visible='true' version='2' changeset='25430642' lat='1.2928507' lon='103.8556295' />
+  <node id='3071267396' timestamp='2014-09-14T12:16:22Z' uid='257555' user='rene78' visible='true' version='2' changeset='25430642' lat='1.2924047' lon='103.8539248' />
+  <node id='3076643588' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='4' changeset='68195393' lat='1.2887895' lon='103.8619413' />
+  <node id='3076643589' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2886823' lon='103.8639966' />
+  <node id='3076643594' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2886587' lon='103.8638731' />
+  <node id='3076643599' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='3' changeset='76602433' lat='1.2889066' lon='103.8580825' />
+  <node id='3076643603' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2893749' lon='103.861277' />
+  <node id='3076643605' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2892211' lon='103.861277' />
+  <node id='3076643606' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2896455' lon='103.8644918' />
+  <node id='3076643607' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='3' changeset='76602433' lat='1.2890692' lon='103.8578233' />
+  <node id='3076643608' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='4' changeset='76602433' lat='1.289456' lon='103.8577602' />
+  <node id='3076643611' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='3' changeset='59768617' lat='1.2894944' lon='103.8612069'>
+    <tag k='barrier' v='yes' />
+  </node>
+  <node id='3076643613' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='3' changeset='76602433' lat='1.2888395' lon='103.8598009' />
+  <node id='3076643614' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='3' changeset='68195393' lat='1.294785' lon='103.8628791' />
+  <node id='3076643616' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='3' changeset='68195393' lat='1.2888304' lon='103.861576' />
+  <node id='3076643619' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2893684' lon='103.8644684' />
+  <node id='3076643620' timestamp='2019-07-23T02:20:12Z' uid='8728806' user='attili1' visible='true' version='4' changeset='72536208' lat='1.2912552' lon='103.862347' />
+  <node id='3076643621' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2948294' lon='103.8626109' />
+  <node id='3076643622' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.28906' lon='103.8612981' />
+  <node id='3076643623' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='3' changeset='68195393' lat='1.2943562' lon='103.8638198' />
+  <node id='3076643625' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='3' changeset='76602433' lat='1.2888043' lon='103.8597112' />
+  <node id='3076643626' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2886748' lon='103.8635476' />
+  <node id='3076643627' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='3' changeset='68195393' lat='1.2943667' lon='103.8635511' />
+  <node id='3076643628' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2948393' lon='103.8627335' />
+  <node id='3076643629' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='3' changeset='68195393' lat='1.2943578' lon='103.8637208' />
+  <node id='3076643631' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='3' changeset='76602433' lat='1.2892229' lon='103.8577633' />
+  <node id='3076643632' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2887606' lon='103.8640787' />
+  <node id='3076644033' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='4' changeset='76602433' lat='1.2889323' lon='103.8579942' />
+  <node id='3076644034' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='4' changeset='76602433' lat='1.2896964' lon='103.8577675'>
+    <tag k='barrier' v='yes' />
+  </node>
+  <node id='3076644035' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='7' changeset='76602433' lat='1.2893772' lon='103.8598616' />
+  <node id='3076644036' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2889054' lon='103.8613893' />
+  <node id='3076644037' timestamp='2018-06-12T08:48:32Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2895026' lon='103.8645045' />
+  <node id='3736885019' timestamp='2019-07-23T02:20:12Z' uid='8728806' user='attili1' visible='true' version='11' changeset='72536208' lat='1.2913099' lon='103.8620486' />
+  <node id='3736885022' timestamp='2019-07-23T02:20:12Z' uid='8728806' user='attili1' visible='true' version='9' changeset='72536208' lat='1.2913406' lon='103.8616157' />
+  <node id='4281759834' timestamp='2018-06-12T08:48:33Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2916929' lon='103.8642117'>
+    <tag k='race course' v='start_end' />
+  </node>
+  <node id='4281759839' timestamp='2019-12-01T06:08:39Z' uid='6744861' user='ludofru' visible='true' version='5' changeset='77773469' lat='1.2914445' lon='103.8593764' />
+  <node id='4451336954' timestamp='2017-11-16T22:41:46Z' uid='6346054' user='happy-camper' visible='true' version='5' changeset='53857753' lat='1.2884014' lon='103.8523418' />
+  <node id='4513378919' timestamp='2016-11-21T09:28:32Z' uid='1927974' user='dinastik' visible='true' version='1' changeset='43841981' lat='1.2920088' lon='103.8543182' />
+  <node id='4600842968' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='4' changeset='72857360' lat='1.2914334' lon='103.862765' />
+  <node id='4600854642' timestamp='2019-12-01T06:08:39Z' uid='6744861' user='ludofru' visible='true' version='7' changeset='77773469' lat='1.2913829' lon='103.86038' />
+  <node id='4689967578' timestamp='2017-02-17T06:19:52Z' uid='5084650' user='woodennature' visible='true' version='1' changeset='46155682' lat='1.2907304' lon='103.8523289'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+    <tag k='kerb' v='lowered' />
+    <tag k='tactile_paving' v='yes' />
+  </node>
+  <node id='4726227141' timestamp='2019-11-29T03:01:24Z' uid='8728806' user='attili1' visible='true' version='7' changeset='77703352' lat='1.2913424' lon='103.8612076' />
+  <node id='4726775783' timestamp='2018-02-14T02:00:49Z' uid='7128658' user='luked2000' visible='true' version='3' changeset='56339309' lat='1.2911447' lon='103.855215' />
+  <node id='4726775785' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='4' changeset='68195393' lat='1.2910827' lon='103.8549222' />
+  <node id='4727947772' timestamp='2019-12-01T06:08:39Z' uid='6744861' user='ludofru' visible='true' version='7' changeset='77773469' lat='1.2914593' lon='103.8591706' />
+  <node id='4732505517' timestamp='2017-11-16T22:41:47Z' uid='6346054' user='happy-camper' visible='true' version='2' changeset='53857753' lat='1.2883751' lon='103.8523538' />
+  <node id='4732525705' timestamp='2017-12-07T23:13:41Z' uid='6095805' user='FlyTy' visible='true' version='3' changeset='54445307' lat='1.2910839' lon='103.8525268' />
+  <node id='5136090633' timestamp='2019-07-23T02:20:12Z' uid='8728806' user='attili1' visible='true' version='6' changeset='72536208' lat='1.2913404' lon='103.8615148'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='5157731601' timestamp='2018-06-12T08:48:39Z' uid='7671613' user='naik4' visible='true' version='3' changeset='59768617' lat='1.2887046' lon='103.8627747' />
+  <node id='5165925965' timestamp='2019-11-28T12:35:46Z' uid='9279453' user='organti' visible='true' version='8' changeset='77680050' lat='1.2895869' lon='103.8605929' />
+  <node id='5233693837' timestamp='2017-11-16T22:41:43Z' uid='6346054' user='happy-camper' visible='true' version='1' changeset='53857753' lat='1.288464' lon='103.8522876' />
+  <node id='5233693838' timestamp='2017-11-16T22:41:43Z' uid='6346054' user='happy-camper' visible='true' version='1' changeset='53857753' lat='1.2885016' lon='103.8522399' />
+  <node id='5270623340' timestamp='2017-12-07T19:35:21Z' uid='6095805' user='FlyTy' visible='true' version='1' changeset='54440863' lat='1.2897529' lon='103.8573057' />
+  <node id='5270855792' timestamp='2017-12-07T22:16:00Z' uid='6095805' user='FlyTy' visible='true' version='1' changeset='54444483' lat='1.2901772' lon='103.8546242' />
+  <node id='5270855794' timestamp='2017-12-07T22:16:00Z' uid='6095805' user='FlyTy' visible='true' version='1' changeset='54444483' lat='1.2900031' lon='103.8545847' />
+  <node id='5270928837' timestamp='2019-10-22T06:04:13Z' uid='10373200' user='Map3787' visible='true' version='2' changeset='76028761' lat='1.2908769' lon='103.8524116' />
+  <node id='5270981855' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='6' changeset='80292421' lat='1.2917694' lon='103.8582593' />
+  <node id='5270981856' timestamp='2019-09-09T08:56:36Z' uid='7446646' user='harishpuppala' visible='true' version='5' changeset='74250231' lat='1.291982' lon='103.8578896' />
+  <node id='5411304500' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2942405' lon='103.8639217' />
+  <node id='5411304501' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2943034' lon='103.8638941' />
+  <node id='5411304502' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2944915' lon='103.8631437' />
+  <node id='5411304505' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2943388' lon='103.8633693' />
+  <node id='5411304506' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2943961' lon='103.8634178' />
+  <node id='5411304507' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2943588' lon='103.8636225' />
+  <node id='5411304508' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2944297' lon='103.8632984' />
+  <node id='5411304510' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2947144' lon='103.8629382' />
+  <node id='5411304511' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2948213' lon='103.8628109' />
+  <node id='5411304513' timestamp='2018-06-12T08:48:42Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.289426' lon='103.8644928' />
+  <node id='5411304514' timestamp='2018-06-12T08:48:42Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2887103' lon='103.8640432' />
+  <node id='5411304515' timestamp='2018-06-12T08:48:42Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2886633' lon='103.8639349' />
+  <node id='5411304516' timestamp='2018-06-12T08:48:42Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2887674' lon='103.8638848' />
+  <node id='5411304517' timestamp='2018-06-12T08:48:42Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2888105' lon='103.8639727' />
+  <node id='5411304519' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='3' changeset='76602433' lat='1.2891442' lon='103.8577806' />
+  <node id='5411304520' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='3' changeset='76602433' lat='1.2889862' lon='103.8579051' />
+  <node id='5411304721' timestamp='2018-06-12T08:48:42Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2894373' lon='103.8612622' />
+  <node id='5411304722' timestamp='2018-06-12T08:48:42Z' uid='7671613' user='naik4' visible='true' version='2' changeset='59768617' lat='1.2889754' lon='103.8613328' />
+  <node id='5411304900' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='4' changeset='76602433' lat='1.2894853' lon='103.8598897' />
+  <node id='5411304901' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='3' changeset='76602433' lat='1.2888135' lon='103.8597645' />
+  <node id='5864342563' timestamp='2019-10-30T02:56:11Z' uid='6744861' user='ludofru' visible='true' version='4' changeset='76372184' lat='1.2895775' lon='103.8608353'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='5864342578' timestamp='2019-11-29T03:01:24Z' uid='8728806' user='attili1' visible='true' version='6' changeset='77703352' lat='1.2913364' lon='103.860753'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='5864342580' timestamp='2019-11-29T03:01:24Z' uid='8728806' user='attili1' visible='true' version='4' changeset='77703352' lat='1.2913371' lon='103.8610007'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='5864347585' timestamp='2019-12-01T06:08:39Z' uid='6744861' user='ludofru' visible='true' version='5' changeset='77773469' lat='1.2914246' lon='103.8597007' />
+  <node id='5864381389' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393' lat='1.2948413' lon='103.8626515' />
+  <node id='6046754591' timestamp='2018-11-08T16:25:58Z' uid='8607450' user='srivani1' visible='true' version='1' changeset='64298139' lat='1.2944856' lon='103.8623818' />
+  <node id='6077839914' timestamp='2020-09-10T03:10:17Z' uid='9419765' user='pra_veen' visible='true' version='2' changeset='90671689' lat='1.2919144' lon='103.8529922' />
+  <node id='6094193512' timestamp='2018-11-27T01:44:17Z' uid='7671566' user='zakriya1' visible='true' version='1' changeset='64917881' lat='1.2924516' lon='103.8570723' />
+  <node id='6095372887' timestamp='2018-11-27T12:18:45Z' uid='7671617' user='Rakesh9' visible='true' version='1' changeset='64934156' lat='1.2912821' lon='103.8526354' />
+  <node id='6340950153' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2926489' lon='103.8640608' />
+  <node id='6340950154' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2928871' lon='103.8640375' />
+  <node id='6340950155' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2931935' lon='103.8640305' />
+  <node id='6340950156' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2937056' lon='103.864041' />
+  <node id='6340950157' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.293853' lon='103.8640224' />
+  <node id='6340950158' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2939935' lon='103.8639949' />
+  <node id='6340950159' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.294336' lon='103.8638678' />
+  <node id='6340950160' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2943863' lon='103.863276' />
+  <node id='6340950161' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2943066' lon='103.863457' />
+  <node id='6340950162' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2937973' lon='103.863917' />
+  <node id='6340950163' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2936526' lon='103.8639285' />
+  <node id='6340950164' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2927527' lon='103.8639114' />
+  <node id='6340950165' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2929638' lon='103.8639016' />
+  <node id='6340950166' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2928552' lon='103.863905' />
+  <node id='6340950167' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2945423' lon='103.8630729' />
+  <node id='6340950168' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2947048' lon='103.8624761' />
+  <node id='6340950169' timestamp='2019-03-16T04:30:50Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2946376' lon='103.8624309' />
+  <node id='6340950170' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='2' changeset='72857360' lat='1.292604' lon='103.8627941' />
+  <node id='6340950171' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='2' changeset='72857360' lat='1.2928397' lon='103.8627184' />
+  <node id='6340950173' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='2' changeset='72857360' lat='1.2914723' lon='103.8628065' />
+  <node id='6340950174' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='2' changeset='72857360' lat='1.2916159' lon='103.8628898' />
+  <node id='6340950175' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='2' changeset='72857360' lat='1.2916981' lon='103.8629054' />
+  <node id='6340950178' timestamp='2019-11-04T16:01:45Z' uid='741163' user='JaLooooNz' visible='true' version='2' changeset='76602433' lat='1.2895834' lon='103.8599222' />
+  <node id='6340950179' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='3' changeset='80292421' lat='1.2896152' lon='103.8599726' />
+  <node id='6340950180' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2891389' lon='103.8612786' />
+  <node id='6340950181' timestamp='2019-03-16T04:30:51Z' uid='1856060' user='patodiez' visible='true' version='1' changeset='68195393' lat='1.2888544' lon='103.8614754' />
+  <node id='6355011388' timestamp='2019-03-22T17:48:53Z' uid='6095836' user='feta2' visible='true' version='1' changeset='68421367' lat='1.2929484' lon='103.8562154' />
+  <node id='6374444454' timestamp='2019-03-31T18:38:17Z' uid='2014259' user='nickjohnston' visible='true' version='1' changeset='68732340' lat='1.2888019' lon='103.8618303' />
+  <node id='6413721257' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='2' changeset='115431761' lat='1.2887807' lon='103.851867' />
+  <node id='6413721265' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='2' changeset='115431761' lat='1.2886636' lon='103.8520374' />
+  <node id='6432919892' timestamp='2019-04-27T18:04:26Z' uid='3610826' user='km2bp' visible='true' version='1' changeset='69646438' lat='1.2943413' lon='103.8623708' />
+  <node id='6433028833' timestamp='2019-04-27T19:31:53Z' uid='3610826' user='km2bp' visible='true' version='1' changeset='69648282' lat='1.2937976' lon='103.8623658' />
+  <node id='6433028834' timestamp='2019-04-27T19:31:53Z' uid='3610826' user='km2bp' visible='true' version='1' changeset='69648282' lat='1.2933616' lon='103.8625264' />
+  <node id='6665734167' timestamp='2019-07-31T13:35:05Z' uid='10141444' user='grabtaxi6' visible='true' version='1' changeset='72857360' lat='1.2913649' lon='103.8626721' />
+  <node id='6743567258' timestamp='2019-08-25T07:26:05Z' uid='6744861' user='ludofru' visible='true' version='1' changeset='73711163' lat='1.2915103' lon='103.8588089' />
+  <node id='6769049627' timestamp='2019-09-03T10:37:04Z' uid='9094277' user='Siobkhan' visible='true' version='1' changeset='74033010' lat='1.2917335' lon='103.8583109' />
+  <node id='6782303341' timestamp='2019-09-09T08:56:36Z' uid='7446646' user='harishpuppala' visible='true' version='1' changeset='74250231' lat='1.2919894' lon='103.8578775' />
+  <node id='6782303342' timestamp='2019-10-17T17:54:57Z' uid='6095836' user='feta2' visible='true' version='2' changeset='75856514' lat='1.292102' lon='103.8576827' />
+  <node id='6856578454' timestamp='2019-10-07T05:52:55Z' uid='7446646' user='harishpuppala' visible='true' version='1' changeset='75357835' lat='1.2892183' lon='103.8512854' />
+  <node id='6856578455' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='2' changeset='115431761' lat='1.289092' lon='103.8514513' />
+  <node id='6997023277' timestamp='2019-11-21T18:01:46Z' uid='9279453' user='organti' visible='true' version='1' changeset='77392484' lat='1.2896701' lon='103.8517392' />
+  <node id='6997023278' timestamp='2019-11-21T18:01:46Z' uid='9279453' user='organti' visible='true' version='1' changeset='77392484' lat='1.289514' lon='103.8516524' />
+  <node id='7023019223' timestamp='2019-12-01T06:08:39Z' uid='6744861' user='ludofru' visible='true' version='1' changeset='77773469' lat='1.2914498' lon='103.8593022' />
+  <node id='7138225045' timestamp='2020-01-17T03:42:06Z' uid='9279453' user='organti' visible='true' version='1' changeset='79674260' lat='1.2909466' lon='103.8554509' />
+  <node id='7759646003' timestamp='2020-07-28T02:35:00Z' uid='10050951' user='ki_ran' visible='true' version='1' changeset='88591197' lat='1.2924992' lon='103.855412' />
+  <node id='7863541446' timestamp='2020-09-01T04:46:58Z' uid='7671613' user='naik4' visible='true' version='1' changeset='90220516' lat='1.2919464' lon='103.8628983' />
+  <node id='7863612116' timestamp='2020-09-01T05:30:04Z' uid='8967857' user='bhavyakota' visible='true' version='1' changeset='90222092' lat='1.2895995' lon='103.8603163' />
+  <node id='7863710749' timestamp='2020-09-01T06:32:10Z' uid='11030824' user='kgr_7' visible='true' version='1' changeset='90224340' lat='1.2895618' lon='103.8544951' />
+  <node id='7867763422' timestamp='2020-09-02T09:33:38Z' uid='10326095' user='rthik007' visible='true' version='1' changeset='90293168' lat='1.2924912' lon='103.8537917'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='7891770123' timestamp='2020-09-10T03:10:17Z' uid='9419765' user='pra_veen' visible='true' version='1' changeset='90671689' lat='1.2921701' lon='103.853132' />
+  <node id='8169664152' timestamp='2020-11-27T07:21:09Z' uid='10373200' user='Map3787' visible='true' version='1' changeset='94877788' lat='1.2915357' lon='103.8549025' />
+  <node id='8169664154' timestamp='2020-11-27T07:21:09Z' uid='10373200' user='Map3787' visible='true' version='1' changeset='94877788' lat='1.2918822' lon='103.8550798' />
+  <node id='9370421301' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='1' changeset='115431761' lat='1.2886362' lon='103.8520792' />
+  <node id='9370421302' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='1' changeset='115431761' lat='1.2891874' lon='103.8514743' />
+  <node id='9370421303' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='1' changeset='115431761' lat='1.2891414' lon='103.8514573' />
+  <node id='9370423135' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='1' changeset='115431761' lat='1.2920809' lon='103.8530832' />
+  <way id='16688065' timestamp='2020-11-27T07:21:09Z' uid='10373200' user='Map3787' visible='true' version='23' changeset='94877788'>
+    <nd ref='233879753' />
+    <nd ref='8169664152' />
+    <nd ref='2466494373' />
+    <nd ref='8169664154' />
+    <nd ref='1818164136' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Nicoll Highway' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='21584500' timestamp='2022-01-01T07:37:40Z' uid='10373200' user='Map3787' visible='true' version='22' changeset='115628596'>
+    <nd ref='6997023277' />
+    <nd ref='4689967578' />
+    <nd ref='5270928837' />
+    <nd ref='232279092' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through' />
+  </way>
+  <way id='21701074' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='27' changeset='80292421'>
+    <nd ref='3059486888' />
+    <nd ref='233879798' />
+    <nd ref='3059486893' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='21805129' timestamp='2020-09-01T04:46:58Z' uid='7671613' user='naik4' visible='true' version='31' changeset='90220516'>
+    <nd ref='462263951' />
+    <nd ref='6340950174' />
+    <nd ref='6340950175' />
+    <nd ref='1188527792' />
+    <nd ref='7863541446' />
+    <nd ref='235070526' />
+    <nd ref='235070560' />
+    <nd ref='6340950170' />
+    <nd ref='6340950171' />
+    <nd ref='6433028834' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='21998987' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='24' changeset='80292421'>
+    <nd ref='1832823650' />
+    <nd ref='237012201' />
+    <nd ref='5270855792' />
+    <nd ref='1764794836' />
+    <nd ref='2466494322' />
+    <nd ref='5270855794' />
+    <nd ref='967949307' />
+    <nd ref='1832823578' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='35037536' timestamp='2020-01-14T04:16:36Z' uid='9279453' user='organti' visible='true' version='15' changeset='79541568'>
+    <nd ref='410939419' />
+    <nd ref='2466494379' />
+    <tag k='bridge' v='yes' />
+    <tag k='bridge:name' v='Esplanade Bridge' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='1' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='start_date' v='1997' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='35037537' timestamp='2020-02-06T17:07:18Z' uid='9419765' user='pra_veen' visible='true' version='11' changeset='80653820'>
+    <nd ref='410939421' />
+    <nd ref='2466494350' />
+    <nd ref='237012269' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through;right' />
+  </way>
+  <way id='51511339' timestamp='2019-10-30T22:59:08Z' uid='9368471' user='Burricane' visible='true' version='6' changeset='76417841'>
+    <nd ref='233879753' />
+    <nd ref='1398079475' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='51511352' timestamp='2020-03-20T05:52:52Z' uid='10255156' user='GrabSG_LydiaN' visible='true' version='13' changeset='82416538'>
+    <nd ref='172510077' />
+    <nd ref='233497179' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Bras Basah Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='75067163' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='19' changeset='80292421'>
+    <nd ref='233880373' />
+    <nd ref='6782303342' />
+    <nd ref='595497945' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='100484287' timestamp='2019-03-16T04:30:52Z' uid='1856060' user='patodiez' visible='true' version='12' changeset='68195393'>
+    <nd ref='1161613127' />
+    <nd ref='1161613227' />
+    <nd ref='1161613033' />
+    <nd ref='5411304516' />
+    <nd ref='1161613230' />
+    <nd ref='5411304517' />
+    <nd ref='1446076194' />
+    <nd ref='1161613118' />
+    <nd ref='1161613185' />
+    <nd ref='1161612960' />
+    <nd ref='1446076209' />
+    <nd ref='1161613167' />
+    <nd ref='1161613204' />
+    <nd ref='6340950164' />
+    <nd ref='6340950166' />
+    <nd ref='6340950165' />
+    <nd ref='6340950163' />
+    <nd ref='1161613046' />
+    <nd ref='6340950162' />
+    <nd ref='1161612996' />
+    <nd ref='1446076218' />
+    <nd ref='1161613002' />
+    <nd ref='1161613070' />
+    <nd ref='1161613131' />
+    <nd ref='1161613173' />
+    <nd ref='6340950161' />
+    <nd ref='5411304505' />
+    <nd ref='6340950160' />
+    <nd ref='5411304502' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Pit Lane' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='pitlane' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='152783801' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='13' changeset='80292421'>
+    <nd ref='233879603' />
+    <nd ref='479983003' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through;right' />
+  </way>
+  <way id='155907160' timestamp='2022-01-01T07:37:40Z' uid='10373200' user='Map3787' visible='true' version='13' changeset='115628596'>
+    <nd ref='232279092' />
+    <nd ref='4732525705' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through' />
+  </way>
+  <way id='156457347' timestamp='2021-10-24T04:25:11Z' uid='10499594' user='MapTheWalk' visible='true' version='14' changeset='112892713'>
+    <nd ref='1398079475' />
+    <nd ref='232353353' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='173779732' timestamp='2020-02-10T03:19:18Z' uid='9419765' user='pra_veen' visible='true' version='7' changeset='80771118'>
+    <nd ref='237012269' />
+    <nd ref='237054576' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='173779754' timestamp='2022-01-01T07:37:40Z' uid='10373200' user='Map3787' visible='true' version='11' changeset='115628596'>
+    <nd ref='232376467' />
+    <nd ref='1683099954' />
+    <nd ref='1188509769' />
+    <nd ref='232353226' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through' />
+  </way>
+  <way id='173791995' timestamp='2020-03-27T02:41:19Z' uid='10050951' user='ki_ran' visible='true' version='18' changeset='82689064'>
+    <nd ref='479983003' />
+    <nd ref='5864342563' />
+    <nd ref='5165925965' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='173791997' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='21' changeset='80292421'>
+    <nd ref='595497945' />
+    <nd ref='6782303341' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='174262763' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='16' changeset='80292421'>
+    <nd ref='3736885019' />
+    <nd ref='3076643620' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left|right|right' />
+  </way>
+  <way id='176298699' timestamp='2020-03-05T05:55:05Z' uid='8995742' user='sun_jeev' visible='true' version='16' changeset='81805371'>
+    <nd ref='233879872' />
+    <nd ref='233879899' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='297234502' timestamp='2018-02-14T01:58:08Z' uid='7128658' user='luked2000' visible='true' version='8' changeset='56339267'>
+    <nd ref='3010901874' />
+    <nd ref='3076644035' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='F1 Marina-Bay-Street-Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='tunnel' v='building_passage' />
+  </way>
+  <way id='303311924' timestamp='2019-08-24T10:39:45Z' uid='6744861' user='ludofru' visible='true' version='9' changeset='73693422'>
+    <nd ref='634071195' />
+    <nd ref='3076643611' />
+    <nd ref='5411304721' />
+    <nd ref='3076643603' />
+    <nd ref='3076643605' />
+    <nd ref='6340950180' />
+    <nd ref='3076643622' />
+    <nd ref='5411304722' />
+    <nd ref='3076644036' />
+    <nd ref='6340950181' />
+    <nd ref='3076643616' />
+    <nd ref='6374444454' />
+    <nd ref='3076643588' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='sport' v='motor' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='303311925' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='7' changeset='80292421'>
+    <nd ref='3076644035' />
+    <nd ref='5411304900' />
+    <nd ref='2619488287' />
+    <nd ref='6340950178' />
+    <nd ref='6340950179' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='F1 Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='pitlane' />
+  </way>
+  <way id='303314681' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='12' changeset='80292421'>
+    <nd ref='2466494363' />
+    <nd ref='2466494275' />
+    <nd ref='1818161326' />
+    <nd ref='1832823589' />
+    <nd ref='5270623340' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through;right' />
+  </way>
+  <way id='383365018' timestamp='2020-03-05T05:16:54Z' uid='8995742' user='sun_jeev' visible='true' version='9' changeset='81803971'>
+    <nd ref='3736885022' />
+    <nd ref='3736885019' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='383365019' timestamp='2020-03-05T05:16:54Z' uid='8995742' user='sun_jeev' visible='true' version='12' changeset='81803971'>
+    <nd ref='4726227141' />
+    <nd ref='5136090633' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='448084962' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='13' changeset='115431761'>
+    <nd ref='3010901912' />
+    <nd ref='6413721257' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes:backward' v='through' />
+    <tag k='turn:lanes:forward' v='through' />
+  </way>
+  <way id='459186771' timestamp='2020-07-28T02:35:00Z' uid='10050951' user='ki_ran' visible='true' version='7' changeset='88591197'>
+    <nd ref='7759646003' />
+    <nd ref='3071267371' />
+    <nd ref='172510077' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Nicoll Highway' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through;right|right|right' />
+  </way>
+  <way id='465064165' timestamp='2019-03-16T04:30:52Z' uid='1856060' user='patodiez' visible='true' version='8' changeset='68195393'>
+    <nd ref='5411304502' />
+    <nd ref='6340950167' />
+    <nd ref='1446076223' />
+    <nd ref='5411304510' />
+    <nd ref='3076643614' />
+    <nd ref='5411304511' />
+    <nd ref='3076643628' />
+    <nd ref='5864381389' />
+    <nd ref='3076643621' />
+    <nd ref='235070001' />
+    <tag k='access' v='private' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='pitlane' />
+    <tag k='sport' v='motor' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='475217889' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='10' changeset='115431761'>
+    <nd ref='6856578455' />
+    <nd ref='9370421303' />
+    <nd ref='9370421302' />
+    <nd ref='232353925' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through' />
+  </way>
+  <way id='479284866' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='6' changeset='80292421'>
+    <nd ref='634071195' />
+    <nd ref='233879603' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|through|through;right|right' />
+  </way>
+  <way id='479540200' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='16' changeset='80292421'>
+    <nd ref='1720073355' />
+    <nd ref='233879856' />
+    <nd ref='1832823669' />
+    <nd ref='6743567258' />
+    <nd ref='1720073406' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='479540202' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='8' changeset='80292421'>
+    <nd ref='4600854642' />
+    <nd ref='5864342578' />
+    <nd ref='233879872' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through;right|right' />
+  </way>
+  <way id='479565612' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='8' changeset='80292421'>
+    <nd ref='1743939385' />
+    <nd ref='2466494365' />
+    <nd ref='233879440' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|through|through|through|right' />
+  </way>
+  <way id='479565613' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='6' changeset='80292421'>
+    <nd ref='7138225045' />
+    <nd ref='2466494277' />
+    <nd ref='4726775783' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left;through|through|through|through;right|right' />
+  </way>
+  <way id='479565615' timestamp='2020-09-02T09:33:38Z' uid='10326095' user='rthik007' visible='true' version='5' changeset='90293168'>
+    <nd ref='3071267396' />
+    <nd ref='7867763422' />
+    <nd ref='232353226' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through' />
+  </way>
+  <way id='479605911' timestamp='2020-03-26T04:51:21Z' uid='10050951' user='ki_ran' visible='true' version='5' changeset='82639389'>
+    <nd ref='4726775783' />
+    <nd ref='2466494309' />
+    <nd ref='233879421' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|through|through|through;right|right' />
+  </way>
+  <way id='479745478' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='14' changeset='80292421'>
+    <nd ref='4727947772' />
+    <nd ref='7023019223' />
+    <nd ref='4281759839' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxheight' v='4.5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tunnel' v='building_passage' />
+  </way>
+  <way id='479745479' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='13' changeset='80292421'>
+    <nd ref='4281759839' />
+    <nd ref='5864347585' />
+    <tag k='busway:left' v='lane' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='480250096' timestamp='2022-01-01T07:37:40Z' uid='10373200' user='Map3787' visible='true' version='11' changeset='115628596'>
+    <nd ref='4732525705' />
+    <nd ref='6095372887' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through' />
+  </way>
+  <way id='480733941' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='5' changeset='115431761'>
+    <nd ref='4732505517' />
+    <nd ref='4451336954' />
+    <tag k='highway' v='residential' />
+    <tag k='junction' v='roundabout' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='528537303' timestamp='2020-03-05T05:16:54Z' uid='8995742' user='sun_jeev' visible='true' version='7' changeset='81803971'>
+    <nd ref='5136090633' />
+    <nd ref='3736885022' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='545362402' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='9' changeset='80292421'>
+    <nd ref='5270981856' />
+    <nd ref='1832823705' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxheight' v='4.5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tunnel' v='building_passage' />
+  </way>
+  <way id='545362403' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='6' changeset='80292421'>
+    <nd ref='1832823705' />
+    <nd ref='5270981855' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tunnel' v='building_passage' />
+    <tag k='turn:lanes' v='left;through|through|through|through|through' />
+  </way>
+  <way id='572140291' timestamp='2019-03-16T04:30:52Z' uid='1856060' user='patodiez' visible='true' version='2' changeset='68195393'>
+    <nd ref='235070001' />
+    <nd ref='6340950168' />
+    <nd ref='6340950169' />
+    <nd ref='1161612993' />
+    <tag k='access' v='private' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='pitlane' />
+    <tag k='sport' v='motor' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='581766308' timestamp='2018-10-13T05:02:47Z' uid='7671617' user='Rakesh9' visible='true' version='2' changeset='63477250'>
+    <nd ref='233879421' />
+    <nd ref='4726775785' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='581942152' timestamp='2020-09-01T06:20:42Z' uid='8967857' user='bhavyakota' visible='true' version='7' changeset='90223798'>
+    <nd ref='5165925965' />
+    <nd ref='7863612116' />
+    <nd ref='6340950179' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='584419619' timestamp='2020-03-05T05:16:54Z' uid='8995742' user='sun_jeev' visible='true' version='7' changeset='81803971'>
+    <nd ref='233879899' />
+    <nd ref='5864342580' />
+    <nd ref='4726227141' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='633311062' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='6' changeset='80292421'>
+    <nd ref='1446076214' />
+    <nd ref='1764796983' />
+    <nd ref='233879502' />
+    <nd ref='2466494375' />
+    <nd ref='1764796984' />
+    <nd ref='2466494264' />
+    <nd ref='1720073678' />
+    <nd ref='2466494397' />
+    <nd ref='233879466' />
+    <nd ref='1764796980' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through' />
+  </way>
+  <way id='633871919' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='6' changeset='80292421'>
+    <nd ref='5864347585' />
+    <nd ref='1832823668' />
+    <tag k='busway:left' v='lane' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|none|none|none|none' />
+  </way>
+  <way id='633871920' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='5' changeset='80292421'>
+    <nd ref='1832823668' />
+    <nd ref='4600854642' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|through|through|through|through;right|right' />
+  </way>
+  <way id='634770511' timestamp='2021-10-24T04:25:08Z' uid='10499594' user='MapTheWalk' visible='true' version='6' changeset='112892713'>
+    <nd ref='4513378919' />
+    <nd ref='232353185' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through' />
+  </way>
+  <way id='634832601' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='6' changeset='80292421'>
+    <nd ref='1764796980' />
+    <nd ref='1743939385' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through' />
+  </way>
+  <way id='635373148' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='9' changeset='80292421'>
+    <nd ref='5270981855' />
+    <nd ref='6769049627' />
+    <nd ref='1720073355' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='635375722' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='5' changeset='80292421'>
+    <nd ref='1720073397' />
+    <nd ref='233880373' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left;through|through|through|through|through' />
+  </way>
+  <way id='635390734' timestamp='2020-09-01T06:32:10Z' uid='11030824' user='kgr_7' visible='true' version='2' changeset='90224340'>
+    <nd ref='1832823578' />
+    <nd ref='7863710749' />
+    <nd ref='2466494338' />
+    <nd ref='410939419' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='647084783' timestamp='2022-01-01T07:37:40Z' uid='10373200' user='Map3787' visible='true' version='11' changeset='115628596'>
+    <nd ref='6077839914' />
+    <nd ref='9370423135' />
+    <nd ref='7891770123' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|through|through|through' />
+  </way>
+  <way id='649336906' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='4' changeset='80292421'>
+    <nd ref='6094193512' />
+    <nd ref='1720073397' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left;through|through|through|through|through' />
+  </way>
+  <way id='649520780' timestamp='2022-01-01T07:37:40Z' uid='10373200' user='Map3787' visible='true' version='7' changeset='115628596'>
+    <nd ref='6095372887' />
+    <nd ref='6077839914' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='649944021' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='9' changeset='80292421'>
+    <nd ref='1720073406' />
+    <nd ref='4727947772' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through|through' />
+  </way>
+  <way id='650084964' timestamp='2021-10-24T04:25:09Z' uid='10499594' user='MapTheWalk' visible='true' version='6' changeset='112892713'>
+    <nd ref='232353353' />
+    <nd ref='4513378919' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='654223306' timestamp='2020-09-01T02:03:16Z' uid='7671613' user='naik4' visible='true' version='7' changeset='90215756'>
+    <nd ref='235070344' />
+    <nd ref='6665734167' />
+    <nd ref='4600842968' />
+    <nd ref='6340950173' />
+    <nd ref='462263951' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='672222982' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='3' changeset='80292421'>
+    <nd ref='3076643620' />
+    <nd ref='235070344' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left' />
+  </way>
+  <way id='684544691' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='7' changeset='115431761'>
+    <nd ref='6413721257' />
+    <nd ref='6413721265' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes:backward' v='through;right' />
+    <tag k='turn:lanes:forward' v='through' />
+  </way>
+  <way id='686323967' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='4' changeset='80292421'>
+    <nd ref='6432919892' />
+    <nd ref='6046754591' />
+    <nd ref='1161612993' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='686323968' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='5' changeset='80292421'>
+    <nd ref='1446076215' />
+    <nd ref='6433028833' />
+    <tag k='highway' v='primary' />
+    <tag k='image' v='https://images.mapillary.com/AYKz9KrqqwYJuXU8KLXNuA/thumb-2048.jpg' />
+    <tag k='lanes' v='2' />
+    <tag k='mapillary' v='https://www.mapillary.com/map/im/AYKz9KrqqwYJuXU8KLXNuA' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='686335799' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='4' changeset='80292421'>
+    <nd ref='6433028833' />
+    <nd ref='1446076217' />
+    <nd ref='235070624' />
+    <nd ref='6432919892' />
+    <tag k='highway' v='primary' />
+    <tag k='image' v='https://images.mapillary.com/AYKz9KrqqwYJuXU8KLXNuA/thumb-2048.jpg' />
+    <tag k='lanes' v='2' />
+    <tag k='mapillary' v='https://www.mapillary.com/map/im/AYKz9KrqqwYJuXU8KLXNuA' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='686335800' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='4' changeset='80292421'>
+    <nd ref='6433028834' />
+    <nd ref='235070587' />
+    <nd ref='1446076215' />
+    <tag k='highway' v='primary' />
+    <tag k='image' v='https://images.mapillary.com/o72ouKUNKmshV92TGsV5zw/thumb-2048.jpg' />
+    <tag k='lanes' v='2' />
+    <tag k='mapillary' v='https://www.mapillary.com/map/im/o72ouKUNKmshV92TGsV5zw' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='686335806' timestamp='2019-04-27T19:31:55Z' uid='3610826' user='km2bp' visible='true' version='1' changeset='69648282'>
+    <nd ref='3076643588' />
+    <nd ref='5157731601' />
+    <nd ref='1161613127' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='image' v='https://images.mapillary.com/8ANa6_FW5wLK1ixdGUS1MQ/thumb-2048.jpg' />
+    <tag k='mapillary' v='https://www.mapillary.com/map/im/8ANa6_FW5wLK1ixdGUS1MQ' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='686335807' timestamp='2019-04-27T19:31:55Z' uid='3610826' user='km2bp' visible='true' version='1' changeset='69648282'>
+    <nd ref='1161613127' />
+    <nd ref='3076643626' />
+    <nd ref='3076643594' />
+    <nd ref='5411304515' />
+    <nd ref='3076643589' />
+    <nd ref='5411304514' />
+    <nd ref='3076643632' />
+    <nd ref='3076643619' />
+    <nd ref='5411304513' />
+    <nd ref='3076644037' />
+    <nd ref='3076643606' />
+    <nd ref='4281759834' />
+    <nd ref='6340950153' />
+    <nd ref='6340950154' />
+    <nd ref='6340950155' />
+    <nd ref='6340950156' />
+    <nd ref='6340950157' />
+    <nd ref='6340950158' />
+    <nd ref='5411304500' />
+    <nd ref='5411304501' />
+    <nd ref='6340950159' />
+    <nd ref='3076643623' />
+    <nd ref='3076643629' />
+    <nd ref='5411304507' />
+    <nd ref='3076643627' />
+    <nd ref='5411304506' />
+    <nd ref='5411304508' />
+    <nd ref='5411304502' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='723073393' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='4' changeset='80292421'>
+    <nd ref='6782303341' />
+    <nd ref='5270981856' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through|through' />
+  </way>
+  <way id='747875236' timestamp='2022-01-01T07:37:40Z' uid='10373200' user='Map3787' visible='true' version='5' changeset='115628596'>
+    <nd ref='6997023278' />
+    <nd ref='6997023277' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through' />
+  </way>
+  <way id='747875237' timestamp='2022-01-01T07:37:40Z' uid='10373200' user='Map3787' visible='true' version='5' changeset='115628596'>
+    <nd ref='232353925' />
+    <nd ref='6997023278' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='750071183' timestamp='2021-10-24T04:25:06Z' uid='10499594' user='MapTheWalk' visible='true' version='4' changeset='112892713'>
+    <nd ref='232353185' />
+    <nd ref='3071267396' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through|right' />
+  </way>
+  <way id='750071184' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='3' changeset='80292421'>
+    <nd ref='4726775785' />
+    <nd ref='2466494354' />
+    <nd ref='1832823650' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='759511978' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='4' changeset='115431761'>
+    <nd ref='3010901912' />
+    <nd ref='6856578455' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through' />
+  </way>
+  <way id='763010995' timestamp='2020-01-14T04:16:36Z' uid='9279453' user='organti' visible='true' version='1' changeset='79541568'>
+    <nd ref='2466494379' />
+    <nd ref='410939421' />
+    <tag k='bridge' v='yes' />
+    <tag k='bridge:name' v='Esplanade Bridge' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='1' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='start_date' v='1997' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through;right' />
+  </way>
+  <way id='763525862' timestamp='2020-03-10T03:16:49Z' uid='10434552' user='ash_win' visible='true' version='4' changeset='81989249'>
+    <nd ref='3059486893' />
+    <nd ref='6094193512' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left;through|through|through|through|through' />
+  </way>
+  <way id='763525863' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='3' changeset='80292421'>
+    <nd ref='6355011388' />
+    <nd ref='3059486888' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|through|none|none|none|none' />
+  </way>
+  <way id='763525864' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='3' changeset='80292421'>
+    <nd ref='233497179' />
+    <nd ref='6355011388' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='764062389' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='3' changeset='80292421'>
+    <nd ref='5270623340' />
+    <nd ref='1446076213' />
+    <nd ref='3010901923' />
+    <nd ref='1446076214' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through' />
+  </way>
+  <way id='764062390' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='3' changeset='80292421'>
+    <nd ref='233879440' />
+    <nd ref='7138225045' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|through|through|through;right' />
+  </way>
+  <way id='767388314' timestamp='2020-01-27T22:14:35Z' uid='10676999' user='AndressaSuiti' visible='true' version='1' changeset='80163458'>
+    <nd ref='1780184888' />
+    <nd ref='3076644034' />
+    <nd ref='3076643608' />
+    <nd ref='3076643631' />
+    <nd ref='5411304519' />
+    <nd ref='3076643607' />
+    <nd ref='5411304520' />
+    <nd ref='3076644033' />
+    <nd ref='3076643599' />
+    <nd ref='3076643625' />
+    <nd ref='5411304901' />
+    <nd ref='3076643613' />
+    <nd ref='3010901874' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='sport' v='motor' />
+  </way>
+  <way id='767388315' timestamp='2020-01-30T06:21:46Z' uid='10373200' user='Map3787' visible='true' version='2' changeset='80292421'>
+    <nd ref='1780184888' />
+    <nd ref='2466494363' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through;right' />
+  </way>
+  <way id='831044956' timestamp='2020-07-28T02:35:00Z' uid='10050951' user='ki_ran' visible='true' version='1' changeset='88591197'>
+    <nd ref='1818164136' />
+    <nd ref='7759646003' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Nicoll Highway' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through;right|right' />
+  </way>
+  <way id='845894319' timestamp='2022-01-01T07:37:40Z' uid='10373200' user='Map3787' visible='true' version='2' changeset='115628596'>
+    <nd ref='7891770123' />
+    <nd ref='232376467' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|slight_left;slight_right|through|through' />
+  </way>
+  <way id='1015882722' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='1' changeset='115431761'>
+    <nd ref='4451336954' />
+    <nd ref='5233693837' />
+    <nd ref='5233693838' />
+    <nd ref='9370421301' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through' />
+  </way>
+  <way id='1015882724' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='1' changeset='115431761'>
+    <nd ref='6856578454' />
+    <nd ref='6856578455' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through' />
+  </way>
+  <relation id='421263' timestamp='2021-12-27T15:21:09Z' uid='1927974' user='dinastik' visible='true' version='89' changeset='115431761'>
+    <member type='way' ref='480733941' role='backward' />
+    <member type='way' ref='1015882722' role='backward' />
+    <member type='way' ref='1015882724' role='forward' />
+    <member type='way' ref='475217889' role='backward' />
+    <member type='way' ref='747875237' role='backward' />
+    <member type='way' ref='747875236' role='backward' />
+    <member type='way' ref='21584500' role='backward' />
+    <member type='way' ref='155907160' role='backward' />
+    <member type='way' ref='480250096' role='backward' />
+    <member type='way' ref='649520780' role='backward' />
+    <member type='way' ref='647084783' role='backward' />
+    <member type='way' ref='845894319' role='backward' />
+    <member type='way' ref='173779754' role='backward' />
+    <member type='way' ref='479565615' role='' />
+    <member type='way' ref='750071183' role='' />
+    <member type='way' ref='634770511' role='' />
+    <member type='way' ref='650084964' role='' />
+    <member type='way' ref='156457347' role='' />
+    <member type='way' ref='51511339' role='' />
+    <member type='way' ref='16688065' role='backward' />
+    <member type='way' ref='831044956' role='backward' />
+    <member type='way' ref='459186771' role='backward' />
+    <member type='way' ref='51511352' role='backward' />
+    <member type='way' ref='763525864' role='backward' />
+    <member type='way' ref='763525863' role='backward' />
+    <member type='way' ref='21701074' role='backward' />
+    <member type='way' ref='763525862' role='backward' />
+    <member type='way' ref='649336906' role='backward' />
+    <member type='way' ref='635375722' role='backward' />
+    <member type='way' ref='75067163' role='backward' />
+    <member type='way' ref='173791997' role='backward' />
+    <member type='way' ref='723073393' role='backward' />
+    <member type='way' ref='545362402' role='backward' />
+    <member type='way' ref='545362403' role='backward' />
+    <member type='way' ref='635373148' role='backward' />
+    <member type='way' ref='479540200' role='backward' />
+    <member type='way' ref='649944021' role='backward' />
+    <member type='way' ref='479745478' role='backward' />
+    <member type='way' ref='479745479' role='backward' />
+    <member type='way' ref='633871919' role='backward' />
+    <member type='way' ref='633871920' role='backward' />
+    <member type='way' ref='479540202' role='backward' />
+    <member type='way' ref='176298699' role='backward' />
+    <member type='way' ref='584419619' role='backward' />
+    <member type='way' ref='383365019' role='backward' />
+    <member type='way' ref='528537303' role='' />
+    <member type='way' ref='383365018' role='backward' />
+    <member type='way' ref='174262763' role='backward' />
+    <member type='way' ref='672222982' role='backward' />
+    <member type='way' ref='654223306' role='backward' />
+    <member type='way' ref='21805129' role='backward' />
+    <member type='way' ref='686335800' role='backward' />
+    <member type='way' ref='686323968' role='backward' />
+    <member type='way' ref='686335799' role='backward' />
+    <member type='way' ref='686323967' role='backward' />
+    <member type='way' ref='572140291' role='pitlane' />
+    <member type='way' ref='465064165' role='pitlane' />
+    <member type='way' ref='686335807' role='backward' />
+    <member type='way' ref='686335806' role='backward' />
+    <member type='way' ref='303311924' role='backward' />
+    <member type='way' ref='479284866' role='backward' />
+    <member type='way' ref='152783801' role='backward' />
+    <member type='way' ref='173791995' role='backward' />
+    <member type='way' ref='581942152' role='backward' />
+    <member type='way' ref='303311925' role='' />
+    <member type='way' ref='297234502' role='' />
+    <member type='way' ref='767388314' role='' />
+    <member type='way' ref='767388315' role='' />
+    <member type='way' ref='303314681' role='backward' />
+    <member type='way' ref='764062389' role='backward' />
+    <member type='way' ref='633311062' role='backward' />
+    <member type='way' ref='634832601' role='backward' />
+    <member type='way' ref='479565612' role='backward' />
+    <member type='way' ref='764062390' role='backward' />
+    <member type='way' ref='479565613' role='backward' />
+    <member type='way' ref='479605911' role='backward' />
+    <member type='way' ref='581766308' role='backward' />
+    <member type='way' ref='750071184' role='backward' />
+    <member type='way' ref='21998987' role='backward' />
+    <member type='way' ref='635390734' role='backward' />
+    <member type='way' ref='35037536' role='backward' />
+    <member type='way' ref='763010995' role='backward' />
+    <member type='way' ref='35037537' role='backward' />
+    <member type='way' ref='173779732' role='backward' />
+    <member type='way' ref='759511978' role='backward' />
+    <member type='way' ref='448084962' role='' />
+    <member type='way' ref='684544691' role='' />
+    <member type='way' ref='100484287' role='pitlane' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='type' v='circuit' />
+    <tag k='wikidata' v='Q171390' />
+    <tag k='wikipedia' v='en:Marina Bay Street Circuit' />
+  </relation>
+</osm>

@@ -1,0 +1,755 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='276370536' timestamp='2014-07-01T07:09:50Z' uid='2141437' user='farid336' visible='true' version='9' changeset='23405319' lat='40.3672033' lon='49.8385545' />
+  <node id='276370538' timestamp='2017-11-21T23:46:30Z' uid='5380652' user='SuperUser1' visible='true' version='9' changeset='53988645' lat='40.3692595' lon='49.8427342' />
+  <node id='276370539' timestamp='2017-11-21T23:46:30Z' uid='5380652' user='SuperUser1' visible='true' version='4' changeset='53988645' lat='40.3695023' lon='49.8434647' />
+  <node id='276370540' timestamp='2020-02-06T06:59:17Z' uid='10323643' user='vlae' visible='true' version='9' changeset='80624238' lat='40.3711852' lon='49.8486029' />
+  <node id='276371182' timestamp='2017-08-10T17:47:32Z' uid='5725248' user='roses7' visible='true' version='4' changeset='51009426' lat='40.3704811' lon='49.8432273' />
+  <node id='276371597' timestamp='2014-10-15T18:40:12Z' uid='1643499' user='MenKauRa' visible='true' version='11' changeset='26102272' lat='40.3753588' lon='49.8540553' />
+  <node id='276371601' timestamp='2014-10-15T17:54:46Z' uid='1643499' user='MenKauRa' visible='true' version='5' changeset='26101555' lat='40.3711229' lon='49.8451477' />
+  <node id='276371827' timestamp='2017-08-10T17:47:32Z' uid='5725248' user='roses7' visible='true' version='4' changeset='51009426' lat='40.3702124' lon='49.8456714' />
+  <node id='276371995' timestamp='2013-03-22T16:03:38Z' uid='653224' user='BakuCity' visible='true' version='6' changeset='15455453' lat='40.3722258' lon='49.8445259' />
+  <node id='276371996' timestamp='2012-06-22T06:48:56Z' uid='461940' user='baxi' visible='true' version='3' changeset='11975382' lat='40.3730594' lon='49.8441084' />
+  <node id='276374004' timestamp='2018-09-16T22:15:02Z' uid='7966302' user='Сергей Бокк' visible='true' version='19' changeset='62647823' lat='40.375008' lon='49.8497398' />
+  <node id='276842653' timestamp='2014-05-09T07:36:36Z' uid='1643499' user='MenKauRa' visible='true' version='6' changeset='22224559' lat='40.374395' lon='49.8546605' />
+  <node id='276846861' timestamp='2015-12-12T18:02:48Z' uid='1643499' user='MenKauRa' visible='true' version='6' changeset='35913551' lat='40.3761702' lon='49.8535946' />
+  <node id='276846862' timestamp='2019-01-21T20:26:58Z' uid='8525987' user='Anoesis' visible='true' version='5' changeset='66516724' lat='40.3755763' lon='49.8516273' />
+  <node id='276846863' timestamp='2016-11-08T20:28:23Z' uid='3964884' user='TheCountN' visible='true' version='5' changeset='43497564' lat='40.3740198' lon='49.8468677' />
+  <node id='276847442' timestamp='2014-06-03T06:07:41Z' uid='1643499' user='MenKauRa' visible='true' version='3' changeset='22707844' lat='40.3755361' lon='49.8515018' />
+  <node id='276847443' timestamp='2014-10-15T18:30:57Z' uid='1643499' user='MenKauRa' visible='true' version='3' changeset='26102116' lat='40.3756362' lon='49.8518171' />
+  <node id='276848321' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='3' changeset='87475087' lat='40.3708293' lon='49.8475002' />
+  <node id='276852893' timestamp='2015-06-18T14:11:54Z' uid='653224' user='BakuCity' visible='true' version='7' changeset='32052064' lat='40.3686278' lon='49.8373576' />
+  <node id='276876530' timestamp='2014-07-01T07:09:50Z' uid='2141437' user='farid336' visible='true' version='7' changeset='23405319' lat='40.3680529' lon='49.8400354' />
+  <node id='276876589' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='4' changeset='85911741' lat='40.3688339' lon='49.8367057' />
+  <node id='276876590' timestamp='2012-05-30T14:04:26Z' uid='67020' user='Nibbler' visible='true' version='4' changeset='11749012' lat='40.3687103' lon='49.8370663' />
+  <node id='276880945' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='4' changeset='81395953' lat='40.3678748' lon='49.831706' />
+  <node id='276881215' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='8' changeset='81395953' lat='40.3665301' lon='49.8311393' />
+  <node id='276881459' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='6' changeset='81395953' lat='40.3688306' lon='49.8339374' />
+  <node id='276887830' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='6' changeset='81395953' lat='40.3671605' lon='49.8313696' />
+  <node id='277334987' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='4' changeset='81395953' lat='40.3676922' lon='49.8315767' />
+  <node id='277336019' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='5' changeset='81395953' lat='40.3682461' lon='49.8324012' />
+  <node id='277336118' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='5' changeset='81395953' lat='40.3685397' lon='49.8330791' />
+  <node id='1416166971' timestamp='2016-10-17T18:14:29Z' uid='3964884' user='TheCountN' visible='true' version='5' changeset='42965479' lat='40.3695043' lon='49.8417462' />
+  <node id='1416166973' timestamp='2014-07-01T07:09:49Z' uid='2141437' user='farid336' visible='true' version='3' changeset='23405319' lat='40.369249' lon='49.8418425' />
+  <node id='1416166974' timestamp='2014-07-01T07:32:33Z' uid='2141437' user='farid336' visible='true' version='6' changeset='23405583' lat='40.369608' lon='49.8417027' />
+  <node id='1416166976' timestamp='2014-07-01T07:09:50Z' uid='2141437' user='farid336' visible='true' version='3' changeset='23405319' lat='40.3691074' lon='49.8417832' />
+  <node id='1466042006' timestamp='2013-03-22T15:05:12Z' uid='653224' user='BakuCity' visible='true' version='4' changeset='15455453' lat='40.3670674' lon='49.8380415'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1466042009' timestamp='2014-08-22T08:00:06Z' uid='1643499' user='MenKauRa' visible='true' version='4' changeset='24925996' lat='40.3671916' lon='49.8379785' />
+  <node id='1466042011' timestamp='2012-03-01T06:39:31Z' uid='608592' user='Anar777' visible='true' version='2' changeset='10834697' lat='40.3684334' lon='49.8374469' />
+  <node id='1466042013' timestamp='2012-05-30T14:04:24Z' uid='67020' user='Nibbler' visible='true' version='3' changeset='11749012' lat='40.3686916' lon='49.8372127' />
+  <node id='1466042015' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='3' changeset='85911741' lat='40.3688242' lon='49.836399' />
+  <node id='1467420792' timestamp='2017-02-23T22:07:37Z' uid='3485320' user='Sabzevar' visible='true' version='6' changeset='46350885' lat='40.36526' lon='49.8309848' />
+  <node id='1770473704' timestamp='2012-05-30T14:04:10Z' uid='67020' user='Nibbler' visible='true' version='1' changeset='11749012' lat='40.3684636' lon='49.837433' />
+  <node id='1770473714' timestamp='2012-05-30T14:04:10Z' uid='67020' user='Nibbler' visible='true' version='1' changeset='11749012' lat='40.3686495' lon='49.8373321' />
+  <node id='1770473717' timestamp='2012-05-30T14:04:10Z' uid='67020' user='Nibbler' visible='true' version='1' changeset='11749012' lat='40.3686644' lon='49.837307' />
+  <node id='1770473720' timestamp='2012-05-30T14:04:10Z' uid='67020' user='Nibbler' visible='true' version='1' changeset='11749012' lat='40.3686864' lon='49.8372464' />
+  <node id='1770473722' timestamp='2012-05-30T14:04:10Z' uid='67020' user='Nibbler' visible='true' version='1' changeset='11749012' lat='40.3686971' lon='49.8371216' />
+  <node id='1770473731' timestamp='2012-05-30T14:04:11Z' uid='67020' user='Nibbler' visible='true' version='1' changeset='11749012' lat='40.3688056' lon='49.8368501' />
+  <node id='1770473732' timestamp='2012-05-30T14:04:11Z' uid='67020' user='Nibbler' visible='true' version='1' changeset='11749012' lat='40.3688287' lon='49.8367684' />
+  <node id='1785763588' timestamp='2014-08-21T05:41:12Z' uid='1643499' user='MenKauRa' visible='true' version='6' changeset='24901026' lat='40.3637599' lon='49.8357449' />
+  <node id='1797880831' timestamp='2014-07-01T07:09:49Z' uid='2141437' user='farid336' visible='true' version='4' changeset='23405319' lat='40.3687248' lon='49.8411486' />
+  <node id='1895842597' timestamp='2021-04-05T13:15:35Z' uid='18069' user='Claudius Henrichs' visible='true' version='9' changeset='102336853' lat='40.37095' lon='49.8446494'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='Sahil metrostansiyası' />
+    <tag k='name:ru' v='Станция метро «Сахил»' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='2101927480' timestamp='2018-09-16T22:15:02Z' uid='7966302' user='Сергей Бокк' visible='true' version='3' changeset='62647823' lat='40.3751287' lon='49.8501243' />
+  <node id='2125106195' timestamp='2015-04-18T09:38:33Z' uid='653224' user='BakuCity' visible='true' version='2' changeset='30303529' lat='40.3689062' lon='49.8361923' />
+  <node id='2125106197' timestamp='2015-04-18T09:38:33Z' uid='653224' user='BakuCity' visible='true' version='4' changeset='30303529' lat='40.3692655' lon='49.8359822' />
+  <node id='2290884749' timestamp='2014-07-01T07:09:50Z' uid='2141437' user='farid336' visible='true' version='2' changeset='23405319' lat='40.3671144' lon='49.8384062' />
+  <node id='2290884750' timestamp='2014-07-01T07:09:50Z' uid='2141437' user='farid336' visible='true' version='2' changeset='23405319' lat='40.3690778' lon='49.8417595' />
+  <node id='2290884754' timestamp='2014-07-01T07:09:50Z' uid='2141437' user='farid336' visible='true' version='2' changeset='23405319' lat='40.3691661' lon='49.8418188' />
+  <node id='2290884755' timestamp='2014-07-01T07:09:50Z' uid='2141437' user='farid336' visible='true' version='2' changeset='23405319' lat='40.3691285' lon='49.841801' />
+  <node id='2290884756' timestamp='2014-07-01T07:09:50Z' uid='2141437' user='farid336' visible='true' version='2' changeset='23405319' lat='40.3692173' lon='49.8418366' />
+  <node id='2290884761' timestamp='2014-10-15T17:51:29Z' uid='1643499' user='MenKauRa' visible='true' version='3' changeset='26101492' lat='40.3698046' lon='49.8418356' />
+  <node id='2557102477' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='6' changeset='87475087' lat='40.3716608' lon='49.8500897' />
+  <node id='2557154977' timestamp='2013-11-29T15:32:22Z' uid='16881' user='user_16881' visible='true' version='1' changeset='19178217' lat='40.3634723' lon='49.8355482' />
+  <node id='2557154991' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='2' changeset='85911741' lat='40.3633344' lon='49.835469' />
+  <node id='2557155004' timestamp='2013-11-29T15:32:22Z' uid='16881' user='user_16881' visible='true' version='1' changeset='19178217' lat='40.363589' lon='49.8356291' />
+  <node id='2557155069' timestamp='2013-11-29T15:32:23Z' uid='16881' user='user_16881' visible='true' version='1' changeset='19178217' lat='40.3632312' lon='49.8354302' />
+  <node id='2558449292' timestamp='2020-04-20T18:23:25Z' uid='519501' user='parukhin' visible='true' version='10' changeset='83837322' lat='40.3733371' lon='49.8552046' />
+  <node id='2558476048' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='3' changeset='87475087' lat='40.3712272' lon='49.8487342' />
+  <node id='2844641823' timestamp='2015-02-05T10:20:08Z' uid='2362154' user='Geomapper69' visible='true' version='2' changeset='28627519' lat='40.3739721' lon='49.8548988' />
+  <node id='2941447469' timestamp='2014-07-01T07:09:48Z' uid='2141437' user='farid336' visible='true' version='1' changeset='23405319' lat='40.3684913' lon='49.840767' />
+  <node id='2941447471' timestamp='2014-07-01T07:09:48Z' uid='2141437' user='farid336' visible='true' version='1' changeset='23405319' lat='40.3686959' lon='49.8413111' />
+  <node id='2941447472' timestamp='2014-07-01T07:32:33Z' uid='2141437' user='farid336' visible='true' version='2' changeset='23405583' lat='40.3697062' lon='49.8417354' />
+  <node id='2941447474' timestamp='2014-07-01T07:09:48Z' uid='2141437' user='farid336' visible='true' version='1' changeset='23405319' lat='40.3689308' lon='49.8418284' />
+  <node id='2941447475' timestamp='2014-07-01T07:09:48Z' uid='2141437' user='farid336' visible='true' version='1' changeset='23405319' lat='40.3688299' lon='49.8415609' />
+  <node id='2941447476' timestamp='2014-07-01T07:17:50Z' uid='2141437' user='farid336' visible='true' version='2' changeset='23405405' lat='40.367632' lon='49.8393227' />
+  <node id='2941455965' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='3' changeset='85911741' lat='40.3641181' lon='49.8360024' />
+  <node id='2941455966' timestamp='2014-07-01T07:17:48Z' uid='2141437' user='farid336' visible='true' version='1' changeset='23405405' lat='40.3645399' lon='49.8365725' />
+  <node id='2941455967' timestamp='2014-07-01T07:17:48Z' uid='2141437' user='farid336' visible='true' version='1' changeset='23405405' lat='40.3651661' lon='49.8374517' />
+  <node id='2941455969' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='2' changeset='85911741' lat='40.3659706' lon='49.8381801' />
+  <node id='2941455970' timestamp='2014-07-02T05:53:52Z' uid='2141437' user='farid336' visible='true' version='3' changeset='23527929' lat='40.3668035' lon='49.83837' />
+  <node id='2941455971' timestamp='2014-07-01T07:17:48Z' uid='2141437' user='farid336' visible='true' version='1' changeset='23405405' lat='40.3669229' lon='49.8384215' />
+  <node id='2941455972' timestamp='2014-07-02T05:53:52Z' uid='2141437' user='farid336' visible='true' version='3' changeset='23527929' lat='40.3670376' lon='49.8385368' />
+  <node id='2941455973' timestamp='2014-07-01T07:17:49Z' uid='2141437' user='farid336' visible='true' version='1' changeset='23405405' lat='40.3675033' lon='49.8393549' />
+  <node id='2941455974' timestamp='2014-07-01T07:17:49Z' uid='2141437' user='farid336' visible='true' version='1' changeset='23405405' lat='40.3678323' lon='49.8399047' />
+  <node id='2941455976' timestamp='2014-07-01T07:17:49Z' uid='2141437' user='farid336' visible='true' version='1' changeset='23405405' lat='40.3669648' lon='49.838448' />
+  <node id='2941464307' timestamp='2014-07-01T07:32:33Z' uid='2141437' user='farid336' visible='true' version='1' changeset='23405583' lat='40.3696578' lon='49.8417123' />
+  <node id='2945156941' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='2' changeset='85911741' lat='40.3643112' lon='49.8362387' />
+  <node id='2945156942' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='2' changeset='85911741' lat='40.3655408' lon='49.8379785' />
+  <node id='3031367458' timestamp='2014-08-21T05:41:11Z' uid='1643499' user='MenKauRa' visible='true' version='1' changeset='24901026' lat='40.3639486' lon='49.8358737' />
+  <node id='3077754616' timestamp='2019-02-10T05:49:32Z' uid='9430290' user='Intigam' visible='true' version='4' changeset='67064119' lat='40.3673522' lon='49.8390895'>
+    <tag k='enforcement' v='maxspeed' />
+    <tag k='highway' v='speed_camera' />
+    <tag k='maxspeed' v='60' />
+  </node>
+  <node id='3077754617' timestamp='2019-02-10T05:49:33Z' uid='9430290' user='Intigam' visible='true' version='4' changeset='67064119' lat='40.3674501' lon='49.8389968'>
+    <tag k='enforcement' v='maxspeed' />
+    <tag k='highway' v='speed_camera' />
+    <tag k='maxspeed' v='60' />
+  </node>
+  <node id='3301800602' timestamp='2019-02-13T18:07:13Z' uid='8525987' user='Anoesis' visible='true' version='2' changeset='67171595' lat='40.3709876' lon='49.8479695' />
+  <node id='3383981132' timestamp='2015-03-05T07:50:59Z' uid='1643499' user='MenKauRa' visible='true' version='1' changeset='29260133' lat='40.3741171' lon='49.8548171' />
+  <node id='3454030813' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='2' changeset='81395953' lat='40.3662544' lon='49.8310319' />
+  <node id='3454030819' timestamp='2020-05-17T14:06:24Z' uid='1643499' user='MenKauRa' visible='true' version='5' changeset='85335991' lat='40.3639021' lon='49.8310862' />
+  <node id='3454030834' timestamp='2017-02-23T22:07:37Z' uid='3485320' user='Sabzevar' visible='true' version='2' changeset='46350885' lat='40.3657987' lon='49.830958' />
+  <node id='3454030841' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='4' changeset='85911741' lat='40.3693874' lon='49.8358229' />
+  <node id='3454030842' timestamp='2015-04-18T09:38:33Z' uid='653224' user='BakuCity' visible='true' version='2' changeset='30303529' lat='40.3693527' lon='49.8359192' />
+  <node id='3454030843' timestamp='2015-04-18T09:38:33Z' uid='653224' user='BakuCity' visible='true' version='2' changeset='30303529' lat='40.3693189' lon='49.8359518' />
+  <node id='3454030844' timestamp='2015-04-18T09:38:33Z' uid='653224' user='BakuCity' visible='true' version='2' changeset='30303529' lat='40.3688688' lon='49.8362344' />
+  <node id='3454030845' timestamp='2015-04-18T09:38:33Z' uid='653224' user='BakuCity' visible='true' version='2' changeset='30303529' lat='40.3688492' lon='49.8362717' />
+  <node id='3454030846' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='2' changeset='85911741' lat='40.3656337' lon='49.8380784' />
+  <node id='3463121872' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='3' changeset='81395953' lat='40.3690856' lon='49.8346321'>
+    <tag k='crossing' v='zebra' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3463121877' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='2' changeset='85911741' lat='40.3688266' lon='49.8363404' />
+  <node id='3594182942' timestamp='2015-06-14T10:12:26Z' uid='653224' user='BakuCity' visible='true' version='1' changeset='31959158' lat='40.3697528' lon='49.8417725' />
+  <node id='3602734055' timestamp='2015-06-18T14:11:52Z' uid='653224' user='BakuCity' visible='true' version='1' changeset='32052064' lat='40.3686738' lon='49.8372835' />
+  <node id='3648188084' timestamp='2015-07-13T04:47:51Z' uid='1643499' user='MenKauRa' visible='true' version='1' changeset='32593261' lat='40.3668648' lon='49.8383915' />
+  <node id='3648243699' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='3' changeset='87475087' lat='40.3712074' lon='49.8486724' />
+  <node id='3648244741' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='2' changeset='87475087' lat='40.3718232' lon='49.8505975' />
+  <node id='3765773689' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='2' changeset='81395953' lat='40.3678016' lon='49.831646' />
+  <node id='3889262340' timestamp='2015-12-12T18:02:48Z' uid='1643499' user='MenKauRa' visible='true' version='2' changeset='35913551' lat='40.3759653' lon='49.8528955' />
+  <node id='4445139960' timestamp='2016-10-13T07:05:46Z' uid='3964884' user='TheCountN' visible='true' version='1' changeset='42848766' lat='40.3755093' lon='49.8539699'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='4462419092' timestamp='2016-11-01T18:10:32Z' uid='3964884' user='TheCountN' visible='true' version='2' changeset='43332657' lat='40.3754667' lon='49.853994'>
+    <tag k='crossing' v='zebra' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4462419096' timestamp='2016-11-01T18:10:32Z' uid='3964884' user='TheCountN' visible='true' version='2' changeset='43332657' lat='40.3752578' lon='49.854118'>
+    <tag k='crossing' v='zebra' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4462419098' timestamp='2016-10-24T20:14:41Z' uid='3964884' user='TheCountN' visible='true' version='1' changeset='43138098' lat='40.37521' lon='49.8541481'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='4475530713' timestamp='2016-11-01T18:10:31Z' uid='3964884' user='TheCountN' visible='true' version='1' changeset='43332657' lat='40.3731112' lon='49.8442608'>
+    <tag k='crossing' v='zebra' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4475530714' timestamp='2016-11-01T18:10:31Z' uid='3964884' user='TheCountN' visible='true' version='1' changeset='43332657' lat='40.3729829' lon='49.8441468'>
+    <tag k='crossing' v='zebra' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4475530719' timestamp='2016-11-01T18:10:31Z' uid='3964884' user='TheCountN' visible='true' version='1' changeset='43332657' lat='40.3712449' lon='49.8450789'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='4475530721' timestamp='2017-08-10T17:47:32Z' uid='5725248' user='roses7' visible='true' version='2' changeset='51009426' lat='40.3701163' lon='49.8453689'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='4489370565' timestamp='2016-11-08T20:28:22Z' uid='3964884' user='TheCountN' visible='true' version='1' changeset='43497564' lat='40.3739722' lon='49.8467214'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='4489370567' timestamp='2016-11-08T20:28:22Z' uid='3964884' user='TheCountN' visible='true' version='1' changeset='43497564' lat='40.3739938' lon='49.8467878'>
+    <tag k='crossing' v='zebra' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4489396194' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='2' changeset='87475087' lat='40.3717916' lon='49.8504985' />
+  <node id='4702367244' timestamp='2017-02-23T22:07:37Z' uid='3485320' user='Sabzevar' visible='true' version='1' changeset='46350885' lat='40.3660796' lon='49.8309767' />
+  <node id='4702367245' timestamp='2017-02-23T22:07:37Z' uid='3485320' user='Sabzevar' visible='true' version='1' changeset='46350885' lat='40.365931' lon='49.8309613' />
+  <node id='4702367250' timestamp='2017-02-23T22:07:37Z' uid='3485320' user='Sabzevar' visible='true' version='1' changeset='46350885' lat='40.3635802' lon='49.8319375' />
+  <node id='4702367253' timestamp='2017-02-23T22:07:37Z' uid='3485320' user='Sabzevar' visible='true' version='1' changeset='46350885' lat='40.3630649' lon='49.8332457' />
+  <node id='4702367254' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='2' changeset='81395953' lat='40.366163' lon='49.8309989' />
+  <node id='4702367255' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='2' changeset='81395953' lat='40.3661269' lon='49.8309896' />
+  <node id='5079651134' timestamp='2017-09-04T18:56:41Z' uid='653224' user='BakuCity' visible='true' version='1' changeset='51728357' lat='40.372318' lon='49.8444798'>
+    <tag k='crossing' v='zebra' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='5607438769' timestamp='2020-04-20T18:23:25Z' uid='519501' user='parukhin' visible='true' version='6' changeset='83837322' lat='40.3721142' lon='49.8515071' />
+  <node id='5910313116' timestamp='2018-09-16T19:37:43Z' uid='7966302' user='Сергей Бокк' visible='true' version='1' changeset='62644767' lat='40.3761423' lon='49.8534995' />
+  <node id='6225812433' timestamp='2019-01-21T20:26:54Z' uid='8525987' user='Anoesis' visible='true' version='1' changeset='66516724' lat='40.3749784' lon='49.8496538' />
+  <node id='6225812434' timestamp='2019-01-21T20:26:54Z' uid='8525987' user='Anoesis' visible='true' version='1' changeset='66516724' lat='40.3750448' lon='49.8498657' />
+  <node id='7065820506' timestamp='2019-12-18T08:23:35Z' uid='8329729' user='Musicpen' visible='true' version='1' changeset='78568937' lat='40.3689272' lon='49.8361809' />
+  <node id='7190127942' timestamp='2020-02-06T08:34:29Z' uid='10323643' user='vlae' visible='true' version='1' changeset='80628792' lat='40.3705204' lon='49.8433465'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='7238310571' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='1' changeset='81395953' lat='40.3691321' lon='49.8347588' />
+  <node id='7384081390' timestamp='2020-04-09T06:00:20Z' uid='8484034' user='movie_fan_sal' visible='true' version='1' changeset='83284892' lat='40.3757014' lon='49.8538608' />
+  <node id='7385823595' timestamp='2020-04-09T14:33:36Z' uid='9902286' user='di5order' visible='true' version='1' changeset='83314851' lat='40.3676802' lon='49.8377693'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='7397151470' timestamp='2020-04-13T08:15:22Z' uid='8484034' user='movie_fan_sal' visible='true' version='1' changeset='83460194' lat='40.3744447' lon='49.8546293' />
+  <node id='7567583178' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='1' changeset='85911741' lat='40.3656764' lon='49.8381016' />
+  <node id='7567583179' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='1' changeset='85911741' lat='40.3657295' lon='49.8381217' />
+  <node id='7567593313' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='1' changeset='85911741' lat='40.3693722' lon='49.8358794' />
+  <node id='7567593314' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='1' changeset='85911741' lat='40.3688327' lon='49.8365633' />
+  <node id='7567593321' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='1' changeset='85911741' lat='40.3641702' lon='49.8360537' />
+  <node id='7567593322' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='1' changeset='85911741' lat='40.3642213' lon='49.8361154' />
+  <node id='7678658470' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='1' changeset='87475087' lat='40.3626342' lon='49.8344704' />
+  <node id='7678658471' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='1' changeset='87475087' lat='40.3626022' lon='49.8346359' />
+  <node id='7678658472' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='1' changeset='87475087' lat='40.3626064' lon='49.8348009' />
+  <node id='7678658473' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='1' changeset='87475087' lat='40.3627008' lon='49.8350424' />
+  <node id='7678658474' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='1' changeset='87475087' lat='40.3627909' lon='49.8351317' />
+  <node id='7678658475' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='1' changeset='87475087' lat='40.3670668' lon='49.8383315' />
+  <node id='7678658476' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='1' changeset='87475087' lat='40.3670425' lon='49.8382631' />
+  <node id='7678658477' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='1' changeset='87475087' lat='40.367031' lon='49.8381857' />
+  <node id='7678658478' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='1' changeset='87475087' lat='40.3670472' lon='49.8380991' />
+  <node id='7678658479' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='1' changeset='87475087' lat='40.3626523' lon='49.8349526' />
+  <node id='8595061606' timestamp='2021-04-05T11:20:56Z' uid='18069' user='Claudius Henrichs' visible='true' version='1' changeset='102328444' lat='40.3626318' lon='49.8348848' />
+  <node id='8595061607' timestamp='2021-04-05T11:20:56Z' uid='18069' user='Claudius Henrichs' visible='true' version='1' changeset='102328444' lat='40.3629409' lon='49.8352334' />
+  <way id='25402776' timestamp='2020-02-23T22:09:40Z' uid='1960718' user='apm-wa' visible='true' version='20' changeset='81377516'>
+    <nd ref='276842653' />
+    <nd ref='3383981132' />
+    <nd ref='2844641823' />
+    <nd ref='2558449292' />
+    <tag k='highway' v='secondary' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Puşkin küçəsi' />
+    <tag k='name:az' v='Puşkin küçəsi' />
+    <tag k='name:az-cyr' v='Пушкин күчәси' />
+    <tag k='name:en' v='Pushkin Street' />
+    <tag k='name:ru' v='улица Пушкина' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='25402777' timestamp='2020-04-13T08:15:22Z' uid='8484034' user='movie_fan_sal' visible='true' version='17' changeset='83460194'>
+    <nd ref='276371597' />
+    <nd ref='4462419096' />
+    <nd ref='4462419098' />
+    <nd ref='7397151470' />
+    <nd ref='276842653' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='Puşkin küçəsi' />
+    <tag k='name:az' v='Puşkin küçəsi' />
+    <tag k='name:az-cyr' v='Пушкин күчәси' />
+    <tag k='name:en' v='Pushkin Street' />
+    <tag k='name:ru' v='улица Пушкина' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='25406140' timestamp='2020-02-24T08:55:29Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='16' changeset='81395953'>
+    <nd ref='7238310571' />
+    <nd ref='3454030841' />
+    <tag k='highway' v='primary' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='İstiqlaliyyət küçəsi' />
+    <tag k='name:en' v='Istiglaliyat str.' />
+    <tag k='name:ru' v='улица Истиглалиййят' />
+  </way>
+  <way id='131835265' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='30' changeset='80490560'>
+    <nd ref='2941447471' />
+    <nd ref='2941447475' />
+    <nd ref='2941447474' />
+    <nd ref='276370538' />
+    <nd ref='276370539' />
+    <nd ref='4475530721' />
+    <nd ref='276371827' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Neftçilər Prospekti' />
+    <tag k='name:az' v='Neftçilər Prospekti' />
+    <tag k='name:az-cyr' v='Нефтчиләр проспекти' />
+    <tag k='name:ru' v='проспект Нефтяников' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='165508015' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='17' changeset='85911741'>
+    <nd ref='3463121877' />
+    <nd ref='1466042015' />
+    <nd ref='7567593314' />
+    <nd ref='276876589' />
+    <nd ref='1770473732' />
+    <nd ref='1770473731' />
+    <nd ref='276876590' />
+    <nd ref='1770473722' />
+    <nd ref='1466042013' />
+    <nd ref='1770473720' />
+    <nd ref='3602734055' />
+    <nd ref='1770473717' />
+    <nd ref='1770473714' />
+    <nd ref='276852893' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Əziz Əliyev küçəsi' />
+    <tag k='name:az' v='Əziz Əliyev küçəsi' />
+    <tag k='name:en' v='Aziz Aliyev str.' />
+    <tag k='name:ru' v='улица Азиза Алиева' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='165695131' timestamp='2021-06-28T20:21:42Z' uid='3584' user='gpesquero' visible='true' version='30' changeset='107109396'>
+    <nd ref='276371996' />
+    <nd ref='4475530713' />
+    <nd ref='4489370565' />
+    <nd ref='4489370567' />
+    <nd ref='276846863' />
+    <nd ref='6225812433' />
+    <nd ref='276374004' />
+    <nd ref='6225812434' />
+    <nd ref='2101927480' />
+    <nd ref='276847442' />
+    <nd ref='276846862' />
+    <nd ref='276847443' />
+    <nd ref='3889262340' />
+    <nd ref='5910313116' />
+    <nd ref='276846861' />
+    <tag k='alt_name' v='Xəqani küç.' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Xaqani küçəsi' />
+    <tag k='name:az' v='Xaqani küçəsi' />
+    <tag k='name:en' v='Khagani Street' />
+    <tag k='name:ru' v='улица Хагани' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='167173308' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='18' changeset='87475087'>
+    <nd ref='3454030819' />
+    <nd ref='4702367250' />
+    <tag k='highway' v='primary' />
+    <tag k='int_ref' v='AH8' />
+    <tag k='name' v='Niyazi küçəsi' />
+    <tag k='name:en' v='Niyazi str.' />
+    <tag k='name:ru' v='улица Ниязи' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='167173315' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='17' changeset='80490560'>
+    <nd ref='2290884750' />
+    <nd ref='1797880831' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_name' v='Neftchilar Prospect' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Neftçilər Prospekti' />
+    <tag k='name:az' v='Neftçilər Prospekti' />
+    <tag k='name:az-cyr' v='Нефтчиләр проспекти' />
+    <tag k='name:ru' v='проспект Нефтяников' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='177431273' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='11' changeset='80490560'>
+    <nd ref='276371995' />
+    <nd ref='4475530719' />
+    <nd ref='276371601' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Bülbül prospekti' />
+    <tag k='name:az' v='Bülbül prospekti' />
+    <tag k='name:en' v='Bulbul Avenue' />
+    <tag k='name:ru' v='проспект Бюльбюля' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='179238852' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='41' changeset='87475087'>
+    <nd ref='276370540' />
+    <nd ref='3648243699' />
+    <nd ref='2558476048' />
+    <nd ref='2557102477' />
+    <nd ref='4489396194' />
+    <nd ref='3648244741' />
+    <nd ref='5607438769' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='lanes' v='4' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Neftçilər Prospekti' />
+    <tag k='name:az' v='Neftçilər Prospekti' />
+    <tag k='name:az-cyr' v='Нефтчиләр проспекти' />
+    <tag k='name:ru' v='проспект Нефтяников' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='182645384' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='15' changeset='80490560'>
+    <nd ref='276371996' />
+    <nd ref='4475530714' />
+    <nd ref='5079651134' />
+    <nd ref='276371995' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='name' v='Bülbül prospekti' />
+    <tag k='name:az' v='Bülbül prospekti' />
+    <tag k='name:en' v='Bulbul Avenue' />
+    <tag k='name:ru' v='проспект Бюльбюля' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='202546449' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='13' changeset='85911741'>
+    <nd ref='3454030841' />
+    <nd ref='7567593313' />
+    <nd ref='3454030842' />
+    <nd ref='3454030843' />
+    <nd ref='2125106197' />
+    <nd ref='7065820506' />
+    <nd ref='2125106195' />
+    <tag k='highway' v='primary' />
+    <tag k='maxspeed' v='60' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='278666424' timestamp='2021-08-06T13:13:11Z' uid='9625529' user='Roanoke_Island' visible='true' version='16' changeset='109262533'>
+    <nd ref='276371597' />
+    <nd ref='4462419092' />
+    <nd ref='4445139960' />
+    <nd ref='7384081390' />
+    <nd ref='276846861' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Puşkin küçəsi' />
+    <tag k='name:az' v='Puşkin küçəsi' />
+    <tag k='name:az-cyr' v='Пушкин күчәси' />
+    <tag k='name:en' v='Pushkin Street' />
+    <tag k='name:ru' v='улица Пушкина' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='290633710' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='16' changeset='87475087'>
+    <nd ref='2941447469' />
+    <nd ref='276876530' />
+    <nd ref='2941447476' />
+    <nd ref='3077754617' />
+    <nd ref='276370536' />
+    <nd ref='2290884749' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_name' v='Neftchilar Prospect' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Neftçilər Prospekti' />
+    <tag k='name:az' v='Neftçilər Prospekti' />
+    <tag k='name:az-cyr' v='Нефтчиләр проспекти' />
+    <tag k='name:ru' v='проспект Нефтяников' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='290633714' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='9' changeset='80490560'>
+    <nd ref='2290884761' />
+    <nd ref='3594182942' />
+    <nd ref='2941447472' />
+    <nd ref='2941464307' />
+    <nd ref='1416166974' />
+    <nd ref='1416166971' />
+    <nd ref='1416166973' />
+    <nd ref='2290884756' />
+    <nd ref='2290884754' />
+    <nd ref='2290884755' />
+    <nd ref='1416166976' />
+    <nd ref='2290884750' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='maxspeed' v='60' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='290633715' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='11' changeset='80490560'>
+    <nd ref='1797880831' />
+    <nd ref='2941447469' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_name' v='Neftchilar Prospect' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Neftçilər Prospekti' />
+    <tag k='name:az' v='Neftçilər Prospekti' />
+    <tag k='name:az-cyr' v='Нефтчиләр проспекти' />
+    <tag k='name:ru' v='проспект Нефтяников' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='290634608' timestamp='2020-05-28T23:13:36Z' uid='1643499' user='MenKauRa' visible='true' version='20' changeset='85911741'>
+    <nd ref='1785763588' />
+    <nd ref='3031367458' />
+    <nd ref='2941455965' />
+    <nd ref='7567593321' />
+    <nd ref='7567593322' />
+    <nd ref='2945156941' />
+    <nd ref='2941455966' />
+    <nd ref='2941455967' />
+    <nd ref='2945156942' />
+    <nd ref='3454030846' />
+    <nd ref='7567583178' />
+    <nd ref='7567583179' />
+    <nd ref='2941455969' />
+    <nd ref='2941455970' />
+    <nd ref='3648188084' />
+    <nd ref='2941455971' />
+    <nd ref='2941455976' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Neftçilər Prospekti' />
+    <tag k='name:az' v='Neftçilər Prospekti' />
+    <tag k='name:az-cyr' v='Нефтчиләр проспекти' />
+    <tag k='name:ru' v='проспект Нефтяников' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='290634609' timestamp='2020-02-06T08:34:29Z' uid='10323643' user='vlae' visible='true' version='17' changeset='80628792'>
+    <nd ref='2941455976' />
+    <nd ref='2941455972' />
+    <nd ref='3077754616' />
+    <nd ref='2941455973' />
+    <nd ref='2941455974' />
+    <nd ref='2941447471' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Neftçilər Prospekti' />
+    <tag k='name:az' v='Neftçilər Prospekti' />
+    <tag k='name:az-cyr' v='Нефтчиләр проспекти' />
+    <tag k='name:ru' v='проспект Нефтяников' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='323377758' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='13' changeset='80490560'>
+    <nd ref='3301800602' />
+    <nd ref='276370540' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Neftçilər Prospekti' />
+    <tag k='name:az' v='Neftçilər Prospekti' />
+    <tag k='name:az-cyr' v='Нефтчиләр проспекти' />
+    <tag k='name:ru' v='проспект Нефтяников' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left;through|through|through' />
+  </way>
+  <way id='354595674' timestamp='2020-04-09T14:33:36Z' uid='9902286' user='di5order' visible='true' version='11' changeset='83314851'>
+    <nd ref='276852893' />
+    <nd ref='1770473704' />
+    <nd ref='1466042011' />
+    <nd ref='7385823595' />
+    <nd ref='1466042009' />
+    <nd ref='1466042006' />
+    <tag k='addr:street' v='Əziz Əliyev küç.' />
+    <tag k='highway' v='primary' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Əziz Əliyev küçəsi' />
+    <tag k='name:az' v='Əziz Əliyev küçəsi' />
+    <tag k='name:en' v='Aziz Aliyev Street' />
+    <tag k='name:ru' v='улица Азиза Алиева' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='414510523' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='11' changeset='80490560'>
+    <nd ref='276371827' />
+    <nd ref='276848321' />
+    <nd ref='3301800602' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Neftçilər Prospekti' />
+    <tag k='name:az' v='Neftçilər Prospekti' />
+    <tag k='name:az-cyr' v='Нефтчиләр проспекти' />
+    <tag k='name:ru' v='проспект Нефтяников' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='414510525' timestamp='2020-02-24T08:27:39Z' uid='9388985' user='LomasDelGuijarro' visible='true' version='12' changeset='81394632'>
+    <nd ref='276371601' />
+    <nd ref='1895842597' />
+    <nd ref='7190127942' />
+    <nd ref='276371182' />
+    <nd ref='2290884761' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Zərifə Əliyeva küçəsi' />
+    <tag k='name:az' v='Zərifə Əliyeva küçəsi' />
+    <tag k='name:en' v='Zarifa Aliyeva Street' />
+    <tag k='name:ru' v='улица Зарифы Алиевой' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='476752809' timestamp='2021-12-08T12:18:42Z' uid='9258234' user='Toghrul Rahimli' visible='true' version='10' changeset='114700812'>
+    <nd ref='276887830' />
+    <nd ref='277334987' />
+    <nd ref='3765773689' />
+    <nd ref='276880945' />
+    <nd ref='277336019' />
+    <nd ref='277336118' />
+    <nd ref='276881459' />
+    <nd ref='3463121872' />
+    <nd ref='7238310571' />
+    <tag k='highway' v='primary' />
+    <tag k='int_ref' v='AH8' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='İstiqlaliyyət küçəsi' />
+    <tag k='name:az' v='İstiqlaliyyət küçəsi' />
+    <tag k='name:en' v='Istiglaliyat str.' />
+    <tag k='name:ru' v='улица Истиглалиййят' />
+    <tag k='oneway' v='yes' />
+    <tag k='wikidata' v='Q4472311' />
+    <tag k='wikipedia' v='en:Istiglaliyyat Street' />
+  </way>
+  <way id='476752810' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='6' changeset='80490560'>
+    <nd ref='4702367255' />
+    <nd ref='4702367244' />
+    <nd ref='4702367245' />
+    <nd ref='3454030834' />
+    <nd ref='1467420792' />
+    <tag k='highway' v='primary' />
+    <tag k='int_ref' v='AH8' />
+    <tag k='name' v='İstiqlaliyyət küçəsi' />
+    <tag k='name:en' v='Istiglaliyat str.' />
+    <tag k='name:ru' v='улица Истиглалиййят' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='500527620' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='3' changeset='80490560'>
+    <nd ref='1467420792' />
+    <nd ref='3454030819' />
+    <tag k='highway' v='primary' />
+    <tag k='int_ref' v='AH8' />
+    <tag k='name' v='İstiqlaliyyət küçəsi' />
+    <tag k='name:en' v='Istiglaliyat str.' />
+    <tag k='name:ru' v='улица Истиглалиййят' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='500527621' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='4' changeset='87475087'>
+    <nd ref='4702367250' />
+    <nd ref='4702367253' />
+    <tag k='highway' v='primary' />
+    <tag k='int_ref' v='AH8' />
+    <tag k='name' v='Niyazi küçəsi' />
+    <tag k='name:en' v='Niyazi str.' />
+    <tag k='name:ru' v='улица Ниязи' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='639403533' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='3' changeset='80490560'>
+    <nd ref='2125106195' />
+    <nd ref='3454030844' />
+    <nd ref='3454030845' />
+    <nd ref='3463121877' />
+    <tag k='highway' v='primary' />
+    <tag k='maxspeed' v='60' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='766787796' timestamp='2021-06-28T20:21:42Z' uid='3584' user='gpesquero' visible='true' version='4' changeset='107109396'>
+    <nd ref='5607438769' />
+    <nd ref='2558449292' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_ref' v='E 60' />
+    <tag k='lanes' v='4' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Neftçilər Prospekti' />
+    <tag k='name:az' v='Neftçilər Prospekti' />
+    <tag k='name:az-cyr' v='Нефтчиләр проспекти' />
+    <tag k='name:ru' v='проспект Нефтяников' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='766787803' timestamp='2020-02-03T16:48:05Z' uid='10676999' user='AndressaSuiti' visible='true' version='2' changeset='80490560'>
+    <nd ref='2557155069' />
+    <nd ref='2557154991' />
+    <nd ref='2557154977' />
+    <nd ref='2557155004' />
+    <nd ref='1785763588' />
+    <tag k='highway' v='trunk' />
+    <tag k='int_ref' v='E 60;AH8' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Neftçilər Prospekti' />
+    <tag k='name:az-cyr' v='Нефтчиләр проспекти' />
+    <tag k='name:ru' v='проспект Нефтяников' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='822375070' timestamp='2021-04-05T11:20:56Z' uid='18069' user='Claudius Henrichs' visible='true' version='2' changeset='102328444'>
+    <nd ref='4702367253' />
+    <nd ref='7678658470' />
+    <nd ref='7678658471' />
+    <nd ref='7678658472' />
+    <nd ref='8595061606' />
+    <nd ref='7678658479' />
+    <nd ref='7678658473' />
+    <nd ref='7678658474' />
+    <nd ref='8595061607' />
+    <nd ref='2557155069' />
+    <tag k='highway' v='raceway' />
+    <tag k='oneway' v='yes' />
+    <tag k='sport' v='motor' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='822375071' timestamp='2020-07-03T01:53:22Z' uid='3432400' user='GinaroZ' visible='true' version='1' changeset='87475087'>
+    <nd ref='2290884749' />
+    <nd ref='7678658475' />
+    <nd ref='7678658476' />
+    <nd ref='7678658477' />
+    <nd ref='7678658478' />
+    <nd ref='1466042006' />
+    <tag k='highway' v='raceway' />
+    <tag k='oneway' v='yes' />
+    <tag k='sport' v='motor' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='926192527' timestamp='2021-04-05T11:20:56Z' uid='18069' user='Claudius Henrichs' visible='true' version='1' changeset='102328444'>
+    <nd ref='4702367255' />
+    <nd ref='4702367254' />
+    <nd ref='3454030813' />
+    <nd ref='276881215' />
+    <nd ref='276887830' />
+    <tag k='highway' v='primary' />
+    <tag k='int_ref' v='AH8' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='İstiqlaliyyət küçəsi' />
+    <tag k='name:en' v='Istiglaliyat str.' />
+    <tag k='name:ru' v='улица Истиглалиййят' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <relation id='11266687' timestamp='2021-04-05T11:20:56Z' uid='18069' user='Claudius Henrichs' visible='true' version='2' changeset='102328444'>
+    <member type='way' ref='766787796' role='' />
+    <member type='way' ref='25402776' role='' />
+    <member type='way' ref='25402777' role='' />
+    <member type='way' ref='278666424' role='' />
+    <member type='way' ref='165695131' role='' />
+    <member type='way' ref='182645384' role='' />
+    <member type='way' ref='177431273' role='' />
+    <member type='way' ref='414510525' role='' />
+    <member type='way' ref='290633714' role='' />
+    <member type='way' ref='167173315' role='' />
+    <member type='way' ref='290633715' role='' />
+    <member type='way' ref='290633710' role='' />
+    <member type='way' ref='354595674' role='' />
+    <member type='way' ref='165508015' role='' />
+    <member type='way' ref='639403533' role='' />
+    <member type='way' ref='202546449' role='' />
+    <member type='way' ref='25406140' role='' />
+    <member type='way' ref='926192527' role='' />
+    <member type='way' ref='476752809' role='' />
+    <member type='way' ref='476752810' role='' />
+    <member type='way' ref='500527620' role='' />
+    <member type='way' ref='167173308' role='' />
+    <member type='way' ref='500527621' role='' />
+    <member type='way' ref='822375070' role='' />
+    <member type='way' ref='766787803' role='' />
+    <member type='way' ref='290634608' role='' />
+    <member type='way' ref='290634609' role='' />
+    <member type='way' ref='131835265' role='' />
+    <member type='way' ref='414510523' role='' />
+    <member type='way' ref='323377758' role='' />
+    <member type='way' ref='179238852' role='' />
+    <member type='way' ref='822375071' role='' />
+    <tag k='name' v='Baku City Circuit' />
+    <tag k='type' v='circuit' />
+    <tag k='wikidata' v='Q17004958' />
+    <tag k='wikipedia' v='en:Baku City Circuit' />
+  </relation>
+</osm>

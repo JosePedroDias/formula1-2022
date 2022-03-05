@@ -1,0 +1,1682 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-102125' action='modify' visible='true' lat='1.28826540285' lon='103.85239412305' />
+  <node id='-102126' action='modify' visible='true' lat='1.28851561068' lon='103.85240156907' />
+  <node id='-102127' action='modify' visible='true' lat='1.28850715011' lon='103.85233395802' />
+  <node id='-102128' action='modify' visible='true' lat='1.28853134246' lon='103.85224468378' />
+  <node id='-102129' action='modify' visible='true' lat='1.28860694878' lon='103.85212824023' />
+  <node id='-102131' action='modify' visible='true' lat='1.28902922966' lon='103.85162506295' />
+  <node id='-102133' action='modify' visible='true' lat='1.28913267425' lon='103.85161453534' />
+  <node id='-102134' action='modify' visible='true' lat='1.28931112966' lon='103.85162354023' />
+  <node id='-102135' action='modify' visible='true' lat='1.28948474879' lon='103.85170144023' />
+  <node id='-102136' action='modify' visible='true' lat='1.28964084879' lon='103.85178824023' />
+  <node id='-102137' action='modify' visible='true' lat='1.2907011488' lon='103.85237794023'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+    <tag k='kerb' v='lowered' />
+    <tag k='tactile_paving' v='yes' />
+  </node>
+  <node id='-102138' action='modify' visible='true' lat='1.29084764881' lon='103.85246064023' />
+  <node id='-102139' action='modify' visible='true' lat='1.29087934881' lon='103.85247844023'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-102140' action='modify' visible='true' lat='1.29105464881' lon='103.85257584023' />
+  <node id='-102141' action='modify' visible='true' lat='1.29125284881' lon='103.85268444023' />
+  <node id='-102142' action='modify' visible='true' lat='1.29188514882' lon='103.85304124023' />
+  <node id='-102143' action='modify' visible='true' lat='1.29205164882' lon='103.85313224023' />
+  <node id='-102144' action='modify' visible='true' lat='1.29214084882' lon='103.85318104023' />
+  <node id='-102145' action='modify' visible='true' lat='1.29236044882' lon='103.85330104023' />
+  <node id='-102146' action='modify' visible='true' lat='1.29248824882' lon='103.85344444023' />
+  <node id='-102147' action='modify' visible='true' lat='1.29254634882' lon='103.85354724023'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-102148' action='modify' visible='true' lat='1.29257454883' lon='103.85366754023'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='-102149' action='modify' visible='true' lat='1.29237544882' lon='103.85397384023' />
+  <node id='-102150' action='modify' visible='true' lat='1.29246194882' lon='103.85384074023'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-102151' action='modify' visible='true' lat='1.29220234882' lon='103.85414724023' />
+  <node id='-102152' action='modify' visible='true' lat='1.29197954882' lon='103.85436724023' />
+  <node id='-102153' action='modify' visible='true' lat='1.29181944882' lon='103.85451604023' />
+  <node id='-102154' action='modify' visible='true' lat='1.29163374881' lon='103.85470404023' />
+  <node id='-102155' action='modify' visible='true' lat='1.29142124881' lon='103.85491454023'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-102156' action='modify' visible='true' lat='1.29150644881' lon='103.85495154023' />
+  <node id='-102157' action='modify' visible='true' lat='1.29155734881' lon='103.85497364023' />
+  <node id='-102158' action='modify' visible='true' lat='1.29185294882' lon='103.85512884023' />
+  <node id='-102159' action='modify' visible='true' lat='1.29226014882' lon='103.85534264023' />
+  <node id='-102160' action='modify' visible='true' lat='1.29246994882' lon='103.85546104023' />
+  <node id='-102161' action='modify' visible='true' lat='1.29282144883' lon='103.85567854023' />
+  <node id='-102162' action='modify' visible='true' lat='1.29308375526' lon='103.8558635936'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-102163' action='modify' visible='true' lat='1.29305384883' lon='103.85602594023'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-102164' action='modify' visible='true' lat='1.29291914883' lon='103.85626444023' />
+  <node id='-102165' action='modify' visible='true' lat='1.29275164883' lon='103.85656304023' />
+  <node id='-102166' action='modify' visible='true' lat='1.29254344882' lon='103.85691724023' />
+  <node id='-102167' action='modify' visible='true' lat='1.29247344882' lon='103.85703464023' />
+  <node id='-102168' action='modify' visible='true' lat='1.29242234882' lon='103.85712134023' />
+  <node id='-102169' action='modify' visible='true' lat='1.29235984882' lon='103.85722504023' />
+  <node id='-102170' action='modify' visible='true' lat='1.29232644882' lon='103.85728094023' />
+  <node id='-102171' action='modify' visible='true' lat='1.29207274882' lon='103.85773174023' />
+  <node id='-102172' action='modify' visible='true' lat='1.29204814882' lon='103.85777464023' />
+  <node id='-102173' action='modify' visible='true' lat='1.29196014882' lon='103.85792654023' />
+  <node id='-102174' action='modify' visible='true' lat='1.29195274882' lon='103.85793864023' />
+  <node id='-102175' action='modify' visible='true' lat='1.29175044882' lon='103.85829264023' />
+  <node id='-102176' action='modify' visible='true' lat='1.29174014882' lon='103.85830834023' />
+  <node id='-102177' action='modify' visible='true' lat='1.29170424882' lon='103.85835994023' />
+  <node id='-102178' action='modify' visible='true' lat='1.29158274881' lon='103.85858024023' />
+  <node id='-102179' action='modify' visible='true' lat='1.29151824881' lon='103.85875204023' />
+  <node id='-102180' action='modify' visible='true' lat='1.29149404881' lon='103.85882154023' />
+  <node id='-102181' action='modify' visible='true' lat='1.29148104881' lon='103.85885794023' />
+  <node id='-102182' action='modify' visible='true' lat='1.29144504881' lon='103.85906594023' />
+  <node id='-102183' action='modify' visible='true' lat='1.29143004881' lon='103.85921964023' />
+  <node id='-102184' action='modify' visible='true' lat='1.29142054881' lon='103.85935124023' />
+  <node id='-102185' action='modify' visible='true' lat='1.29141524881' lon='103.85942544023' />
+  <node id='-102186' action='modify' visible='true' lat='1.29139534881' lon='103.85974974023' />
+  <node id='-102187' action='modify' visible='true' lat='1.29137524881' lon='103.86007744023' />
+  <node id='-102188' action='modify' visible='true' lat='1.29135364881' lon='103.86042904023' />
+  <node id='-102189' action='modify' visible='true' lat='1.29130714881' lon='103.86080204023'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-102190' action='modify' visible='true' lat='1.29130084881' lon='103.86088124023'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-102191' action='modify' visible='true' lat='1.29130294881' lon='103.86098534023'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-102192' action='modify' visible='true' lat='1.29130784881' lon='103.86104974023'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-102193' action='modify' visible='true' lat='1.29131314881' lon='103.86125664023' />
+  <node id='-102194' action='modify' visible='true' lat='1.29131114881' lon='103.86156384023'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-102195' action='modify' visible='true' lat='1.29131134881' lon='103.86166474023' />
+  <node id='-102196' action='modify' visible='true' lat='1.29128064881' lon='103.86209764023' />
+  <node id='-102197' action='modify' visible='true' lat='1.29122594881' lon='103.86239604023' />
+  <node id='-102198' action='modify' visible='true' lat='1.29127394881' lon='103.86258004023' />
+  <node id='-102199' action='modify' visible='true' lat='1.29133564881' lon='103.86272114023' />
+  <node id='-102200' action='modify' visible='true' lat='1.29140414881' lon='103.86281404023' />
+  <node id='-102201' action='modify' visible='true' lat='1.29144304881' lon='103.86285554023' />
+  <node id='-102202' action='modify' visible='true' lat='1.29150344881' lon='103.86289764023' />
+  <node id='-102203' action='modify' visible='true' lat='1.29158664881' lon='103.86293884023' />
+  <node id='-102204' action='modify' visible='true' lat='1.29166884881' lon='103.86295444023' />
+  <node id='-102205' action='modify' visible='true' lat='1.29177744882' lon='103.86295784023' />
+  <node id='-102206' action='modify' visible='true' lat='1.29191714882' lon='103.86294734023' />
+  <node id='-102207' action='modify' visible='true' lat='1.29202274882' lon='103.86293944023' />
+  <node id='-102208' action='modify' visible='true' lat='1.29245454882' lon='103.86286974023' />
+  <node id='-102209' action='modify' visible='true' lat='1.29257474883' lon='103.86284314023' />
+  <node id='-102210' action='modify' visible='true' lat='1.29281044883' lon='103.86276744023' />
+  <node id='-102211' action='modify' visible='true' lat='1.29333234883' lon='103.86257544023' />
+  <node id='-102212' action='modify' visible='true' lat='1.29354714884' lon='103.86247814023' />
+  <node id='-102213' action='modify' visible='true' lat='1.29368924884' lon='103.86242854023' />
+  <node id='-102214' action='modify' visible='true' lat='1.29376834884' lon='103.86241484023' />
+  <node id='-102215' action='modify' visible='true' lat='1.29383674884' lon='103.86240304023' />
+  <node id='-102216' action='modify' visible='true' lat='1.29398554884' lon='103.86239504023' />
+  <node id='-102217' action='modify' visible='true' lat='1.29431204885' lon='103.86241984023' />
+  <node id='-102218' action='modify' visible='true' lat='1.29445634885' lon='103.86243084023' />
+  <node id='-102219' action='modify' visible='true' lat='1.29451384885' lon='103.86243524023' />
+  <node id='-102220' action='modify' visible='true' lat='1.29475514885' lon='103.86259764023' />
+  <node id='-102221' action='modify' visible='true' lat='1.29467554885' lon='103.86252514023' />
+  <node id='-102222' action='modify' visible='true' lat='1.29460834885' lon='103.86247994023' />
+  <node id='-102223' action='modify' visible='true' lat='1.29446224885' lon='103.86319274023' />
+  <node id='-102224' action='modify' visible='true' lat='1.29451304885' lon='103.86312194023' />
+  <node id='-102225' action='modify' visible='true' lat='1.29456374885' lon='103.86306964023' />
+  <node id='-102226' action='modify' visible='true' lat='1.29468514885' lon='103.86298724023' />
+  <node id='-102227' action='modify' visible='true' lat='1.29475574885' lon='103.86292814023' />
+  <node id='-102228' action='modify' visible='true' lat='1.29479204885' lon='103.86285994023' />
+  <node id='-102229' action='modify' visible='true' lat='1.29481004885' lon='103.86278254023' />
+  <node id='-102230' action='modify' visible='true' lat='1.29481204885' lon='103.86270054023' />
+  <node id='-102231' action='modify' visible='true' lat='1.29480014885' lon='103.86265994023' />
+  <node id='-102232' action='modify' visible='true' lat='1.28867214878' lon='103.86288974023' />
+  <node id='-102233' action='modify' visible='true' lat='1.28864554878' lon='103.86359664023' />
+  <node id='-102234' action='modify' visible='true' lat='1.28862944878' lon='103.86392214023' />
+  <node id='-102235' action='modify' visible='true' lat='1.28863404878' lon='103.86398394023' />
+  <node id='-102236' action='modify' visible='true' lat='1.28865304878' lon='103.86404564023' />
+  <node id='-102237' action='modify' visible='true' lat='1.28868104878' lon='103.86409224023' />
+  <node id='-102238' action='modify' visible='true' lat='1.28873134878' lon='103.86412774023' />
+  <node id='-102239' action='modify' visible='true' lat='1.28933914879' lon='103.86451744023' />
+  <node id='-102240' action='modify' visible='true' lat='1.28939674879' lon='103.86454184023' />
+  <node id='-102241' action='modify' visible='true' lat='1.28947334879' lon='103.86455354023' />
+  <node id='-102242' action='modify' visible='true' lat='1.28961624879' lon='103.86454084023' />
+  <node id='-102243' action='modify' visible='true' lat='1.29166364881' lon='103.86426074023'>
+    <tag k='race course' v='start_end' />
+  </node>
+  <node id='-102244' action='modify' visible='true' lat='1.29261964883' lon='103.86410984023' />
+  <node id='-102245' action='modify' visible='true' lat='1.29285784883' lon='103.86408654023' />
+  <node id='-102246' action='modify' visible='true' lat='1.29316424883' lon='103.86407954023' />
+  <node id='-102247' action='modify' visible='true' lat='1.29367634884' lon='103.86409004023' />
+  <node id='-102248' action='modify' visible='true' lat='1.29382374884' lon='103.86407144023' />
+  <node id='-102249' action='modify' visible='true' lat='1.29396424884' lon='103.86404394023' />
+  <node id='-102250' action='modify' visible='true' lat='1.29421124884' lon='103.86397074023' />
+  <node id='-102251' action='modify' visible='true' lat='1.29427414884' lon='103.86394314023' />
+  <node id='-102252' action='modify' visible='true' lat='1.29430674885' lon='103.86391684023' />
+  <node id='-102253' action='modify' visible='true' lat='1.29432694885' lon='103.86386884023' />
+  <node id='-102254' action='modify' visible='true' lat='1.29432854885' lon='103.86376984023' />
+  <node id='-102255' action='modify' visible='true' lat='1.29432954885' lon='103.86367154023' />
+  <node id='-102256' action='modify' visible='true' lat='1.29433744885' lon='103.86360014023' />
+  <node id='-102257' action='modify' visible='true' lat='1.29436684885' lon='103.86346684023' />
+  <node id='-102258' action='modify' visible='true' lat='1.29440044885' lon='103.86334744023' />
+  <node id='-102259' action='modify' visible='true' lat='1.28876024878' lon='103.86199034023' />
+  <node id='-102260' action='modify' visible='true' lat='1.28867534878' lon='103.86282374023' />
+  <node id='-102261' action='modify' visible='true' lat='1.28952214879' lon='103.86115344023'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-102262' action='modify' visible='true' lat='1.28946514879' lon='103.86125594023'>
+    <tag k='barrier' v='yes' />
+  </node>
+  <node id='-102263' action='modify' visible='true' lat='1.28940804879' lon='103.86131124023' />
+  <node id='-102264' action='modify' visible='true' lat='1.28934564879' lon='103.86132604023' />
+  <node id='-102265' action='modify' visible='true' lat='1.28919184879' lon='103.86132604023' />
+  <node id='-102266' action='modify' visible='true' lat='1.28910964879' lon='103.86132764023' />
+  <node id='-102267' action='modify' visible='true' lat='1.28903074878' lon='103.86134714023' />
+  <node id='-102268' action='modify' visible='true' lat='1.28894614878' lon='103.86138184023' />
+  <node id='-102269' action='modify' visible='true' lat='1.28887614878' lon='103.86143834023' />
+  <node id='-102270' action='modify' visible='true' lat='1.28882514878' lon='103.86152444023' />
+  <node id='-102271' action='modify' visible='true' lat='1.28880114878' lon='103.86162504023' />
+  <node id='-102272' action='modify' visible='true' lat='1.28877264878' lon='103.86187934023' />
+  <node id='-102273' action='modify' visible='true' lat='1.28954414879' lon='103.86104034023'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-102274' action='modify' visible='true' lat='1.28954214879' lon='103.86092864023'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-102275' action='modify' visible='true' lat='1.28954824879' lon='103.86088434023'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-102276' action='modify' visible='true' lat='1.28955764879' lon='103.86064194023' />
+  <node id='-102277' action='modify' visible='true' lat='1.28957024879' lon='103.86036534023' />
+  <node id='-102278' action='modify' visible='true' lat='1.28958594879' lon='103.86002164023' />
+  <node id='-102279' action='modify' visible='true' lat='1.28934794879' lon='103.85991064023' />
+  <node id='-102280' action='modify' visible='true' lat='1.28945604879' lon='103.85993874023' />
+  <node id='-102281' action='modify' visible='true' lat='1.28950464879' lon='103.85994734023'>
+    <tag k='barrier' v='yes' />
+  </node>
+  <node id='-102282' action='modify' visible='true' lat='1.28955414879' lon='103.85997124023' />
+  <node id='-102283' action='modify' visible='true' lat='1.28889914878' lon='103.85985964023' />
+  <node id='-102284' action='modify' visible='true' lat='1.28969524879' lon='103.85780484023' />
+  <node id='-102285' action='modify' visible='true' lat='1.28966714879' lon='103.85781654023'>
+    <tag k='barrier' v='yes' />
+  </node>
+  <node id='-102286' action='modify' visible='true' lat='1.28942674879' lon='103.85780924023' />
+  <node id='-102287' action='modify' visible='true' lat='1.28919364879' lon='103.85781234023' />
+  <node id='-102288' action='modify' visible='true' lat='1.28911494879' lon='103.85782964023' />
+  <node id='-102289' action='modify' visible='true' lat='1.28903994878' lon='103.85787234023' />
+  <node id='-102290' action='modify' visible='true' lat='1.28895694878' lon='103.85795414023' />
+  <node id='-102291' action='modify' visible='true' lat='1.28890304878' lon='103.85804324023' />
+  <node id='-102292' action='modify' visible='true' lat='1.28887734878' lon='103.85813154023' />
+  <node id='-102293' action='modify' visible='true' lat='1.28877504878' lon='103.85976024023' />
+  <node id='-102294' action='modify' visible='true' lat='1.28878424878' lon='103.85981354023' />
+  <node id='-102295' action='modify' visible='true' lat='1.28881024878' lon='103.85984994023' />
+  <node id='-102296' action='modify' visible='true' lat='1.28970874879' lon='103.85762384023' />
+  <node id='-102297' action='modify' visible='true' lat='1.28971434879' lon='103.85753114023' />
+  <node id='-102298' action='modify' visible='true' lat='1.28971534879' lon='103.85750504023' />
+  <node id='-102299' action='modify' visible='true' lat='1.28972224879' lon='103.85737944023' />
+  <node id='-102300' action='modify' visible='true' lat='1.28972364879' lon='103.85735474023' />
+  <node id='-102301' action='modify' visible='true' lat='1.28972644879' lon='103.85730424023' />
+  <node id='-102302' action='modify' visible='true' lat='1.28974584879' lon='103.85715354023' />
+  <node id='-102303' action='modify' visible='true' lat='1.28976474879' lon='103.85703594023' />
+  <node id='-102304' action='modify' visible='true' lat='1.28979614879' lon='103.85692714023' />
+  <node id='-102305' action='modify' visible='true' lat='1.28982564879' lon='103.85683514023' />
+  <node id='-102306' action='modify' visible='true' lat='1.28984894879' lon='103.85678664023' />
+  <node id='-102307' action='modify' visible='true' lat='1.28988424879' lon='103.85671354023' />
+  <node id='-102308' action='modify' visible='true' lat='1.28994224879' lon='103.85662534023' />
+  <node id='-102309' action='modify' visible='true' lat='1.2899613488' lon='103.85659624023' />
+  <node id='-102310' action='modify' visible='true' lat='1.2900501488' lon='103.85650044023' />
+  <node id='-102311' action='modify' visible='true' lat='1.2901421488' lon='103.85640124023'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-102312' action='modify' visible='true' lat='1.2901943488' lon='103.85633434023'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-102313' action='modify' visible='true' lat='1.2902909488' lon='103.85622224023' />
+  <node id='-102314' action='modify' visible='true' lat='1.2904376488' lon='103.85603914023' />
+  <node id='-102315' action='modify' visible='true' lat='1.2906370488' lon='103.85585844023' />
+  <node id='-102316' action='modify' visible='true' lat='1.29091734881' lon='103.85549994023' />
+  <node id='-102317' action='modify' visible='true' lat='1.29109804881' lon='103.85528214023' />
+  <node id='-102318' action='modify' visible='true' lat='1.29111544881' lon='103.85526404023' />
+  <node id='-102319' action='modify' visible='true' lat='1.29124904881' lon='103.85510804023' />
+  <node id='-102320' action='modify' visible='true' lat='1.29129474881' lon='103.85505674023'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-102321' action='modify' visible='true' lat='1.29105344881' lon='103.85497124023' />
+  <node id='-102322' action='modify' visible='true' lat='1.29094424881' lon='103.85493184023' />
+  <node id='-102323' action='modify' visible='true' lat='1.2903965488' lon='103.85474164023' />
+  <node id='-102324' action='modify' visible='true' lat='1.2903119488' lon='103.85471674023' />
+  <node id='-102325' action='modify' visible='true' lat='1.2901479488' lon='103.85467324023' />
+  <node id='-102326' action='modify' visible='true' lat='1.2900788488' lon='103.85465494023' />
+  <node id='-102327' action='modify' visible='true' lat='1.2900141488' lon='103.85464194023' />
+  <node id='-102328' action='modify' visible='true' lat='1.2899738488' lon='103.85463374023' />
+  <node id='-102329' action='modify' visible='true' lat='1.28963174879' lon='103.85456424023' />
+  <node id='-102330' action='modify' visible='true' lat='1.28960164879' lon='103.85455814023' />
+  <node id='-102331' action='modify' visible='true' lat='1.28953254879' lon='103.85454414023' />
+  <node id='-102332' action='modify' visible='true' lat='1.28930604879' lon='103.85449814023' />
+  <node id='-102333' action='modify' visible='true' lat='1.28922394879' lon='103.85448144023' />
+  <node id='-102334' action='modify' visible='true' lat='1.28776534877' lon='103.85420074023' />
+  <node id='-102335' action='modify' visible='true' lat='1.28663504876' lon='103.85398284023' />
+  <node id='-102336' action='modify' visible='true' lat='1.28646090729' lon='103.85392895372'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-102337' action='modify' visible='true' lat='1.28644235328' lon='103.8537575856' />
+  <node id='-102338' action='modify' visible='true' lat='1.28661725884' lon='103.85358924631' />
+  <node id='-102339' action='modify' visible='true' lat='1.28891994878' lon='103.85168884023'>
+    <tag k='traffic_calming' v='island' />
+  </node>
+  <node id='-102340' action='modify' visible='true' lat='1.28875144878' lon='103.85191604023' />
+  <node id='-102341' action='modify' visible='true' lat='1.28863434878' lon='103.85208644023' />
+  <node id='-102342' action='modify' visible='true' lat='1.28869864878' lon='103.86330264023' />
+  <node id='-102343' action='modify' visible='true' lat='1.28872794878' lon='103.86386164023' />
+  <node id='-102344' action='modify' visible='true' lat='1.28873814878' lon='103.86393384023' />
+  <node id='-102345' action='modify' visible='true' lat='1.28876114878' lon='103.86399014023' />
+  <node id='-102346' action='modify' visible='true' lat='1.28878124878' lon='103.86402174023' />
+  <node id='-102347' action='modify' visible='true' lat='1.28880854878' lon='103.86404944023' />
+  <node id='-102348' action='modify' visible='true' lat='1.28889904878' lon='103.86411074023' />
+  <node id='-102349' action='modify' visible='true' lat='1.28931844879' lon='103.86438514023' />
+  <node id='-102350' action='modify' visible='true' lat='1.28938964879' lon='103.86441314023' />
+  <node id='-102351' action='modify' visible='true' lat='1.28949054879' lon='103.86443004023' />
+  <node id='-102352' action='modify' visible='true' lat='1.28961824879' lon='103.86442524023' />
+  <node id='-102353' action='modify' visible='true' lat='1.29255434883' lon='103.86398564023' />
+  <node id='-102354' action='modify' visible='true' lat='1.29272344883' lon='103.86396044023' />
+  <node id='-102355' action='modify' visible='true' lat='1.29282594883' lon='103.86395404023' />
+  <node id='-102356' action='modify' visible='true' lat='1.29293454883' lon='103.86395064023' />
+  <node id='-102357' action='modify' visible='true' lat='1.29362334884' lon='103.86397754023' />
+  <node id='-102358' action='modify' visible='true' lat='1.29368494884' lon='103.86397564023' />
+  <node id='-102359' action='modify' visible='true' lat='1.29376804884' lon='103.86396604023' />
+  <node id='-102360' action='modify' visible='true' lat='1.29397904884' lon='103.86391224023' />
+  <node id='-102361' action='modify' visible='true' lat='1.29403974884' lon='103.86389154023' />
+  <node id='-102362' action='modify' visible='true' lat='1.29411014884' lon='103.86386274023' />
+  <node id='-102363' action='modify' visible='true' lat='1.29415514884' lon='103.86382024023' />
+  <node id='-102364' action='modify' visible='true' lat='1.29419904884' lon='103.86375424023' />
+  <node id='-102365' action='modify' visible='true' lat='1.29424514884' lon='103.86364314023' />
+  <node id='-102366' action='modify' visible='true' lat='1.29427734884' lon='103.86350604023' />
+  <node id='-102367' action='modify' visible='true' lat='1.29430954885' lon='103.86341834023' />
+  <node id='-102368' action='modify' visible='true' lat='1.29435704885' lon='103.86332504023' />
+  <node id='-102516' action='modify' visible='true' lat='1.28683714794' lon='103.85343789518' />
+  <node id='-102517' action='modify' visible='true' lat='1.28711066425' lon='103.85320186079' />
+  <node id='-102518' action='modify' visible='true' lat='1.28740563278' lon='103.85283708036' />
+  <node id='-102519' action='modify' visible='true' lat='1.2876684229' lon='103.85253667295' />
+  <node id='-102520' action='modify' visible='true' lat='1.28788830848' lon='103.85242938459' />
+  <node id='-102521' action='modify' visible='true' lat='1.28814037243' lon='103.85238512814' />
+  <node id='-102627' action='modify' visible='true' lat='1.28849567126' lon='103.85246962175' />
+  <node id='-102766' action='modify' visible='true' lat='1.28834550553' lon='103.8524267064' />
+  <node id='-102877' action='modify' visible='true' lat='1.28841924763' lon='103.85248169169' />
+  <way id='-108039' action='modify' visible='true'>
+    <nd ref='-102125' />
+    <nd ref='-102766' />
+    <nd ref='-102877' />
+    <nd ref='-102627' />
+    <nd ref='-102126' />
+    <tag k='highway' v='residential' />
+    <tag k='junction' v='roundabout' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108040' action='modify' visible='true'>
+    <nd ref='-102126' />
+    <nd ref='-102127' />
+    <nd ref='-102128' />
+    <nd ref='-102129' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through' />
+  </way>
+  <way id='-108042' action='modify' visible='true'>
+    <nd ref='-102131' />
+    <nd ref='-102133' />
+    <nd ref='-102134' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through' />
+  </way>
+  <way id='-108043' action='modify' visible='true'>
+    <nd ref='-102134' />
+    <nd ref='-102135' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108044' action='modify' visible='true'>
+    <nd ref='-102135' />
+    <nd ref='-102136' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through' />
+  </way>
+  <way id='-108045' action='modify' visible='true'>
+    <nd ref='-102136' />
+    <nd ref='-102137' />
+    <nd ref='-102138' />
+    <nd ref='-102139' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through' />
+  </way>
+  <way id='-108046' action='modify' visible='true'>
+    <nd ref='-102139' />
+    <nd ref='-102140' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through' />
+  </way>
+  <way id='-108047' action='modify' visible='true'>
+    <nd ref='-102140' />
+    <nd ref='-102141' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through' />
+  </way>
+  <way id='-108048' action='modify' visible='true'>
+    <nd ref='-102141' />
+    <nd ref='-102142' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108049' action='modify' visible='true'>
+    <nd ref='-102142' />
+    <nd ref='-102143' />
+    <nd ref='-102144' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|through|through|through' />
+  </way>
+  <way id='-108050' action='modify' visible='true'>
+    <nd ref='-102144' />
+    <nd ref='-102145' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|slight_left;slight_right|through|through' />
+  </way>
+  <way id='-108051' action='modify' visible='true'>
+    <nd ref='-102145' />
+    <nd ref='-102146' />
+    <nd ref='-102147' />
+    <nd ref='-102148' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Saint Andrew&apos;s Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through' />
+  </way>
+  <way id='-108052' action='modify' visible='true'>
+    <nd ref='-102149' />
+    <nd ref='-102150' />
+    <nd ref='-102148' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through' />
+  </way>
+  <way id='-108053' action='modify' visible='true'>
+    <nd ref='-102151' />
+    <nd ref='-102149' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through|right' />
+  </way>
+  <way id='-108054' action='modify' visible='true'>
+    <nd ref='-102152' />
+    <nd ref='-102151' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through' />
+  </way>
+  <way id='-108055' action='modify' visible='true'>
+    <nd ref='-102153' />
+    <nd ref='-102152' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108056' action='modify' visible='true'>
+    <nd ref='-102154' />
+    <nd ref='-102153' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108057' action='modify' visible='true'>
+    <nd ref='-102155' />
+    <nd ref='-102154' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Stamford Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108058' action='modify' visible='true'>
+    <nd ref='-102155' />
+    <nd ref='-102156' />
+    <nd ref='-102157' />
+    <nd ref='-102158' />
+    <nd ref='-102159' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Nicoll Highway' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108059' action='modify' visible='true'>
+    <nd ref='-102159' />
+    <nd ref='-102160' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Nicoll Highway' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through;right|right' />
+  </way>
+  <way id='-108060' action='modify' visible='true'>
+    <nd ref='-102160' />
+    <nd ref='-102161' />
+    <nd ref='-102162' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Nicoll Highway' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through;right|right|right' />
+  </way>
+  <way id='-108061' action='modify' visible='true'>
+    <nd ref='-102162' />
+    <nd ref='-102163' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Bras Basah Road' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='GPS &amp; Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108062' action='modify' visible='true'>
+    <nd ref='-102163' />
+    <nd ref='-102164' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108063' action='modify' visible='true'>
+    <nd ref='-102164' />
+    <nd ref='-102165' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|through|none|none|none|none' />
+  </way>
+  <way id='-108064' action='modify' visible='true'>
+    <nd ref='-102165' />
+    <nd ref='-102166' />
+    <nd ref='-102167' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108065' action='modify' visible='true'>
+    <nd ref='-102167' />
+    <nd ref='-102168' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left;through|through|through|through|through' />
+  </way>
+  <way id='-108066' action='modify' visible='true'>
+    <nd ref='-102168' />
+    <nd ref='-102169' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left;through|through|through|through|through' />
+  </way>
+  <way id='-108067' action='modify' visible='true'>
+    <nd ref='-102169' />
+    <nd ref='-102170' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left;through|through|through|through|through' />
+  </way>
+  <way id='-108068' action='modify' visible='true'>
+    <nd ref='-102170' />
+    <nd ref='-102171' />
+    <nd ref='-102172' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108069' action='modify' visible='true'>
+    <nd ref='-102172' />
+    <nd ref='-102173' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108070' action='modify' visible='true'>
+    <nd ref='-102173' />
+    <nd ref='-102174' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through|through' />
+  </way>
+  <way id='-108071' action='modify' visible='true'>
+    <nd ref='-102174' />
+    <nd ref='-102175' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxheight' v='4.5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tunnel' v='building_passage' />
+  </way>
+  <way id='-108072' action='modify' visible='true'>
+    <nd ref='-102175' />
+    <nd ref='-102176' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tunnel' v='building_passage' />
+    <tag k='turn:lanes' v='left;through|through|through|through|through' />
+  </way>
+  <way id='-108073' action='modify' visible='true'>
+    <nd ref='-102176' />
+    <nd ref='-102177' />
+    <nd ref='-102178' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108074' action='modify' visible='true'>
+    <nd ref='-102178' />
+    <nd ref='-102179' />
+    <nd ref='-102180' />
+    <nd ref='-102181' />
+    <nd ref='-102182' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108075' action='modify' visible='true'>
+    <nd ref='-102182' />
+    <nd ref='-102183' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through|through' />
+  </way>
+  <way id='-108076' action='modify' visible='true'>
+    <nd ref='-102183' />
+    <nd ref='-102184' />
+    <nd ref='-102185' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxheight' v='4.5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tunnel' v='building_passage' />
+  </way>
+  <way id='-108077' action='modify' visible='true'>
+    <nd ref='-102185' />
+    <nd ref='-102186' />
+    <tag k='busway:left' v='lane' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108078' action='modify' visible='true'>
+    <nd ref='-102186' />
+    <nd ref='-102187' />
+    <tag k='busway:left' v='lane' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|none|none|none|none' />
+  </way>
+  <way id='-108079' action='modify' visible='true'>
+    <nd ref='-102187' />
+    <nd ref='-102188' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|through|through|through|through;right|right' />
+  </way>
+  <way id='-108080' action='modify' visible='true'>
+    <nd ref='-102188' />
+    <nd ref='-102189' />
+    <nd ref='-102190' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through;right|right' />
+  </way>
+  <way id='-108081' action='modify' visible='true'>
+    <nd ref='-102190' />
+    <nd ref='-102191' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108082' action='modify' visible='true'>
+    <nd ref='-102191' />
+    <nd ref='-102192' />
+    <nd ref='-102193' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108083' action='modify' visible='true'>
+    <nd ref='-102193' />
+    <nd ref='-102194' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108084' action='modify' visible='true'>
+    <nd ref='-102194' />
+    <nd ref='-102195' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108085' action='modify' visible='true'>
+    <nd ref='-102195' />
+    <nd ref='-102196' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108086' action='modify' visible='true'>
+    <nd ref='-102196' />
+    <nd ref='-102197' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left|right|right' />
+  </way>
+  <way id='-108087' action='modify' visible='true'>
+    <nd ref='-102197' />
+    <nd ref='-102198' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left' />
+  </way>
+  <way id='-108088' action='modify' visible='true'>
+    <nd ref='-102198' />
+    <nd ref='-102199' />
+    <nd ref='-102200' />
+    <nd ref='-102201' />
+    <nd ref='-102202' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108089' action='modify' visible='true'>
+    <nd ref='-102202' />
+    <nd ref='-102203' />
+    <nd ref='-102204' />
+    <nd ref='-102205' />
+    <nd ref='-102206' />
+    <nd ref='-102207' />
+    <nd ref='-102208' />
+    <nd ref='-102209' />
+    <nd ref='-102210' />
+    <nd ref='-102211' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108090' action='modify' visible='true'>
+    <nd ref='-102211' />
+    <nd ref='-102212' />
+    <nd ref='-102213' />
+    <tag k='highway' v='primary' />
+    <tag k='image' v='https://images.mapillary.com/o72ouKUNKmshV92TGsV5zw/thumb-2048.jpg' />
+    <tag k='lanes' v='2' />
+    <tag k='mapillary' v='https://www.mapillary.com/map/im/o72ouKUNKmshV92TGsV5zw' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108091' action='modify' visible='true'>
+    <nd ref='-102213' />
+    <nd ref='-102214' />
+    <tag k='highway' v='primary' />
+    <tag k='image' v='https://images.mapillary.com/AYKz9KrqqwYJuXU8KLXNuA/thumb-2048.jpg' />
+    <tag k='lanes' v='2' />
+    <tag k='mapillary' v='https://www.mapillary.com/map/im/AYKz9KrqqwYJuXU8KLXNuA' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108092' action='modify' visible='true'>
+    <nd ref='-102214' />
+    <nd ref='-102215' />
+    <nd ref='-102216' />
+    <nd ref='-102217' />
+    <tag k='highway' v='primary' />
+    <tag k='image' v='https://images.mapillary.com/AYKz9KrqqwYJuXU8KLXNuA/thumb-2048.jpg' />
+    <tag k='lanes' v='2' />
+    <tag k='mapillary' v='https://www.mapillary.com/map/im/AYKz9KrqqwYJuXU8KLXNuA' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108093' action='modify' visible='true'>
+    <nd ref='-102217' />
+    <nd ref='-102218' />
+    <nd ref='-102219' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Republic Boulevard' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108094' action='modify' visible='true'>
+    <nd ref='-102220' />
+    <nd ref='-102221' />
+    <nd ref='-102222' />
+    <nd ref='-102219' />
+    <tag k='access' v='private' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='pitlane' />
+    <tag k='sport' v='motor' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108095' action='modify' visible='true'>
+    <nd ref='-102223' />
+    <nd ref='-102224' />
+    <nd ref='-102225' />
+    <nd ref='-102226' />
+    <nd ref='-102227' />
+    <nd ref='-102228' />
+    <nd ref='-102229' />
+    <nd ref='-102230' />
+    <nd ref='-102231' />
+    <nd ref='-102220' />
+    <tag k='access' v='private' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='pitlane' />
+    <tag k='sport' v='motor' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108096' action='modify' visible='true'>
+    <nd ref='-102232' />
+    <nd ref='-102233' />
+    <nd ref='-102234' />
+    <nd ref='-102235' />
+    <nd ref='-102236' />
+    <nd ref='-102237' />
+    <nd ref='-102238' />
+    <nd ref='-102239' />
+    <nd ref='-102240' />
+    <nd ref='-102241' />
+    <nd ref='-102242' />
+    <nd ref='-102243' />
+    <nd ref='-102244' />
+    <nd ref='-102245' />
+    <nd ref='-102246' />
+    <nd ref='-102247' />
+    <nd ref='-102248' />
+    <nd ref='-102249' />
+    <nd ref='-102250' />
+    <nd ref='-102251' />
+    <nd ref='-102252' />
+    <nd ref='-102253' />
+    <nd ref='-102254' />
+    <nd ref='-102255' />
+    <nd ref='-102256' />
+    <nd ref='-102257' />
+    <nd ref='-102258' />
+    <nd ref='-102223' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108097' action='modify' visible='true'>
+    <nd ref='-102259' />
+    <nd ref='-102260' />
+    <nd ref='-102232' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='image' v='https://images.mapillary.com/8ANa6_FW5wLK1ixdGUS1MQ/thumb-2048.jpg' />
+    <tag k='mapillary' v='https://www.mapillary.com/map/im/8ANa6_FW5wLK1ixdGUS1MQ' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108098' action='modify' visible='true'>
+    <nd ref='-102261' />
+    <nd ref='-102262' />
+    <nd ref='-102263' />
+    <nd ref='-102264' />
+    <nd ref='-102265' />
+    <nd ref='-102266' />
+    <nd ref='-102267' />
+    <nd ref='-102268' />
+    <nd ref='-102269' />
+    <nd ref='-102270' />
+    <nd ref='-102271' />
+    <nd ref='-102272' />
+    <nd ref='-102259' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='sport' v='motor' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108099' action='modify' visible='true'>
+    <nd ref='-102261' />
+    <nd ref='-102273' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|through|through;right|right' />
+  </way>
+  <way id='-108100' action='modify' visible='true'>
+    <nd ref='-102273' />
+    <nd ref='-102274' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through;right' />
+  </way>
+  <way id='-108101' action='modify' visible='true'>
+    <nd ref='-102274' />
+    <nd ref='-102275' />
+    <nd ref='-102276' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108102' action='modify' visible='true'>
+    <nd ref='-102276' />
+    <nd ref='-102277' />
+    <nd ref='-102278' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108103' action='modify' visible='true'>
+    <nd ref='-102279' />
+    <nd ref='-102280' />
+    <nd ref='-102281' />
+    <nd ref='-102282' />
+    <nd ref='-102278' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='F1 Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='pitlane' />
+  </way>
+  <way id='-108104' action='modify' visible='true'>
+    <nd ref='-102283' />
+    <nd ref='-102279' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='F1 Marina-Bay-Street-Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='tunnel' v='building_passage' />
+  </way>
+  <way id='-108105' action='modify' visible='true'>
+    <nd ref='-102284' />
+    <nd ref='-102285' />
+    <nd ref='-102286' />
+    <nd ref='-102287' />
+    <nd ref='-102288' />
+    <nd ref='-102289' />
+    <nd ref='-102290' />
+    <nd ref='-102291' />
+    <nd ref='-102292' />
+    <nd ref='-102293' />
+    <nd ref='-102294' />
+    <nd ref='-102295' />
+    <nd ref='-102283' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='oneway' v='yes' />
+    <tag k='sport' v='motor' />
+  </way>
+  <way id='-108106' action='modify' visible='true'>
+    <nd ref='-102284' />
+    <nd ref='-102296' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through;right' />
+  </way>
+  <way id='-108107' action='modify' visible='true'>
+    <nd ref='-102296' />
+    <nd ref='-102297' />
+    <nd ref='-102298' />
+    <nd ref='-102299' />
+    <nd ref='-102300' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through;right' />
+  </way>
+  <way id='-108108' action='modify' visible='true'>
+    <nd ref='-102300' />
+    <nd ref='-102301' />
+    <nd ref='-102302' />
+    <nd ref='-102303' />
+    <tag k='busway:left' v='lane' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:bus' v='1' />
+    <tag k='lanes:bus:conditional' v='1 @ (Mo-Sa 07:30-23:00)' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through' />
+  </way>
+  <way id='-108109' action='modify' visible='true'>
+    <nd ref='-102303' />
+    <nd ref='-102304' />
+    <nd ref='-102305' />
+    <nd ref='-102306' />
+    <nd ref='-102307' />
+    <nd ref='-102308' />
+    <nd ref='-102309' />
+    <nd ref='-102310' />
+    <nd ref='-102311' />
+    <nd ref='-102312' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through' />
+  </way>
+  <way id='-108110' action='modify' visible='true'>
+    <nd ref='-102312' />
+    <nd ref='-102313' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='none|through|through|through' />
+  </way>
+  <way id='-108111' action='modify' visible='true'>
+    <nd ref='-102313' />
+    <nd ref='-102314' />
+    <nd ref='-102315' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|through|through|through|right' />
+  </way>
+  <way id='-108112' action='modify' visible='true'>
+    <nd ref='-102315' />
+    <nd ref='-102316' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|through|through|through;right' />
+  </way>
+  <way id='-108113' action='modify' visible='true'>
+    <nd ref='-102316' />
+    <nd ref='-102317' />
+    <nd ref='-102318' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left|left;through|through|through|through;right|right' />
+  </way>
+  <way id='-108114' action='modify' visible='true'>
+    <nd ref='-102318' />
+    <nd ref='-102319' />
+    <nd ref='-102320' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Raffles Avenue' />
+    <tag k='note' v='Part of it estimated ???' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='sometimes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left;through|through|through|through;right|right' />
+  </way>
+  <way id='-108115' action='modify' visible='true'>
+    <nd ref='-102320' />
+    <nd ref='-102321' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108116' action='modify' visible='true'>
+    <nd ref='-102321' />
+    <nd ref='-102322' />
+    <nd ref='-102323' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108117' action='modify' visible='true'>
+    <nd ref='-102323' />
+    <nd ref='-102324' />
+    <nd ref='-102325' />
+    <nd ref='-102326' />
+    <nd ref='-102327' />
+    <nd ref='-102328' />
+    <nd ref='-102329' />
+    <nd ref='-102330' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='5' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108118' action='modify' visible='true'>
+    <nd ref='-102330' />
+    <nd ref='-102331' />
+    <nd ref='-102332' />
+    <nd ref='-102333' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108119' action='modify' visible='true'>
+    <nd ref='-102333' />
+    <nd ref='-102334' />
+    <tag k='bridge' v='yes' />
+    <tag k='bridge:name' v='Esplanade Bridge' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='1' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='start_date' v='1997' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108120' action='modify' visible='true'>
+    <nd ref='-102334' />
+    <nd ref='-102335' />
+    <tag k='bridge' v='yes' />
+    <tag k='bridge:name' v='Esplanade Bridge' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='1' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='start_date' v='1997' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through;right' />
+  </way>
+  <way id='-108121' action='modify' visible='true'>
+    <nd ref='-102335' />
+    <nd ref='-102336' />
+    <nd ref='-102337' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|through|through;right' />
+  </way>
+  <way id='-108122' action='modify' visible='true'>
+    <nd ref='-102337' />
+    <nd ref='-102338' />
+    <nd ref='-102516' />
+    <nd ref='-102517' />
+    <nd ref='-102518' />
+    <nd ref='-102519' />
+    <nd ref='-102520' />
+    <nd ref='-102521' />
+    <nd ref='-102125' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='70' />
+    <tag k='name' v='Esplanade Drive' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='Yahoo aerial images' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-108123' action='modify' visible='true'>
+    <nd ref='-102339' />
+    <nd ref='-102131' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through' />
+  </way>
+  <way id='-108124' action='modify' visible='true'>
+    <nd ref='-102339' />
+    <nd ref='-102340' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes:backward' v='through' />
+    <tag k='turn:lanes:forward' v='through' />
+  </way>
+  <way id='-108125' action='modify' visible='true'>
+    <nd ref='-102340' />
+    <nd ref='-102341' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Connaught Drive' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes:backward' v='through;right' />
+    <tag k='turn:lanes:forward' v='through' />
+  </way>
+  <way id='-108126' action='modify' visible='true'>
+    <nd ref='-102232' />
+    <nd ref='-102342' />
+    <nd ref='-102343' />
+    <nd ref='-102344' />
+    <nd ref='-102345' />
+    <nd ref='-102346' />
+    <nd ref='-102347' />
+    <nd ref='-102348' />
+    <nd ref='-102349' />
+    <nd ref='-102350' />
+    <nd ref='-102351' />
+    <nd ref='-102352' />
+    <nd ref='-102353' />
+    <nd ref='-102354' />
+    <nd ref='-102355' />
+    <nd ref='-102356' />
+    <nd ref='-102357' />
+    <nd ref='-102358' />
+    <nd ref='-102359' />
+    <nd ref='-102360' />
+    <nd ref='-102361' />
+    <nd ref='-102362' />
+    <nd ref='-102363' />
+    <nd ref='-102364' />
+    <nd ref='-102365' />
+    <nd ref='-102366' />
+    <nd ref='-102367' />
+    <nd ref='-102368' />
+    <nd ref='-102223' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='raceway' />
+    <tag k='name' v='Pit Lane' />
+    <tag k='oneway' v='yes' />
+    <tag k='raceway' v='pitlane' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <relation id='-99851' action='modify' visible='true'>
+    <member type='way' ref='-108039' role='backward' />
+    <member type='way' ref='-108040' role='backward' />
+    <member type='way' ref='-108042' role='backward' />
+    <member type='way' ref='-108043' role='backward' />
+    <member type='way' ref='-108044' role='backward' />
+    <member type='way' ref='-108045' role='backward' />
+    <member type='way' ref='-108046' role='backward' />
+    <member type='way' ref='-108047' role='backward' />
+    <member type='way' ref='-108048' role='backward' />
+    <member type='way' ref='-108049' role='backward' />
+    <member type='way' ref='-108050' role='backward' />
+    <member type='way' ref='-108051' role='backward' />
+    <member type='way' ref='-108052' role='' />
+    <member type='way' ref='-108053' role='' />
+    <member type='way' ref='-108054' role='' />
+    <member type='way' ref='-108055' role='' />
+    <member type='way' ref='-108056' role='' />
+    <member type='way' ref='-108057' role='' />
+    <member type='way' ref='-108058' role='backward' />
+    <member type='way' ref='-108059' role='backward' />
+    <member type='way' ref='-108060' role='backward' />
+    <member type='way' ref='-108061' role='backward' />
+    <member type='way' ref='-108062' role='backward' />
+    <member type='way' ref='-108063' role='backward' />
+    <member type='way' ref='-108064' role='backward' />
+    <member type='way' ref='-108065' role='backward' />
+    <member type='way' ref='-108066' role='backward' />
+    <member type='way' ref='-108067' role='backward' />
+    <member type='way' ref='-108068' role='backward' />
+    <member type='way' ref='-108069' role='backward' />
+    <member type='way' ref='-108070' role='backward' />
+    <member type='way' ref='-108071' role='backward' />
+    <member type='way' ref='-108072' role='backward' />
+    <member type='way' ref='-108073' role='backward' />
+    <member type='way' ref='-108074' role='backward' />
+    <member type='way' ref='-108075' role='backward' />
+    <member type='way' ref='-108076' role='backward' />
+    <member type='way' ref='-108077' role='backward' />
+    <member type='way' ref='-108078' role='backward' />
+    <member type='way' ref='-108079' role='backward' />
+    <member type='way' ref='-108080' role='backward' />
+    <member type='way' ref='-108081' role='backward' />
+    <member type='way' ref='-108082' role='backward' />
+    <member type='way' ref='-108083' role='backward' />
+    <member type='way' ref='-108084' role='' />
+    <member type='way' ref='-108085' role='backward' />
+    <member type='way' ref='-108086' role='backward' />
+    <member type='way' ref='-108087' role='backward' />
+    <member type='way' ref='-108088' role='backward' />
+    <member type='way' ref='-108089' role='backward' />
+    <member type='way' ref='-108090' role='backward' />
+    <member type='way' ref='-108091' role='backward' />
+    <member type='way' ref='-108092' role='backward' />
+    <member type='way' ref='-108093' role='backward' />
+    <member type='way' ref='-108094' role='pitlane' />
+    <member type='way' ref='-108095' role='pitlane' />
+    <member type='way' ref='-108096' role='backward' />
+    <member type='way' ref='-108097' role='backward' />
+    <member type='way' ref='-108098' role='backward' />
+    <member type='way' ref='-108099' role='backward' />
+    <member type='way' ref='-108100' role='backward' />
+    <member type='way' ref='-108101' role='backward' />
+    <member type='way' ref='-108102' role='backward' />
+    <member type='way' ref='-108103' role='' />
+    <member type='way' ref='-108104' role='' />
+    <member type='way' ref='-108105' role='' />
+    <member type='way' ref='-108106' role='' />
+    <member type='way' ref='-108107' role='backward' />
+    <member type='way' ref='-108108' role='backward' />
+    <member type='way' ref='-108109' role='backward' />
+    <member type='way' ref='-108110' role='backward' />
+    <member type='way' ref='-108111' role='backward' />
+    <member type='way' ref='-108112' role='backward' />
+    <member type='way' ref='-108113' role='backward' />
+    <member type='way' ref='-108114' role='backward' />
+    <member type='way' ref='-108115' role='backward' />
+    <member type='way' ref='-108116' role='backward' />
+    <member type='way' ref='-108117' role='backward' />
+    <member type='way' ref='-108118' role='backward' />
+    <member type='way' ref='-108119' role='backward' />
+    <member type='way' ref='-108120' role='backward' />
+    <member type='way' ref='-108121' role='backward' />
+    <member type='way' ref='-108122' role='backward' />
+    <member type='way' ref='-108123' role='backward' />
+    <member type='way' ref='-108124' role='' />
+    <member type='way' ref='-108125' role='' />
+    <member type='way' ref='-108126' role='pitlane' />
+    <tag k='name' v='Marina Bay Street Circuit' />
+    <tag k='type' v='circuit' />
+    <tag k='wikidata' v='Q171390' />
+    <tag k='wikipedia' v='en:Marina Bay Street Circuit' />
+  </relation>
+</osm>

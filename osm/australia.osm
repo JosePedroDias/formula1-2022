@@ -1,0 +1,1054 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='159337120' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='4' changeset='111705443' lat='-37.8379181' lon='144.9679594' />
+  <node id='159337122' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='5' changeset='111705443' lat='-37.8380667' lon='144.9680959' />
+  <node id='159355126' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='11' changeset='116209290' lat='-37.839895' lon='144.9636729' />
+  <node id='159359997' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='6' changeset='116209290' lat='-37.8402557' lon='144.9636942' />
+  <node id='159360004' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='5' changeset='111705443' lat='-37.8419706' lon='144.9630358' />
+  <node id='159360050' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='8' changeset='111705443' lat='-37.8525982' lon='144.9734287' />
+  <node id='159365365' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='6' changeset='111705443' lat='-37.8539234' lon='144.9759105' />
+  <node id='308865601' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='7' changeset='111705443' lat='-37.8527484' lon='144.9730182'>
+    <tag k='barrier' v='gate' />
+    <tag k='vehicle' v='no' />
+  </node>
+  <node id='308865602' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='5' changeset='82543806' lat='-37.8527539' lon='144.9729619' />
+  <node id='308865603' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='5' changeset='82543806' lat='-37.8527587' lon='144.9728427' />
+  <node id='308865604' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='6' changeset='82543806' lat='-37.8527436' lon='144.9726957' />
+  <node id='308865605' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='6' changeset='82543806' lat='-37.8527226' lon='144.9726202' />
+  <node id='308865608' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='6' changeset='82543806' lat='-37.8511448' lon='144.9705757' />
+  <node id='308865609' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='6' changeset='82543806' lat='-37.8495625' lon='144.968602' />
+  <node id='308865610' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='7' changeset='111705443' lat='-37.8493578' lon='144.9682967'>
+    <tag k='barrier' v='gate' />
+    <tag k='vehicle' v='private' />
+  </node>
+  <node id='520236491' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='4' changeset='82543806' lat='-37.8517151' lon='144.9712681' />
+  <node id='520248859' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='111705443' lat='-37.8405422' lon='144.9636908'>
+    <tag k='barrier' v='bollard' />
+    <tag k='vehicle' v='no' />
+  </node>
+  <node id='520248863' timestamp='2020-03-23T23:47:00Z' uid='206929' user='Supt_of_Printing' visible='true' version='3' changeset='82543806' lat='-37.8416104' lon='144.9637516' />
+  <node id='520248865' timestamp='2020-03-23T23:47:00Z' uid='206929' user='Supt_of_Printing' visible='true' version='3' changeset='82543806' lat='-37.841768' lon='144.9637123' />
+  <node id='572162926' timestamp='2020-03-23T23:47:00Z' uid='206929' user='Supt_of_Printing' visible='true' version='4' changeset='82543806' lat='-37.8420524' lon='144.9625363' />
+  <node id='577436014' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='5' changeset='82543806' lat='-37.8491793' lon='144.9765115' />
+  <node id='1667067064' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='3' changeset='82543806' lat='-37.8495104' lon='144.9685294' />
+  <node id='1667067089' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='3' changeset='82543806' lat='-37.8526506' lon='144.9724611' />
+  <node id='1667067092' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='3' changeset='82543806' lat='-37.8526942' lon='144.9725384' />
+  <node id='1667067094' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8526712' lon='144.9732282' />
+  <node id='1667067100' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8526933' lon='144.97319' />
+  <node id='1667067106' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8527131' lon='144.973147' />
+  <node id='1667067111' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8527552' lon='144.9727701' />
+  <node id='1667067113' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.852757' lon='144.9728991' />
+  <node id='1667233229' timestamp='2012-03-09T12:58:35Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10919682' lat='-37.8413532' lon='144.9637434' />
+  <node id='1667233233' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='111705443' lat='-37.8416626' lon='144.9637483' />
+  <node id='1667233241' timestamp='2020-03-23T23:47:00Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8417182' lon='144.9637346' />
+  <node id='1667233268' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='4' changeset='111705443' lat='-37.84923' lon='144.9679562' />
+  <node id='1667335696' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='111705443' lat='-37.837992' lon='144.9680221' />
+  <node id='1667335699' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='111705443' lat='-37.8381329' lon='144.9681656' />
+  <node id='1667335700' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='111705443' lat='-37.8381625' lon='144.9682032' />
+  <node id='1667340768' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8480297' lon='144.9747472' />
+  <node id='1667340770' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8480298' lon='144.9746991' />
+  <node id='1667340772' timestamp='2012-03-09T14:39:36Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8480332' lon='144.9747921' />
+  <node id='1667340774' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8480377' lon='144.9746326' />
+  <node id='1667340776' timestamp='2012-03-09T14:39:36Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8480391' lon='144.9748159' />
+  <node id='1667340778' timestamp='2012-03-09T14:39:36Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8480475' lon='144.9732146' />
+  <node id='1667340779' timestamp='2012-03-09T14:39:36Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8480477' lon='144.9748397' />
+  <node id='1667340786' timestamp='2012-03-09T14:39:36Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8480585' lon='144.974859' />
+  <node id='1667340788' timestamp='2012-03-09T14:39:36Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8480734' lon='144.9732543' />
+  <node id='1667340790' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='111705443' lat='-37.848093' lon='144.9741322' />
+  <node id='1667340794' timestamp='2012-03-09T14:39:36Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8480982' lon='144.9733002' />
+  <node id='1667340799' timestamp='2012-03-09T14:39:36Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8481163' lon='144.9733468' />
+  <node id='1667340803' timestamp='2012-03-09T14:39:37Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8481171' lon='144.9739301' />
+  <node id='1667340805' timestamp='2012-03-09T14:39:37Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8481302' lon='144.9733927' />
+  <node id='1667340807' timestamp='2012-03-09T14:39:37Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8481441' lon='144.9734546' />
+  <node id='1667340809' timestamp='2012-03-09T14:39:37Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.8481495' lon='144.9735127' />
+  <node id='1667340811' timestamp='2012-03-09T14:39:37Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10920654' lat='-37.848152' lon='144.9735729' />
+  <node id='1667561551' timestamp='2012-03-09T17:08:50Z' uid='378737' user='Scrup' visible='true' version='1' changeset='10922590' lat='-37.8410991' lon='144.9637268' />
+  <node id='1668416901' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='4' changeset='111705443' lat='-37.8509006' lon='144.9778478' />
+  <node id='1668477759' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.841511' lon='144.9637514' />
+  <node id='1791373432' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='4' changeset='111705443' lat='-37.8530312' lon='144.978586' />
+  <node id='3345157665' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8487781' lon='144.9759047' />
+  <node id='3345157677' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8492681' lon='144.9766452' />
+  <node id='3345158095' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8490166' lon='144.9762571' />
+  <node id='5021511087' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='4' changeset='82543806' lat='-37.850562' lon='144.9698499'>
+    <tag k='name' v='Middle Park Football Club' />
+    <tag k='website' v='https://mpfc.com.au/' />
+  </node>
+  <node id='7318990955' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='4' changeset='116209290' lat='-37.8534237' lon='144.9786645' />
+  <node id='7324002868' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8471317' lon='144.9662187' />
+  <node id='7324002871' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8475728' lon='144.9659917' />
+  <node id='7324002873' timestamp='2021-12-10T02:30:35Z' uid='13782447' user='MapAbility' visible='true' version='2' changeset='114765722' lat='-37.852812' lon='144.9724801' />
+  <node id='7324002875' timestamp='2021-12-10T02:30:35Z' uid='13782447' user='MapAbility' visible='true' version='2' changeset='114765722' lat='-37.8528622' lon='144.972984' />
+  <node id='7324002877' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8422555' lon='144.9621333' />
+  <node id='7324002878' timestamp='2021-12-11T22:13:38Z' uid='13782447' user='MapAbility' visible='true' version='3' changeset='114832129' lat='-37.8484775' lon='144.9670038' />
+  <node id='7324002880' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8462489' lon='144.9660155' />
+  <node id='7324020541' timestamp='2020-09-16T14:53:11Z' uid='11774080' user='Surveyor2503' visible='true' version='3' changeset='90994182' lat='-37.8496494' lon='144.9771204'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='7324020542' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8497513' lon='144.9772349' />
+  <node id='7324020544' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8499165' lon='144.9773739' />
+  <node id='7324020546' timestamp='2020-03-24T01:33:52Z' uid='206929' user='Supt_of_Printing' visible='true' version='3' changeset='82543806' lat='-37.850008' lon='144.9774404' />
+  <node id='7324020547' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8518465' lon='144.9781923' />
+  <node id='7324020550' timestamp='2020-03-24T01:33:52Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8506995' lon='144.9777739' />
+  <node id='7324020551' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8495751' lon='144.9770415' />
+  <node id='7324020556' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.851212' lon='144.9779642' />
+  <node id='7324020557' timestamp='2020-03-24T01:33:52Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8503872' lon='144.9776486' />
+  <node id='7324020558' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='4' changeset='116209290' lat='-37.8529031' lon='144.9785564' />
+  <node id='7324020560' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8498298' lon='144.9773045' />
+  <node id='7324020563' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8497086' lon='144.9771844' />
+  <node id='7324020564' timestamp='2020-03-24T01:33:52Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8502672' lon='144.97759' />
+  <node id='7324119619' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.839979' lon='144.9636816' />
+  <node id='7324119622' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8399218' lon='144.9636769' />
+  <node id='7324119625' timestamp='2020-03-23T23:47:00Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8419935' lon='144.9627818' />
+  <node id='7324119628' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290' lat='-37.8402332' lon='144.9636937' />
+  <node id='7324121785' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='111705443' lat='-37.8474332' lon='144.9660691' />
+  <node id='7324121786' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8460675' lon='144.9658102' />
+  <node id='7324121787' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8469099' lon='144.9662493' />
+  <node id='7324121788' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8502944' lon='144.9692806' />
+  <node id='7324121790' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8537297' lon='144.9754403' />
+  <node id='7324121791' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8527396' lon='144.9732671' />
+  <node id='7324121792' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8436579' lon='144.9630889' />
+  <node id='7324121795' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8537731' lon='144.9755041' />
+  <node id='7324121796' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8468153' lon='144.9662475' />
+  <node id='7324121797' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8520759' lon='144.9740288' />
+  <node id='7324121799' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8528346' lon='144.9730744' />
+  <node id='7324121801' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8423148' lon='144.962144' />
+  <node id='7324121803' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.852064' lon='144.9740632' />
+  <node id='7324121807' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8467073' lon='144.9662348' />
+  <node id='7324121808' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8522554' lon='144.9743662' />
+  <node id='7324121810' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8526416' lon='144.9746668' />
+  <node id='7324121814' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8422852' lon='144.962136' />
+  <node id='7324121815' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8526803' lon='144.9733395' />
+  <node id='7324121816' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8528089' lon='144.9731474' />
+  <node id='7324121819' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8521588' lon='144.9742877' />
+  <node id='7324121820' timestamp='2020-03-23T23:47:00Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8420687' lon='144.9624014' />
+  <node id='7324121821' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8527753' lon='144.9732192' />
+  <node id='7324121822' timestamp='2021-12-10T00:43:46Z' uid='13782447' user='MapAbility' visible='true' version='2' changeset='114764609' lat='-37.8486821' lon='144.9672526' />
+  <node id='7324121824' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8520983' lon='144.9782883' />
+  <node id='7324121827' timestamp='2021-12-10T02:30:35Z' uid='13782447' user='MapAbility' visible='true' version='2' changeset='114765722' lat='-37.8528805' lon='144.9727719' />
+  <node id='7324121828' timestamp='2020-03-23T23:47:00Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8422157' lon='144.9621392' />
+  <node id='7324121829' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8475507' lon='144.9660003' />
+  <node id='7324121832' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8539182' lon='144.9758595' />
+  <node id='7324121833' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8464217' lon='144.9661381' />
+  <node id='7324121839' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8421835' lon='144.9621521' />
+  <node id='7324121841' timestamp='2021-12-10T02:30:35Z' uid='13782447' user='MapAbility' visible='true' version='2' changeset='114765722' lat='-37.8526776' lon='144.9722765' />
+  <node id='7324121842' timestamp='2021-12-10T02:30:35Z' uid='13782447' user='MapAbility' visible='true' version='2' changeset='114765722' lat='-37.8527422' lon='144.97236' />
+  <node id='7324121843' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8465731' lon='144.9662084' />
+  <node id='7324121845' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8527333' lon='144.973087' />
+  <node id='7324121846' timestamp='2021-12-10T02:30:35Z' uid='13782447' user='MapAbility' visible='true' version='2' changeset='114765722' lat='-37.8525132' lon='144.9720668' />
+  <node id='7324121851' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8538213' lon='144.9755866' />
+  <node id='7324121852' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8536037' lon='144.9753324' />
+  <node id='7324121855' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8536672' lon='144.9753821' />
+  <node id='7324121858' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8476486' lon='144.9660004' />
+  <node id='7324121860' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8538812' lon='144.9757274' />
+  <node id='7324121862' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8433489' lon='144.96285' />
+  <node id='7324121863' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8538514' lon='144.9756529' />
+  <node id='7324121865' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8539028' lon='144.9757924' />
+  <node id='7324121866' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8447223' lon='144.9641173' />
+  <node id='7324121868' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8538822' lon='144.9762591' />
+  <node id='7324121873' timestamp='2021-12-10T02:30:35Z' uid='13782447' user='MapAbility' visible='true' version='2' changeset='114765722' lat='-37.8528787' lon='144.9728726' />
+  <node id='7324121874' timestamp='2020-03-23T23:47:00Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.842082' lon='144.9623188' />
+  <node id='7324121875' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8479674' lon='144.9663604' />
+  <node id='7324121876' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8441805' lon='144.9635636' />
+  <node id='7324121878' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8526204' lon='144.978468' />
+  <node id='7324121880' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8475972' lon='144.9659863' />
+  <node id='7324121888' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8421475' lon='144.9621762' />
+  <node id='7324121890' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8520931' lon='144.973998' />
+  <node id='7324121894' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8440361' lon='144.9634211' />
+  <node id='7324121895' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8527697' lon='144.9785149' />
+  <node id='7324121896' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8420988' lon='144.962254' />
+  <node id='7324121897' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8482003' lon='144.9666543' />
+  <node id='7324121900' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8519617' lon='144.9782373' />
+  <node id='7324121901' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8520606' lon='144.9741066' />
+  <node id='7324121902' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8476925' lon='144.9660339' />
+  <node id='7324121903' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.853907' lon='144.9761626' />
+  <node id='7324121908' timestamp='2021-12-10T02:30:35Z' uid='13782447' user='MapAbility' visible='true' version='2' changeset='114765722' lat='-37.8528684' lon='144.9726744' />
+  <node id='7324121909' timestamp='2021-12-10T02:30:35Z' uid='13782447' user='MapAbility' visible='true' version='2' changeset='114765722' lat='-37.8528431' lon='144.9725677' />
+  <node id='7324121910' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8463599' lon='144.9661007' />
+  <node id='7324121911' timestamp='2021-12-10T02:30:35Z' uid='13782447' user='MapAbility' visible='true' version='2' changeset='114765722' lat='-37.8527769' lon='144.9724103' />
+  <node id='7324121912' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8522752' lon='144.9783553' />
+  <node id='7324121913' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8520839' lon='144.9742035' />
+  <node id='7324121914' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8520666' lon='144.9741616' />
+  <node id='7324121916' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='111705443' lat='-37.847364' lon='144.9661127' />
+  <node id='7324121917' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8454687' lon='144.9650006' />
+  <node id='7324121919' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8474893' lon='144.9660332' />
+  <node id='7324121921' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8458711' lon='144.9655504' />
+  <node id='7324121922' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8461324' lon='144.9658877' />
+  <node id='7324121923' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8472178' lon='144.9661885' />
+  <node id='7324121924' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8438424' lon='144.9632444' />
+  <node id='7324121925' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8521395' lon='144.9739417' />
+  <node id='7324121926' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8421178' lon='144.9622111' />
+  <node id='7324121927' timestamp='2021-12-13T07:01:23Z' uid='13984067' user='Diacritic' visible='true' version='4' changeset='114869937' lat='-37.8534591' lon='144.9777645' />
+  <node id='7324121928' timestamp='2020-03-23T23:36:47Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8451404' lon='144.9645955' />
+  <node id='7324121929' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8539235' lon='144.9760124' />
+  <node id='7324121930' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8521125' lon='144.9742418' />
+  <node id='7324121931' timestamp='2020-03-23T23:47:00Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8420131' lon='144.9627283' />
+  <node id='7324121932' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8461872' lon='144.9659537' />
+  <node id='7324121934' timestamp='2020-03-23T23:47:00Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='82543806' lat='-37.8420363' lon='144.9626315' />
+  <node id='7324121935' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8539171' lon='144.9760908' />
+  <node id='7324121936' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8539235' lon='144.9759608' />
+  <node id='7324143936' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='4' changeset='116209290' lat='-37.8398208' lon='144.9637561' />
+  <node id='7324143937' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8381915' lon='144.9673807' />
+  <node id='7324143939' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8401939' lon='144.9636923' />
+  <node id='7324143941' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290' lat='-37.8386945' lon='144.9658797' />
+  <node id='7324143946' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290' lat='-37.8385284' lon='144.9693069' />
+  <node id='7324143948' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290' lat='-37.8383082' lon='144.968397' />
+  <node id='7324143949' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290' lat='-37.838448' lon='144.9687228' />
+  <node id='7324143953' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8479043' lon='144.9730204' />
+  <node id='7324143957' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8483042' lon='144.975203' />
+  <node id='7324143958' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8392328' lon='144.9710825' />
+  <node id='7324143961' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8451758' lon='144.970642' />
+  <node id='7324143962' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8473436' lon='144.972205' />
+  <node id='7324143963' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8448305' lon='144.9706084' />
+  <node id='7324143964' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8421034' lon='144.971564' />
+  <node id='7324143965' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8387758' lon='144.9704435' />
+  <node id='7324143966' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8396622' lon='144.9713769' />
+  <node id='7324143967' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8416359' lon='144.9717926' />
+  <node id='7324143968' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.84604' lon='144.970941' />
+  <node id='7324143969' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='111705443' lat='-37.8379966' lon='144.967789'>
+    <tag k='barrier' v='gate' />
+    <tag k='vehicle' v='no' />
+  </node>
+  <node id='7324143970' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8426113' lon='144.9711026' />
+  <node id='7324143971' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8422559' lon='144.9714265' />
+  <node id='7324143972' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290' lat='-37.8387363' lon='144.9658515' />
+  <node id='7324143973' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290' lat='-37.8389971' lon='144.9651233' />
+  <node id='7324143974' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='4' changeset='116209290' lat='-37.8397229' lon='144.9638617' />
+  <node id='7324143975' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290' lat='-37.8386778' lon='144.9659092' />
+  <node id='7324143982' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8471197' lon='144.9718871' />
+  <node id='7324143983' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8386857' lon='144.9702215' />
+  <node id='7324143984' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8447098' lon='144.9706051' />
+  <node id='7324195986' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8386397' lon='144.9700747' />
+  <node id='7324195987' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8475686' lon='144.9725356' />
+  <node id='7324195988' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='111705443' lat='-37.8394292' lon='144.9712434' />
+  <node id='7324195990' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8417434' lon='144.9717645' />
+  <node id='7324195994' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8414532' lon='144.971806' />
+  <node id='7324195996' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8450767' lon='144.9706272' />
+  <node id='7324195997' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8441607' lon='144.9706708' />
+  <node id='7324195998' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290' lat='-37.8386743' lon='144.9659246' />
+  <node id='7324195999' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8410618' lon='144.9717343' />
+  <node id='7324196000' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290' lat='-37.838744' lon='144.9657851' />
+  <node id='7324196002' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290' lat='-37.8387445' lon='144.9658133' />
+  <node id='7324196003' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290' lat='-37.8387932' lon='144.9656155' />
+  <node id='7324196004' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290' lat='-37.8387599' lon='144.9657134' />
+  <node id='7324196005' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290' lat='-37.8388933' lon='144.9653439' />
+  <node id='7324196007' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8402013' lon='144.9715405' />
+  <node id='7324196015' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8389886' lon='144.9708029' />
+  <node id='7324196018' timestamp='2021-08-04T06:49:33Z' uid='206929' user='Supt_of_Printing' visible='true' version='2' changeset='109127510' lat='-37.8379416' lon='144.9679104' />
+  <node id='7324196020' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8424927' lon='144.9711972' />
+  <node id='7324196022' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.84568' lon='144.9707787' />
+  <node id='7324196023' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8388684' lon='144.9706131' />
+  <node id='7324196025' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8453664' lon='144.9706822' />
+  <node id='7324196026' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8419403' lon='144.9716833' />
+  <node id='7324196028' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8428223' lon='144.9709957' />
+  <node id='7324196029' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.842747' lon='144.97103' />
+  <node id='7324196034' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8385793' lon='144.96984' />
+  <node id='7324196035' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8430158' lon='144.9709363' />
+  <node id='7324196038' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290' lat='-37.8391078' lon='144.9649228' />
+  <node id='7324196043' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8383327' lon='144.9670475' />
+  <node id='7324196044' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290' lat='-37.8384771' lon='144.9688281' />
+  <node id='7324196045' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8385576' lon='144.9696971' />
+  <node id='7324196046' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8433907' lon='144.9708512' />
+  <node id='7324196053' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8393249' lon='144.9711556' />
+  <node id='7324196055' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8384959' lon='144.9665581' />
+  <node id='7324196060' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8458854' lon='144.9708632' />
+  <node id='7324196061' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8420394' lon='144.971621' />
+  <node id='7324196062' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.845482' lon='144.970711' />
+  <node id='7324196063' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8398788' lon='144.9714594' />
+  <node id='7324196064' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8397565' lon='144.9714211' />
+  <node id='7324196065' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.839524' lon='144.9713018' />
+  <node id='7324196066' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290' lat='-37.8385189' lon='144.9691158' />
+  <node id='7324196067' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8443794' lon='144.9706299' />
+  <node id='7324196070' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8386089' lon='144.9699694' />
+  <node id='7324196071' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290' lat='-37.8396524' lon='144.9639696' />
+  <node id='7324196073' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.841539' lon='144.9718067' />
+  <node id='7324196074' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8385417' lon='144.9695583' />
+  <node id='7324196075' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8390951' lon='144.9709383' />
+  <node id='7324196077' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8445117' lon='144.9706145' />
+  <node id='7324196079' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8384491' lon='144.9667039' />
+  <node id='7324196081' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8463741' lon='144.9711562' />
+  <node id='7324196083' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8413314' lon='144.971796' />
+  <node id='7324196084' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8468618' lon='144.9715727' />
+  <node id='7324196087' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8423682' lon='144.9713125' />
+  <node id='7324196088' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290' lat='-37.83826' lon='144.9683218' />
+  <node id='7324196089' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290' lat='-37.8387101' lon='144.9658646' />
+  <node id='7324196090' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8383915' lon='144.9668796' />
+  <node id='7324196091' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.844292' lon='144.970644' />
+  <node id='7324196093' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.838502' lon='144.9689602' />
+  <node id='7324196094' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8423105' lon='144.9713695' />
+  <node id='7324196095' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8387313' lon='144.9703462' />
+  <node id='7324196097' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8418567' lon='144.9717229' />
+  <node id='7324196098' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290' lat='-37.8395719' lon='144.9641121' />
+  <node id='7324196100' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8465531' lon='144.971295' />
+  <node id='7324196104' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8466987' lon='144.9714225' />
+  <node id='7324196105' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8385348' lon='144.9694524' />
+  <node id='7324196106' timestamp='2020-03-24T00:30:44Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8382535' lon='144.9672389' />
+  <node id='7324196107' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.838225' lon='144.9682762' />
+  <node id='7324196108' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='111705443' lat='-37.8484251' lon='144.9753838' />
+  <node id='7324196114' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8412424' lon='144.9717745' />
+  <node id='7324196117' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8469884' lon='144.9717222' />
+  <node id='7324196118' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8462021' lon='144.9710362' />
+  <node id='7324272227' timestamp='2020-03-24T01:33:52Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8505422' lon='144.9777121' />
+  <node id='7324272228' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.848239' lon='144.9750944' />
+  <node id='7324272229' timestamp='2020-03-24T01:33:52Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8519342' lon='144.9713528' />
+  <node id='7324280595' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8418167' lon='144.9636726' />
+  <node id='7324280605' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8465349' lon='144.9661956' />
+  <node id='7324280615' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8470326' lon='144.9662392' />
+  <node id='7324280633' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8466207' lon='144.9662182' />
+  <node id='7324280645' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8460129' lon='144.9657387' />
+  <node id='7324280646' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8464806' lon='144.9661699' />
+  <node id='7324280650' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='4' changeset='111705443' lat='-37.8425756' lon='144.9623032'>
+    <tag k='crossing' v='zebra' />
+    <tag k='highway' v='crossing' />
+    <tag k='tactile_paving' v='no' />
+  </node>
+  <node id='7324280655' timestamp='2020-03-24T01:27:07Z' uid='206929' user='Supt_of_Printing' visible='true' version='1' changeset='82543806' lat='-37.8435626' lon='144.9630152' />
+  <node id='8017899862' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='5' changeset='116209290' lat='-37.8386603' lon='144.9659773'>
+    <tag k='crossing' v='unmarked' />
+    <tag k='crossing:island' v='no' />
+    <tag k='highway' v='crossing' />
+    <tag k='tactile_paving' v='no' />
+  </node>
+  <node id='8017899863' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.8388235' lon='144.9655315' />
+  <node id='8017899864' timestamp='2021-08-04T06:49:33Z' uid='206929' user='Supt_of_Printing' visible='true' version='4' changeset='109127510' lat='-37.8380353' lon='144.9677048'>
+    <tag k='crossing' v='unmarked' />
+    <tag k='highway' v='crossing' />
+    <tag k='tactile_paving' v='no' />
+  </node>
+  <node id='8384450000' timestamp='2021-02-01T16:12:54Z' uid='12095933' user='Mrbear1321' visible='true' version='1' changeset='98522628' lat='-37.851371' lon='144.970859' />
+  <node id='8586260428' timestamp='2021-11-07T12:03:57Z' uid='1434393' user='k_au' visible='true' version='2' changeset='113477031' lat='-37.8536492' lon='144.9770038'>
+    <tag k='crossing' v='unmarked' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='8586260429' timestamp='2021-11-07T12:03:57Z' uid='1434393' user='k_au' visible='true' version='3' changeset='113477031' lat='-37.8536398' lon='144.9770412' />
+  <node id='9063324195' timestamp='2021-09-05T01:54:51Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='110734649' lat='-37.8495092' lon='144.9769683' />
+  <node id='9063324196' timestamp='2021-09-05T01:54:51Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='110734649' lat='-37.8494253' lon='144.9768634' />
+  <node id='9063324197' timestamp='2021-09-05T01:54:51Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='110734649' lat='-37.8493688' lon='144.9767963'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='traffic_lights' />
+    <tag k='traffic_signals:direction' v='forward' />
+  </node>
+  <node id='9063324198' timestamp='2021-09-05T01:54:51Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='110734649' lat='-37.8496586' lon='144.9771303'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals:direction' v='backward' />
+  </node>
+  <node id='9106163390' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443' lat='-37.84543' lon='144.9649509' />
+  <node id='9123374385' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8419753' lon='144.962927'>
+    <tag k='access' v='no' />
+    <tag k='barrier' v='bollard' />
+  </node>
+  <node id='9123374386' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8500562' lon='144.9689843'>
+    <tag k='raceway' v='start-finish' />
+  </node>
+  <node id='9123374388' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8492699' lon='144.9681495' />
+  <node id='9123374389' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8489709' lon='144.9676309' />
+  <node id='9123374390' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8480859' lon='144.9665114' />
+  <node id='9123374391' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8478307' lon='144.9661861' />
+  <node id='9123374392' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8476236' lon='144.965988' />
+  <node id='9123374393' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8406772' lon='144.9636993' />
+  <node id='9123374394' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8408749' lon='144.9637122' />
+  <node id='9123374395' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8410305' lon='144.9637223' />
+  <node id='9123374396' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.841189' lon='144.9637327' />
+  <node id='9123374397' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8418739' lon='144.9635987' />
+  <node id='9123374398' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.8419289' lon='144.9633864' />
+  <node id='9123374404' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443' lat='-37.845563' lon='144.9707365' />
+  <node id='9123374408' timestamp='2021-12-13T07:01:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='114869937' lat='-37.8534223' lon='144.978206' />
+  <node id='9123374409' timestamp='2021-11-07T12:03:57Z' uid='1434393' user='k_au' visible='true' version='2' changeset='113477031' lat='-37.8535288' lon='144.9773952' />
+  <node id='9232875455' timestamp='2021-11-07T12:03:57Z' uid='1434393' user='k_au' visible='true' version='1' changeset='113477031' lat='-37.8425663' lon='144.9711385' />
+  <node id='9422334538' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8381969' lon='144.968242' />
+  <node id='9422334583' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8383712' lon='144.968519' />
+  <node id='9422334607' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8397636' lon='144.9638161' />
+  <node id='9422334716' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8384919' lon='144.9688992' />
+  <node id='9422334726' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8403563' lon='144.9636875' />
+  <node id='9422334730' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8386677' lon='144.9659501' />
+  <node id='9422334790' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8396771' lon='144.9639301' />
+  <node id='9422334800' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8383913' lon='144.9685619' />
+  <node id='9422334943' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8384088' lon='144.9686035' />
+  <node id='9422335175' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8384273' lon='144.9686558' />
+  <node id='9422335196' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8386857' lon='144.9658938' />
+  <node id='9422335263' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8383484' lon='144.9684707' />
+  <node id='9422335322' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8389479' lon='144.9652259' />
+  <node id='9422335414' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8382891' lon='144.9683674' />
+  <node id='9422335547' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8383288' lon='144.9684318' />
+  <node id='9422335583' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290' lat='-37.8384612' lon='144.9687711' />
+  <way id='15856988' timestamp='2021-12-20T05:07:43Z' uid='13984067' user='Diacritic' visible='true' version='18' changeset='115147324'>
+    <nd ref='7324196093' />
+    <nd ref='7324196066' />
+    <nd ref='7324143946' />
+    <nd ref='7324196105' />
+    <nd ref='7324196074' />
+    <nd ref='7324196045' />
+    <nd ref='7324196034' />
+    <nd ref='7324196070' />
+    <nd ref='7324195986' />
+    <nd ref='7324143983' />
+    <nd ref='7324196095' />
+    <nd ref='7324143965' />
+    <nd ref='7324196023' />
+    <nd ref='7324196015' />
+    <nd ref='7324196075' />
+    <nd ref='7324143958' />
+    <nd ref='7324196053' />
+    <nd ref='7324195988' />
+    <nd ref='7324196065' />
+    <nd ref='7324143966' />
+    <nd ref='7324196064' />
+    <nd ref='7324196063' />
+    <nd ref='7324196007' />
+    <nd ref='7324195999' />
+    <nd ref='7324196114' />
+    <nd ref='7324196083' />
+    <nd ref='7324195994' />
+    <nd ref='7324196073' />
+    <nd ref='7324143967' />
+    <nd ref='7324195990' />
+    <nd ref='7324196097' />
+    <nd ref='7324196026' />
+    <nd ref='7324196061' />
+    <nd ref='7324143964' />
+    <nd ref='7324143971' />
+    <nd ref='7324196094' />
+    <nd ref='7324196087' />
+    <nd ref='7324196020' />
+    <nd ref='9232875455' />
+    <nd ref='7324143970' />
+    <nd ref='7324196029' />
+    <nd ref='7324196028' />
+    <nd ref='7324196035' />
+    <nd ref='7324196046' />
+    <nd ref='7324195997' />
+    <nd ref='7324196091' />
+    <nd ref='7324196067' />
+    <nd ref='7324196077' />
+    <nd ref='7324143984' />
+    <nd ref='7324143963' />
+    <nd ref='7324195996' />
+    <nd ref='7324143961' />
+    <nd ref='7324196025' />
+    <nd ref='7324196062' />
+    <nd ref='9123374404' />
+    <nd ref='7324196022' />
+    <nd ref='7324196060' />
+    <nd ref='7324143968' />
+    <nd ref='7324196118' />
+    <nd ref='7324196081' />
+    <nd ref='7324196100' />
+    <nd ref='7324196104' />
+    <nd ref='7324196084' />
+    <nd ref='7324196117' />
+    <nd ref='7324143982' />
+    <nd ref='7324143962' />
+    <nd ref='7324195987' />
+    <nd ref='7324143953' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Lakeside Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='paved' />
+    <tag k='traffic_calming' v='painted_island' />
+  </way>
+  <way id='28119448' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='13' changeset='111705443'>
+    <nd ref='308865601' />
+    <nd ref='308865602' />
+    <nd ref='1667067113' />
+    <nd ref='308865603' />
+    <nd ref='1667067111' />
+    <nd ref='308865604' />
+    <nd ref='308865605' />
+    <nd ref='1667067092' />
+    <nd ref='1667067089' />
+    <nd ref='520236491' />
+    <nd ref='8384450000' />
+    <nd ref='308865608' />
+    <nd ref='5021511087' />
+    <nd ref='308865609' />
+    <nd ref='1667067064' />
+    <nd ref='308865610' />
+    <tag k='access' v='private' />
+    <tag k='disused' v='yes' />
+    <tag k='highway' v='raceway' />
+    <tag k='noname' v='yes' />
+    <tag k='oneway' v='yes' />
+    <tag k='source:name' v='services.land.vic.gov.au' />
+    <tag k='sport' v='motor' />
+    <tag k='surface' v='asphalt' />
+    <tag k='vehicle' v='private' />
+  </way>
+  <way id='784071296' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='7' changeset='111705443'>
+    <nd ref='3345157665' />
+    <nd ref='3345158095' />
+    <nd ref='577436014' />
+    <nd ref='3345157677' />
+    <nd ref='9063324197' />
+    <nd ref='9063324196' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='cycleway' v='lane' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Lakeside Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='784076839' timestamp='2021-12-11T22:13:38Z' uid='13782447' user='MapAbility' visible='true' version='4' changeset='114832129'>
+    <nd ref='7324121923' />
+    <nd ref='7324002868' />
+    <nd ref='7324280615' />
+    <nd ref='7324121787' />
+    <nd ref='7324121796' />
+    <nd ref='7324121807' />
+    <nd ref='7324280633' />
+    <nd ref='7324121843' />
+    <nd ref='7324280605' />
+    <nd ref='7324280646' />
+    <nd ref='7324121833' />
+    <nd ref='7324121910' />
+    <nd ref='7324002880' />
+    <nd ref='7324121932' />
+    <nd ref='7324121922' />
+    <nd ref='7324121786' />
+    <nd ref='7324280645' />
+    <nd ref='7324121921' />
+    <nd ref='7324121917' />
+    <nd ref='9106163390' />
+    <nd ref='7324121928' />
+    <nd ref='7324121866' />
+    <nd ref='7324121876' />
+    <nd ref='7324121894' />
+    <nd ref='7324121924' />
+    <nd ref='7324121792' />
+    <nd ref='7324280655' />
+    <nd ref='7324121862' />
+    <nd ref='7324280650' />
+    <nd ref='7324121801' />
+    <nd ref='7324121814' />
+    <nd ref='7324002877' />
+    <nd ref='7324121828' />
+    <nd ref='7324121839' />
+    <nd ref='7324121888' />
+    <nd ref='7324121926' />
+    <nd ref='7324121896' />
+    <nd ref='7324121874' />
+    <nd ref='7324121820' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Aughtie Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='784076843' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443'>
+    <nd ref='7324121875' />
+    <nd ref='9123374391' />
+    <nd ref='7324121902' />
+    <nd ref='7324121858' />
+    <nd ref='9123374392' />
+    <nd ref='7324121880' />
+    <nd ref='7324002871' />
+    <nd ref='7324121829' />
+    <nd ref='7324121919' />
+    <nd ref='7324121785' />
+    <nd ref='7324121916' />
+    <nd ref='7324121923' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Aughtie Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='traffic_calming' v='painted_island' />
+  </way>
+  <way id='784076847' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='5' changeset='111705443'>
+    <nd ref='159360050' />
+    <nd ref='7324121815' />
+    <nd ref='7324121791' />
+    <nd ref='7324121821' />
+    <nd ref='7324121816' />
+    <nd ref='7324121799' />
+    <nd ref='7324002875' />
+    <nd ref='7324121873' />
+    <nd ref='7324121827' />
+    <nd ref='7324121908' />
+    <nd ref='7324121909' />
+    <nd ref='7324002873' />
+    <nd ref='7324121911' />
+    <nd ref='7324121842' />
+    <nd ref='7324121841' />
+    <nd ref='7324121846' />
+    <nd ref='7324272229' />
+    <nd ref='7324121788' />
+    <nd ref='9123374386' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Aughtie Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+  </way>
+  <way id='784083210' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='7' changeset='116209290'>
+    <nd ref='159355126' />
+    <nd ref='7324143936' />
+    <nd ref='9422334607' />
+    <nd ref='7324143974' />
+    <nd ref='9422334790' />
+    <nd ref='7324196071' />
+    <nd ref='7324196098' />
+    <nd ref='7324196038' />
+    <nd ref='7324143973' />
+    <nd ref='9422335322' />
+    <nd ref='7324196005' />
+    <nd ref='8017899863' />
+    <nd ref='7324196003' />
+    <nd ref='7324196004' />
+    <nd ref='7324196000' />
+    <nd ref='7324196002' />
+    <nd ref='7324143972' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='highway' v='unclassified' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Albert Road Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='784087846' timestamp='2021-12-20T05:07:43Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='115147324'>
+    <nd ref='159360004' />
+    <nd ref='9123374398' />
+    <nd ref='9123374397' />
+    <nd ref='7324280595' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='dismantled:highway' v='raceway' />
+    <tag k='highway' v='service' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='service' v='parking_aisle' />
+  </way>
+  <way id='979723477' timestamp='2021-12-20T05:07:43Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='115147324'>
+    <nd ref='9063324195' />
+    <nd ref='7324020551' />
+    <nd ref='7324020541' />
+    <nd ref='9063324198' />
+    <nd ref='7324020563' />
+    <nd ref='7324020542' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='tertiary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Lakeside Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='979723478' timestamp='2021-12-20T05:07:43Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='115147324'>
+    <nd ref='7324020542' />
+    <nd ref='7324020560' />
+    <nd ref='7324020544' />
+    <nd ref='7324020546' />
+    <nd ref='7324020564' />
+    <nd ref='7324020557' />
+    <nd ref='7324272227' />
+    <nd ref='7324020550' />
+    <nd ref='1668416901' />
+    <nd ref='7324020556' />
+    <nd ref='7324020547' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='tertiary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Lakeside Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='979723479' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='111705443'>
+    <nd ref='9063324196' />
+    <nd ref='9063324195' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Lakeside Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='979723480' timestamp='2021-12-20T05:07:43Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='115147324'>
+    <nd ref='7324143953' />
+    <nd ref='1667340778' />
+    <nd ref='1667340788' />
+    <nd ref='1667340794' />
+    <nd ref='1667340799' />
+    <nd ref='1667340805' />
+    <nd ref='1667340807' />
+    <nd ref='1667340809' />
+    <nd ref='1667340811' />
+    <nd ref='1667340803' />
+    <nd ref='1667340790' />
+    <nd ref='1667340774' />
+    <nd ref='1667340770' />
+    <nd ref='1667340768' />
+    <nd ref='1667340772' />
+    <nd ref='1667340776' />
+    <nd ref='1667340779' />
+    <nd ref='1667340786' />
+    <nd ref='7324272228' />
+    <tag k='dismantled' v='yes' />
+    <tag k='dismantled:highway' v='raceway' />
+    <tag k='dismantled:sport' v='motor' />
+    <tag k='highway' v='dismantled' />
+    <tag k='name' v='Albert Park Circuit' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='987030963' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443'>
+    <nd ref='9123374386' />
+    <nd ref='1667233268' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Aughtie Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+  </way>
+  <way id='987030964' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443'>
+    <nd ref='1667233268' />
+    <nd ref='9123374389' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Aughtie Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+  </way>
+  <way id='987030965' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443'>
+    <nd ref='7324121925' />
+    <nd ref='159360050' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Aughtie Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+  </way>
+  <way id='987030966' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290'>
+    <nd ref='159359997' />
+    <nd ref='7324119628' />
+    <nd ref='7324143939' />
+    <nd ref='7324119619' />
+    <nd ref='7324119622' />
+    <nd ref='159355126' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:forward' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Aughtie Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes:forward' v='none|right' />
+  </way>
+  <way id='987030968' timestamp='2021-12-20T05:07:43Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='115147324'>
+    <nd ref='7324272228' />
+    <nd ref='7324143957' />
+    <nd ref='7324196108' />
+    <nd ref='3345157665' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Lakeside Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='paved' />
+    <tag k='traffic_calming' v='painted_island' />
+  </way>
+  <way id='987030969' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443'>
+    <nd ref='7324121820' />
+    <nd ref='572162926' />
+    <nd ref='7324121934' />
+    <nd ref='7324121931' />
+    <nd ref='7324119625' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Aughtie Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='987030972' timestamp='2021-11-07T12:03:57Z' uid='1434393' user='k_au' visible='true' version='2' changeset='113477031'>
+    <nd ref='7318990955' />
+    <nd ref='1791373432' />
+    <nd ref='7324020558' />
+    <nd ref='7324121895' />
+    <nd ref='7324121878' />
+    <nd ref='7324121912' />
+    <nd ref='7324121824' />
+    <nd ref='7324121900' />
+    <nd ref='7324020547' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Lakeside Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='987030973' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443'>
+    <nd ref='7324121819' />
+    <nd ref='7324121930' />
+    <nd ref='7324121913' />
+    <nd ref='7324121914' />
+    <nd ref='7324121901' />
+    <nd ref='7324121803' />
+    <nd ref='7324121797' />
+    <nd ref='7324121890' />
+    <nd ref='7324121925' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Aughtie Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='traffic_calming' v='painted_island' />
+  </way>
+  <way id='987030974' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443'>
+    <nd ref='159365365' />
+    <nd ref='7324121832' />
+    <nd ref='7324121865' />
+    <nd ref='7324121860' />
+    <nd ref='7324121863' />
+    <nd ref='7324121851' />
+    <nd ref='7324121795' />
+    <nd ref='7324121790' />
+    <nd ref='7324121855' />
+    <nd ref='7324121852' />
+    <nd ref='7324121810' />
+    <nd ref='7324121808' />
+    <nd ref='7324121819' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Aughtie Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+  </way>
+  <way id='987030975' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443'>
+    <nd ref='159360050' />
+    <nd ref='1667067094' />
+    <nd ref='1667067100' />
+    <nd ref='1667067106' />
+    <nd ref='7324121845' />
+    <nd ref='308865601' />
+    <tag k='access' v='private' />
+    <tag k='disused' v='yes' />
+    <tag k='highway' v='raceway' />
+    <tag k='noname' v='yes' />
+    <tag k='oneway' v='yes' />
+    <tag k='source:name' v='services.land.vic.gov.au' />
+    <tag k='sport' v='motor' />
+    <tag k='surface' v='asphalt' />
+    <tag k='vehicle' v='permissive' />
+  </way>
+  <way id='987030976' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443'>
+    <nd ref='308865610' />
+    <nd ref='9123374388' />
+    <nd ref='1667233268' />
+    <tag k='access' v='private' />
+    <tag k='disused' v='yes' />
+    <tag k='highway' v='raceway' />
+    <tag k='noname' v='yes' />
+    <tag k='oneway' v='yes' />
+    <tag k='source:name' v='services.land.vic.gov.au' />
+    <tag k='sport' v='motor' />
+    <tag k='surface' v='asphalt' />
+    <tag k='vehicle' v='permissive' />
+  </way>
+  <way id='987030977' timestamp='2021-09-26T02:27:24Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='111705443'>
+    <nd ref='9123374389' />
+    <nd ref='7324121822' />
+    <nd ref='7324002878' />
+    <nd ref='7324121897' />
+    <nd ref='9123374390' />
+    <nd ref='7324121875' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Aughtie Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='parking:lane:right' v='diagonal' />
+  </way>
+  <way id='987030978' timestamp='2021-12-20T05:07:43Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='115147324'>
+    <nd ref='7324119625' />
+    <nd ref='9123374385' />
+    <nd ref='159360004' />
+    <tag k='dismantled:highway' v='raceway' />
+    <tag k='dismantled:sport' v='motor' />
+    <tag k='highway' v='dismantled' />
+    <tag k='name' v='Albert Park Circuit' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='987030979' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290'>
+    <nd ref='7324280595' />
+    <nd ref='520248865' />
+    <nd ref='1667233241' />
+    <nd ref='1667233233' />
+    <nd ref='520248863' />
+    <nd ref='1668477759' />
+    <nd ref='1667233229' />
+    <nd ref='9123374396' />
+    <nd ref='1667561551' />
+    <nd ref='9123374395' />
+    <nd ref='9123374394' />
+    <nd ref='9123374393' />
+    <nd ref='520248859' />
+    <nd ref='9422334726' />
+    <tag k='dismantled:highway' v='raceway' />
+    <tag k='dismantled:sport' v='motor' />
+    <tag k='highway' v='dismantled' />
+    <tag k='name' v='Albert Park Circuit' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='987030982' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='3' changeset='116209290'>
+    <nd ref='7324143972' />
+    <nd ref='7324196089' />
+    <nd ref='7324143941' />
+    <nd ref='9422335196' />
+    <nd ref='7324143975' />
+    <nd ref='7324195998' />
+    <nd ref='9422334730' />
+    <nd ref='8017899862' />
+    <nd ref='7324196055' />
+    <nd ref='7324196079' />
+    <nd ref='7324196090' />
+    <nd ref='7324196043' />
+    <nd ref='7324196106' />
+    <nd ref='7324143937' />
+    <nd ref='8017899864' />
+    <nd ref='7324143969' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='highway' v='service' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Albert Road Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='parking:lane:right' v='perpendicular' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='987030985' timestamp='2021-11-07T12:03:57Z' uid='1434393' user='k_au' visible='true' version='2' changeset='113477031'>
+    <nd ref='7318990955' />
+    <nd ref='9123374408' />
+    <nd ref='7324121927' />
+    <nd ref='9123374409' />
+    <nd ref='8586260429' />
+    <nd ref='8586260428' />
+    <nd ref='7324121868' />
+    <nd ref='7324121903' />
+    <nd ref='7324121935' />
+    <nd ref='7324121929' />
+    <nd ref='7324121936' />
+    <nd ref='159365365' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Ross Gregory Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='source:name' v='services.land.vic.gov.au' />
+  </way>
+  <way id='1013633268' timestamp='2021-12-20T05:07:43Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='115147324'>
+    <nd ref='7324143969' />
+    <nd ref='7324196018' />
+    <nd ref='159337120' />
+    <tag k='access' v='no' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='bicycle' v='yes' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='dismantled:highway' v='raceway' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='service' />
+    <tag k='name' v='Albert Road Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='parking:lane:right' v='perpendicular' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='1013633269' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='2' changeset='116209290'>
+    <nd ref='159337120' />
+    <nd ref='1667335696' />
+    <nd ref='159337122' />
+    <nd ref='1667335699' />
+    <nd ref='1667335700' />
+    <nd ref='9422334538' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:backward' v='3' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Lakeside Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='placement:forward' v='right_of:2' />
+    <tag k='surface' v='paved' />
+    <tag k='traffic_calming' v='painted_island' />
+    <tag k='turn:lanes:backward' v='left|left|right' />
+  </way>
+  <way id='1021617874' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290'>
+    <nd ref='7324143948' />
+    <nd ref='9422335547' />
+    <nd ref='9422335263' />
+    <nd ref='9422334583' />
+    <nd ref='9422334800' />
+    <nd ref='9422334943' />
+    <nd ref='9422335175' />
+    <nd ref='7324143949' />
+    <nd ref='9422335583' />
+    <nd ref='7324196044' />
+    <nd ref='9422334716' />
+    <nd ref='7324196093' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:forward' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Lakeside Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='placement:forward' v='right_of:2' />
+    <tag k='surface' v='paved' />
+    <tag k='traffic_calming' v='painted_island' />
+  </way>
+  <way id='1021617920' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='1' changeset='116209290'>
+    <nd ref='9422334538' />
+    <nd ref='7324196107' />
+    <nd ref='7324196088' />
+    <nd ref='9422335414' />
+    <nd ref='7324143948' />
+    <tag k='alt_name' v='Albert Park Circuit' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Lakeside Drive' />
+    <tag k='note' v='Albert Park Circuit is not a permanent Raceway.' />
+    <tag k='surface' v='paved' />
+    <tag k='traffic_calming' v='painted_island' />
+  </way>
+  <relation id='280443' timestamp='2022-01-16T11:05:23Z' uid='13984067' user='Diacritic' visible='true' version='43' changeset='116209290'>
+    <member type='way' ref='987030975' role='pit_lane' />
+    <member type='way' ref='28119448' role='pit_lane' />
+    <member type='way' ref='987030976' role='pit_lane' />
+    <member type='node' ref='9123374386' role='start' />
+    <member type='way' ref='987030963' role='forward' />
+    <member type='way' ref='987030964' role='forward' />
+    <member type='way' ref='987030977' role='forward' />
+    <member type='way' ref='784076843' role='forward' />
+    <member type='way' ref='784076839' role='forward' />
+    <member type='way' ref='987030969' role='forward' />
+    <member type='way' ref='987030978' role='forward' />
+    <member type='way' ref='784087846' role='forward' />
+    <member type='way' ref='987030979' role='forward' />
+    <member type='way' ref='987030966' role='forward' />
+    <member type='way' ref='784083210' role='forward' />
+    <member type='way' ref='987030982' role='forward' />
+    <member type='way' ref='1013633268' role='forward' />
+    <member type='way' ref='1013633269' role='forward' />
+    <member type='way' ref='1021617920' role='forward' />
+    <member type='way' ref='1021617874' role='forward' />
+    <member type='way' ref='15856988' role='forward' />
+    <member type='way' ref='979723480' role='forward' />
+    <member type='way' ref='987030968' role='forward' />
+    <member type='way' ref='784071296' role='forward' />
+    <member type='way' ref='979723479' role='forward' />
+    <member type='way' ref='979723477' role='forward' />
+    <member type='way' ref='979723478' role='forward' />
+    <member type='way' ref='987030972' role='forward' />
+    <member type='way' ref='987030985' role='forward' />
+    <member type='way' ref='987030974' role='forward' />
+    <member type='way' ref='987030973' role='forward' />
+    <member type='way' ref='987030965' role='forward' />
+    <member type='way' ref='784076847' role='forward' />
+    <tag k='disused' v='yes' />
+    <tag k='name' v='Albert Park Circuit' />
+    <tag k='type' v='circuit' />
+    <tag k='wikidata' v='Q171288' />
+    <tag k='wikipedia' v='en:Albert Park Circuit' />
+  </relation>
+</osm>
